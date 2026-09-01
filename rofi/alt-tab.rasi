@@ -1,0 +1,181 @@
+/*****----- Global Properties -----*****/
+* {
+    /* Catppuccin Mocha Palette */
+    bg:          #1e1e2e;
+    bg-alt:      #313244;
+    fg:          #cdd6f4;
+    white:       #ffffff;
+    accent:      #89b4fa;
+
+    background-color: transparent;
+    text-color: @fg;
+}
+
+
+/*****----- Configuration -----*****/
+configuration {
+    modi:                       "window";
+    show-icons:                 true;
+
+    display-window:             "  ";
+
+    window-format:              "{w}   {c} — {t}";
+
+    font:                       "JetBrains Mono Nerd Font 11";
+
+    matching:                   "fuzzy";
+    sort:                       true;
+    case-sensitive:             false;
+}
+
+
+/*****----- Main Window -----*****/
+window {
+    transparency:               "real";
+
+    location:                   north;
+    anchor:                     north;
+
+    width:                      700px;
+    y-offset:                   25%;
+
+    enabled:                    true;
+
+    border:                     1px;
+    border-radius:              0px;
+    border-color:               @bg-alt;
+
+    background-color:           @bg;
+}
+
+
+/*****----- Main Box -----*****/
+mainbox {
+    enabled:                    true;
+
+    spacing:                    0px;
+
+    children:                   [
+        "inputbar",
+        "listview"
+    ];
+}
+
+
+/*****----- Inputbar -----*****/
+inputbar {
+    enabled:                    true;
+
+    padding:                    25px;
+
+    border:                     0px 0px 1px 0px;
+    border-color:               @bg-alt;
+
+    children:                   [
+        "prompt",
+        "entry"
+    ];
+}
+
+
+prompt {
+    enabled:                    true;
+
+    text-color:                 @accent;
+
+    font:                       "JetBrains Mono Nerd Font 20";
+}
+
+
+entry {
+    enabled:                    true;
+
+    placeholder:                "Switch Window...";
+    placeholder-color:          #6c7086;
+
+    text-color:                 @white;
+
+    font:                       "JetBrains Mono Nerd Font 20";
+}
+
+
+/*****----- Listview -----*****/
+listview {
+    enabled:                    true;
+
+    columns:                    1;
+    lines:                      8;
+
+    cycle:                      true;
+    dynamic:                    true;
+
+    scrollbar:                  false;
+
+    layout:                     vertical;
+
+    spacing:                    5px;
+
+    margin:                     10px 20px;
+
+    background-color:            transparent;
+}
+
+
+/*****----- Elements -----*****/
+element {
+    enabled:                    true;
+
+    orientation:                horizontal;
+
+    spacing:                    15px;
+
+    padding:                    10px;
+
+    border-radius:              10px;
+
+    cursor:                      pointer;
+}
+
+
+element normal.normal,
+element alternate.normal {
+    background-color:            transparent;
+    text-color:                  @fg;
+}
+
+
+element selected.normal {
+    background-color:            @bg-alt;
+    text-color:                  @accent;
+}
+
+
+/*****----- Application Icons -----*****/
+element-icon {
+    enabled:                    true;
+
+    background-color:            transparent;
+
+    size:                       32px;
+
+    vertical-align:              0.5;
+}
+
+
+element-icon missing {
+    enabled:                    false;
+}
+
+
+/*****----- Window Text -----*****/
+element-text {
+    background-color:            transparent;
+
+    text-color:                  inherit;
+
+    font:                        "JetBrains Mono Nerd Font 12";
+
+    vertical-align:              0.5;
+
+    horizontal-align:            0.0;
+}
