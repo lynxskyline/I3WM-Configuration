@@ -1,0 +1,1283 @@
+.toolbarbutton-icon, .toolbarbutton-badge-stack {
+    background-color: var(--transparent-color) !important;
+    fill: var(--icons-burger-menu-fill-color)
+}
+#forward-button[open='true']{
+    background: var(--toolbarbutton-active-background) !important;
+}
+#back-button[open] > .toolbarbutton-icon{
+  height: 34px !important;
+}
+.toolbarbutton-1[open='true']{
+    background: var(--toolbarbutton-active-background) !important;
+}
+.bookmark-item .toolbarbutton-icon {
+    border-radius:var(--icon-border-rounding) !important;
+}
+
+toolbarbutton:not(#back-button)[open], .toolbarbutton-1:not(#back-button)[open] {
+    background-color: var(--toolbarbutton-active-background) !important;
+}
+#nav-bar .toolbarbutton-1 {
+    margin-right: 2px !important;
+}
+toolbarbutton:not(#back-button):not(#forward-button):not([disabled]):not([open]):hover,
+.toolbarbutton-1:not(#back-button):not(#forward-button):not([disabled]):not([open]):hover {
+    border-radius: var(--button-corner-rounding) !important;
+    background-color: var(--toolbarbutton-hover-background) !important;
+    transition: all var(--animation-speed) !important;
+}
+.tab-close-button {
+    transition: fill-opacity var(--animation-speed) !important;
+}
+.findbar-textbox:focus {
+    border: 1px solid grey !important;
+}
+
+#BMB_bookmarksShowAll {
+    display: none !important;
+}
+.titlebar-button{
+    border-radius: var(--button-corner-rounding) !important;
+    transition: all var(--hovering-speed) !important;
+}
+toolbarbutton.bookmark-item[dragover="true"][open="true"]{
+    background:var(--toolbarbutton-dragover) !important;
+    color:white !important;
+}
+toolbarbutton.bookmark-item{
+    fill:var(--toolbar-color) !important;
+}
+.menu-iconic-icon{
+    border-radius: 0px !important;
+}
+/* touch and normal density buttons */
+
+:root:not([uidensity="compact"]) #back-button > .toolbarbutton-icon {
+    background-color: var(--transparent-color) !important;
+    border-color: var(--toolbarbutton-hover-background) !important;
+    border-radius: var(--button-corner-rounding) !important;
+    width:38px !important;
+    transition: background-color var(--animation-speed) !important;
+}
+
+:root:not([uidensity="compact"]) #back-button:not([disabled]):not([open]):hover > .toolbarbutton-icon {
+    background-color: var(--toolbarbutton-hover-background) !important;
+    box-shadow: none !important;
+    height: 34px !important;
+}
+:root:not([uidensity="compact"]) #forward-button:not([disabled]):not([open]):hover > .toolbarbutton-icon{
+    background-color: var(--toolbarbutton-hover-background) !important;
+    box-shadow: none !important;
+    height: 32px !important;
+    transform: scale(1.1) !important;
+    border-radius: 6px !important;
+}
+
+:root:not([uidensity="compact"]) #back-button:not([disabled]):not([open]):active > .toolbarbutton-icon {
+    background-color: var(--toolbarbutton-active-background) !important;
+    box-shadow: none !important;
+}
+
+:root:not([uidensity="compact"]) toolbarbutton:not(#back-button):not([disabled]):not([open]):active,
+.toolbarbutton-1:not(#back-button):not([disabled]):not([open]):active {
+    background-color: var(--toolbarbutton-active-background) !important;
+}
+:root:not([uidensity="touch"]):not([uidensity="compact"]) #forward-button-button{
+    margin-top: -1px !important;
+  margin-bottom: -1px !important;
+}
+
+
+:root:not([uidensity="compact"]) #back-button[open] > .toolbarbutton-icon {
+    background-color: var(--toolbarbutton-active-background) !important;
+}
+
+:root:not([uidensity="compact"]) #PersonalToolbar { /* bookmark bar */
+    height: 30px !important; 
+}
+/* normal density buttons */
+
+:root:not([uidensity="touch"]):not([uidensity="compact"]) #nav-bar .toolbarbutton-1:not(#back-button)  {
+    margin-top: 4px !important;
+    margin-bottom: 4px !important;
+    margin-left: 0px !important;
+    margin-right: 0px !important;
+    padding-left: 3px !important;
+    padding-right: 3px !important;
+}
+:root:not([uidensity="touch"]):not([uidensity="compact"]) #nav-bar .toolbarbutton-1:is(#back-button){
+    margin-top: 4px !important;
+    margin-bottom: 4px !important;
+    margin-left: 4px !important;
+    margin-right: 0px !important;
+    padding-left: 0px !important;
+    padding-right: 0px !important;
+}
+
+:root:not([uidensity="touch"]):not([uidensity="compact"]) #nav-bar .toolbarbutton-1:not(#back-button) image  {
+    margin-bottom: 1px !important;
+}
+
+:root:not([uidensity="touch"]):not([uidensity="compact"]) #back-button {
+    margin-top: -1px !important;
+    margin-bottom: -1px !important;
+}
+:root:not([uidensity="touch"]):not([uidensity="compact"]) #identity-icon, 
+:root:not([uidensity="touch"]):not([uidensity="compact"]) #tracking-protection-icon-box {
+    margin-left: 2px !important;
+    margin-right: 2px !important;
+    transition: all var(--hovering-speed) !important;
+}
+
+:root:not([uidensity="touch"]):not([uidensity="compact"]) #urlbar {
+    height: 36px !important;
+    margin-top: 0px !important;
+    margin-bottom: 0px !important;
+    padding-top: 0px !important;
+    padding-bottom: 0px !important;
+}
+
+
+:root:not([uidensity="touch"]):not([uidensity="compact"]) .urlbar-icon:not(#pocket-button):not(.urlbar-go-button) {
+    width:   34px !important;
+    padding:  8px !important;
+    height:   initial !important;
+}
+.urlbar-go-button {
+    width:   34px !important;
+    height: 22px !important;
+    padding-right:  8px !important;
+}
+
+
+
+:root:not([uidensity="touch"]):not([uidensity="compact"]) #pocket-button {
+    width: 32px !important;
+    height: 36px !important;
+    padding: 8px 8px 6px 8px !important;
+}
+
+:root:not([uidensity="touch"]):not([uidensity="compact"]) #contextual-feature-recommendation {
+    width: 32px !important;
+    height: 32px !important;
+    padding: 2px !important;
+}
+
+:root:not([uidensity="touch"]):not([uidensity="compact"]) #PanelUI-button {
+    padding-right: 5px !important;
+    padding-left: 5px !important;
+    margin-left: 5px !important;
+}
+
+:root:not([uidensity="touch"]):not([uidensity="compact"]) #library-animatable-box {
+    margin-top: 4px !important;
+}
+
+:root:not([uidensity="touch"]):not([uidensity="compact"]) #tabs-newtab-button {
+    margin-left: -5px !important;
+    padding-left: 2px !important;
+    margin-bottom: 1px !important;
+    padding-bottom: 1px !important;
+}
+
+:root:not([uidensity="touch"]):not([uidensity="compact"]) #PersonalToolbar {
+    margin-top: -2px !important;
+}
+
+:root[uidensity="compact"] #nav-bar .toolbarbutton-1  {
+    margin-top: 4px !important;
+    margin-bottom: 4px !important;
+    padding: 0px 0px 0px 0px !important;
+}
+
+
+
+
+:root[uidensity="compact"] #nav-bar toolbaritem[animate] box {
+    margin-top: 1px !important;
+}
+
+:root[uidensity="compact"] #back-button {
+    margin-left: 3px !important;
+}
+
+:root[uidensity="compact"] #back-button[open] {
+    background-color: var(--toolbarbutton-active-background) !important; 
+}
+
+
+:root[uidensity="compact"] #back-button:not([disabled]):not([open]):hover {
+    background-color: var(--toolbarbutton-hover-background) !important;
+}
+:root[uidensity="compact"] #back-button:not([disabled]):not([open]):active {
+    background-color: var(--toolbarbutton-active-background) !important;
+}
+
+:root[uidensity="compact"] #identity-box,
+:root[uidensity="compact"] #tracking-protection-icon-container {
+    min-width: 2px !important;
+    padding-left: 6px !important;
+    padding-right: 6px !important;
+}
+
+
+:root[uidensity="compact"] #urlbar {
+    height: 30px !important;
+    margin-top: 0px !important;
+    margin-bottom: 0px !important;
+    padding-bottom: 0px !important;
+}
+
+
+
+:root[uidensity="compact"] .urlbar-icon:not(#pocket-button) {
+    width: 28px !important;
+    height: 30px !important;
+    padding: 6px !important;
+}
+
+:root[uidensity="compact"] #pocket-button {
+    width: 28px !important;
+    height: 40px !important;
+    padding: 7px 6px 5px 6px !important;
+}
+
+:root[uidensity="compact"] #contextual-feature-recommendation {
+    width: 32px !important;
+    height: 32px !important;
+    padding: 2px !important;
+}
+
+:root[uidensity="compact"] #PersonalToolbar {
+   height: 25px !important;
+    margin-top: -3px !important;
+}
+
+:root[uidensity="compact"] #library-animatable-box {
+    margin-top: 5px !important;
+}
+
+:root[uidensity="compact"] #tabs-newtab-button {
+    margin-left: -5px !important;
+    margin-bottom: 1px !important;
+    padding-bottom: 1px !important;
+}
+
+
+/* touch density buttons */
+
+:root[uidensity="touch"] #nav-bar .toolbarbutton-1:not(#back-button)  {
+    margin-top: 4px !important;
+    margin-bottom: 4px !important;
+    padding-left: 0px !important;
+    padding-right: 0px !important;
+}
+
+#placesToolbar #back-button image{
+    width:16px !important;
+    height: 16px !important;
+}
+#placesToolbar #back-button:not([disabled]):hover{
+    background-color: var(--toolbarbutton-hover-background) !important;
+}
+#placesToolbar #back-button image{
+    background-color:initial !important;
+}
+#sidebar-button[checked]{
+    background-color: var(--toolbarbutton-active-background) !important;
+}
+
+:root[uidensity="touch"] #stop-reload-button[animate] .toolbarbutton-animatable-image {
+    margin-top: 2px !important;
+}
+
+:root[uidensity="touch"] #identity-box,
+:root[uidensity="touch"] #tracking-protection-icon-container {
+    padding-left: 9px !important;
+    padding-right: 9px !important;
+}
+
+
+:root[uidensity="touch"] #urlbar {
+    height: 36px !important;
+    margin-top: 0px !important;
+    margin-bottom: 0px !important;
+}
+
+:root[uidensity="touch"] #nav-bar{
+    padding-top: 0px !important;
+}
+
+:root[uidensity="touch"] .urlbar-icon:not(#pocket-button) {
+    width: 34px !important;
+    height: 36px !important;
+    padding: 9px !important;
+}
+
+:root[uidensity="touch"] #pocket-button {
+    width: 34px !important;
+    height: 36px !important;
+    padding: 10px 7px 8px 7px !important;
+}
+
+:root[uidensity="touch"] #contextual-feature-recommendation {
+    width: 32px !important;
+    height: 33px !important;
+    padding: 2px !important;
+}
+
+:root[uidensity="touch"] #PanelUI-button {
+    padding-left: 5px !important;
+    padding-right: 5px !important;
+}
+
+:root[uidensity="touch"] tab {
+    height: 40px !important;
+}
+
+:root[uidensity="touch"] #library-animatable-box {
+    margin-top: 7px !important;
+}
+
+:root[uidensity="touch"] #tabs-newtab-button {
+    margin-left: -5px !important;
+    margin-bottom: 2px !important;
+    padding-right: 3px !important;
+    padding-left: 3px !important;
+    padding-bottom: 1px !important;
+}
+.tab-background:is([selected], [multiselected]):-moz-lwtheme {
+  border: hidden !important;
+}
+
+:root[uidensity="touch"] #PersonalToolbar {
+   height: 35px !important;
+   margin-top: -3px !important;
+}
+
+.urlbar-input-box,
+#identity-box, 
+#tracking-protection-icon-container,
+.urlbar-history-dropmarker, 
+.urlbar-page-action,
+#reader-mode-button-icon, 
+[anonid=urlbar-go-button],
+.toolbarbutton-1 > stack,
+toolbarbutton:not(.titlebar-button):not([class^="findbar-find"]):not([class^="scrollbutton"]),
+.close-icon
+{
+    border-radius: var(--button-corner-rounding) !important;
+}
+
+.findbar-find-next {
+    border-radius: 0px var(--button-corner-rounding) var(--button-corner-rounding) 0px !important;
+}
+
+.findbar-textbox {
+    border-radius: var(--button-corner-rounding) var(--button-corner-rounding) var(--button-corner-rounding) var(--button-corner-rounding) !important;
+}
+#identity-box #identity-permission-box:hover{
+    border-radius:var(--button-corner-rounding) !important;
+    transition: all var(--hovering-speed) !important;
+}
+#identity-permission-box{
+      height: 34px !important;
+     border-radius:var(--button-corner-rounding) !important;
+     transition: var(--animation-speed) !important;
+     position:  relative !important;
+     left: 0px !important;
+     bottom: 3px !important;
+}
+.searchmode-switcher.chromeclass-toolbar-additional {
+  height: 36px !important;
+}
+#reader-mode-button:hover {
+  border-radius: var(--button-corner-rounding) !important;
+}
+toolbarbutton.bookmark-item{
+    margin-right: 10px !important;
+}
+#PlacesToolbarItems > toolbarbutton{
+    margin-right: 0px !important;
+}
+#reload-button > .toolbarbutton-icon{
+    margin-top: 1px !important;
+}
+#stop-button > .toolbarbutton-icon{
+    margin-top: 1px !important;
+}
+#urlbar-zoom-button{
+    background: var(--toolbarbutton-hover-background) !important;
+}
+#urlbar-zoom-button .toolbarbutton-text{
+    color: white;
+}
+#tracking-protection-icon-box{
+    color:initial !important;
+}
+#identity-box{
+    color:initial !important;
+}
+#tracking-protection-icon-container:hover:not([open="true"]) {
+  background-color: var(--toolbarbutton-hover-background) !important;
+  color: var(--urlbar-box-hover-text-color);
+}
+#identity-box{
+    color: var(--toolbar-color, black) !important;
+    fill:var(--toolbar-color) !important;
+}
+.identity-box-button:hover:not([open="true"]){
+    background-color:  var(--toolbarbutton-hover-background) !important;
+}
+#tracking-protection-icon-container:hover{
+     border-radius:var(--button-corner-rounding) !important;
+     transition:all var(--animation-speed) !important;
+}
+
+.urlbar-page-action:not([disabled]):hover, #urlbar-go-button:hover, .search-go-button:hover {
+  background-color: var(--toolbarbutton-hover-background) !important;
+  color: var(--urlbar-box-hover-text-color);
+}
+#urlbar-go-button {
+  border-radius: var(--button-corner-rounding) !important;
+}
+.bookmark-item {
+    padding-left: 7px !important;
+    padding-right: 7px !important;
+    margin-right: 0px !important;
+}
+#star-button-box {
+  height: initial !important;
+  width: initial !important;
+  padding: initial !important;
+}
+hbox#split-view-button.urlbar-page-action{
+    width: 35px !important;
+    height: 35px !important;
+    border-radius: var(--button-corner-rounding) !important;
+}
+hbox#split-view-button.urlbar-page-action:hover{
+    transition: all var(--hovering-speed) !important;
+    border-radius: var(--button-corner-rounding) !important;
+}
+#split-view-button[open="true"]{
+    transition:  all var(--hovering-speed) !important;
+    border-radius:var(--button-corner-rounding) !important; 
+    background-color:var(--toolbarbutton-active-background) !important;
+}
+#pageAction-urlbar-_testpilot-containers {
+  height: initial !important;
+  width: initial !important;
+  padding: initial !important;
+  border-radius: 5px !important;
+}
+#pageAction-urlbar-canvasblocker_kkapsner_de {
+  width: initial !important;
+  height: initial !important;
+  padding: initial !important;
+  border-radius:var(--button-corner-rounding)  !important;
+  opacity: 0;
+}
+#urlbar:hover #pageAction-urlbar-canvasblocker_kkapsner_de{
+    transition: all var(--animation-speed) !important;
+    filter: brightness(2) !important;
+    opacity: 1;
+}
+#urlbar[focused] #pageAction-urlbar-canvasblocker_kkapsner_de{
+    opacity:1;
+     filter: brightness(2) !important;
+}
+#pageAction-urlbar-canvasblocker_kkapsner_de[open]{
+    opacity:1;
+     filter: brightness(2) !important;
+}
+
+#star-button-box:hover{
+    transition:  all var(--hovering-speed) !important;
+    border-radius:var(--button-corner-rounding) !important; 
+    background-color:var(--toolbarbutton-hover-background) !important;
+}
+#star-button-box[open="true"]:hover{
+    transition:  all var(--hovering-speed) !important;
+    border-radius:var(--button-corner-rounding) !important; 
+    background-color:var(--toolbarbutton-active-background) !important;
+}
+#identity-icon-box:hover{
+    transition: all var(--hovering-speed) !important;
+    border-radius:var(--button-corner-rounding) !important;
+}
+#pageActionButton{
+  width: 35px !important;
+  height: 35px !important;
+  border-radius: var(--button-corner-rounding) !important;
+}
+#pageActionButton:hover{
+  transition: all var(--hovering-speed) !important;
+  border-radius:var(--button-corner-rounding) !important;
+}
+#identity-icon-box[open] {
+  background-color: var(--toolbarbutton-active-background) !important;
+  border-radius: var(--button-corner-rounding) !important;
+}
+#identity-icon-box[open]:hover{
+    background-color:var(--toolbarbutton-active-background) !important;
+    border-radius: var(--button-corner-rounding) !important;
+}
+#identity-permission-box[open]{
+    background-color: var(--toolbarbutton-active-background) !important;
+}
+#identity-permission-box[open]:hover{
+     background-color:var(--toolbarbutton-active-background) !important;
+}
+
+toolbarbutton#library-button.toolbarbutton-1{
+    padding-left:23px !important;
+}
+#downloads-button[open="true"]:hover{
+    background: var(--toolbarbutton-active-background) !important;
+}
+#library-button[open="true"] {
+ background-color:var(--toolbarbutton-active-background) !important;
+}
+#library-button[open="true"]:hover {
+  background: var(--toolbarbutton-active-background) !important;
+}
+#downloads-button[open="true"] {
+    background-color:var(--toolbarbutton-active-background) !important;
+}
+#downloadsHistory {
+  border-radius: var(--button-corner-rounding) !important;
+}
+#PanelUI-menu-button[open="true"]{
+    background-color: var(--toolbarbutton-active-background) !important;
+}
+#PanelUI-menu-button[open="true"]:hover{
+    background: var(--toolbarbutton-active-background) !important;
+}
+#urlbar-background {
+    background-color: var(--transparent-color) !important;
+    border: none !important;
+    box-shadow: none !important;
+}
+
+#search-container, #urlbar-container {
+    padding: 0 !important;
+    margin: 0 !important;
+}
+#urlbar {
+    margin: 0 !important;
+    width: calc(var(--urlbar-width) - 2px) !important;
+    inset: initial !important;
+}
+.urlbar-input-container {
+    height: 36px !important;
+    padding: 0 !important;
+}
+#urlbar-background {
+    animation: none !important;
+}
+#nav-bar{
+    padding-block: 2px !important
+}
+.urlbarView {
+    margin: 0 !important;
+    width: 100% !important;
+}
+.urlbarView-results {
+    padding: 0 !important;
+}
+#urlbar:not([usertyping]) > .urlbar-input-container > .urlbar-go-button{
+    display: block !important;
+}
+
+#urlbar {
+    border-radius: calc(1px + var(--button-corner-rounding)) !important;
+    border: none !important;
+}
+#urlbar-input:not(:focus):hover{
+    margin-left: 2px !important;
+    height: 34px !important;
+    box-sizing: border-box !important;
+    border-radius: var(--button-corner-rounding) !important;
+    background: var(--toolbarbutton-hover-background) !important;
+    transition: var(--animation-speed) !important;
+}
+.urlbarView {
+    width: 100% !important;
+    margin-inline: 0px !important;
+    box-shadow: 0px 5px 15px -7px black !important;
+    background: var(--toolbar-field-focus-background-color) !important;
+    border-radius: var(--menu-corner-rounding) !important;
+    border: none !important;
+    padding-top: 0px !important;
+}
+span.urlbarView-url {
+  color: var(--url-color-urlbarView) !important;
+  line-height: 1.4;
+  margin-left: 0.5%;
+}
+.urlbarView-body-inner {
+    border:none !important;    
+    padding-left:15px;
+    background-color: var(--toolbar-bgcolor) !important;
+}
+.urlbarView-body-inner .urlbarView-row{
+    padding-right:30px;
+}
+
+/*#tracking-protection-icon-container[open="true"]{
+    background:var(toolbarbutton-active-background) !important;
+}*/
+.urlbarView-row {
+  background-color: var(--transparent-color) !important;
+  color: white !important;
+}
+.urlbarView-row-inner {
+  border-radius: var(--menu-corner-rounding) !important;
+  transition:var(--animation-speed) !important;
+}
+.urlbarView-row-inner[aria-selected] {
+  background: var(--toolbarbutton-active-background) !important;
+}
+#urlbar .searchbar-engine-one-off-item[selected="true"]{
+    background: var(--toolbarbutton-active-background) !important;
+}
+
+.search-one-offs {
+    background-color: var(--toolbar-bgcolor) !important;
+    padding-left:15px;
+    padding-right:10px;
+    color:white !important;
+}
+.search-one-offs button:hover{
+   transition:var(--animation-speed) !important;
+   border-radius:var(--button-corner-rounding) !important;
+   color:white !important;
+}
+
+hbox.urlbar-page-action{
+    padding:0px !important;
+}
+
+#tracking-protection-icon-container {
+    border-inline-end: none !important;
+}
+
+#pageActionSeparator {
+    display: none !important;
+}
+
+.urlbar-icon, #userContext-indicator, #userContext-label {
+    fill: transparent !important;
+    background-color: var(--transparent-color) !important;
+    color: var(--transparent-color) !important;
+    transition: var(--animation-speed) !important;
+}
+
+
+#urlbar:hover .urlbar-icon,
+#urlbar:active .urlbar-icon, 
+#urlbar[focused] .urlbar-icon {
+    fill:  var(--toolbar-color) !important;
+}
+
+.urlbar-page-action[open] {
+    background-color: var(--toolbarbutton-active-background) !important;
+    fill: var(--toolbar-color) !important;
+    opacity: 1 !important;
+}
+
+.urlbar-page-action[open]:hover {
+    background-color: var(--toolbarbutton-active-background) !important;
+    fill: var(--toolbar-color) !important;
+    opacity: 1 !important;
+}
+
+.urlbar-page-action[open] .urlbar-icon {
+    fill: var(--toolbar-color) !important;
+     opacity: 1 !important;
+}
+
+.urlbar-scheme {
+    padding-bottom: 11px !important;
+}
+
+
+#urlbar-container {
+    margin-left: -1px !important;
+    margin-right: -1px !important;
+}
+.urlbar-input-box {
+    padding: 0px 5px !important;
+}
+
+#urlbar {
+    background-color: var(--transparent-color) !important;
+    color: var(--lwt-text-color, black) !important;
+}
+#urlbar-go-button:hover{
+    background-color: var(--toolbarbutton-hover-background) !important;
+    border-radius: var(--button-corner-rounding);
+}
+.urlbar-input-box input{
+    padding-left: 5px !important;
+}
+#urlbar:not(.hidden-focus)[focused=""]{
+    animation: crunch var(--animation-speed) ease-out forwards !important;
+}
+@keyframes crunch{
+    0% {background: linear-gradient(to left, transparent,transparent,transparent,transparent,var(--toolbarbutton-hover-background),var(--toolbarbutton-hover-background),var(--toolbarbutton-hover-background),var(--toolbarbutton-hover-background),var(--toolbarbutton-hover-background),var(--toolbarbutton-hover-background),var(--toolbarbutton-hover-background),transparent,transparent,transparent,transparent)}
+    25% {background: linear-gradient(to left, transparent,transparent,transparent,var(--toolbarbutton-hover-background),var(--toolbarbutton-hover-background),var(--toolbarbutton-hover-background),var(--toolbarbutton-hover-background),var(--toolbarbutton-hover-background),var(--toolbarbutton-hover-background),var(--toolbarbutton-hover-background),var(--toolbarbutton-hover-background),var(--toolbarbutton-hover-background),transparent,transparent,transparent)}
+    50% {background: linear-gradient(to left, transparent,transparent,var(--toolbarbutton-hover-background),var(--toolbarbutton-hover-background),var(--toolbarbutton-hover-background),var(--toolbarbutton-hover-background),var(--toolbarbutton-hover-background),var(--toolbarbutton-hover-background),var(--toolbarbutton-hover-background),var(--toolbarbutton-hover-background),var(--toolbarbutton-hover-background),var(--toolbarbutton-hover-background),var(--toolbarbutton-hover-background),transparent,transparent)}
+    75% {background: linear-gradient(to left, transparent,var(--toolbarbutton-hover-background),var(--toolbarbutton-hover-background),var(--toolbarbutton-hover-background),var(--toolbarbutton-hover-background),var(--toolbarbutton-hover-background),var(--toolbarbutton-hover-background),var(--toolbarbutton-hover-background),var(--toolbarbutton-hover-background),var(--toolbarbutton-hover-background),var(--toolbarbutton-hover-background),var(--toolbarbutton-hover-background),var(--toolbarbutton-hover-background),var(--toolbarbutton-hover-background),transparent)}
+    100% {background: linear-gradient(to left, var(--toolbarbutton-hover-background),var(--toolbarbutton-hover-background),var(--toolbarbutton-hover-background),var(--toolbarbutton-hover-background),var(--toolbarbutton-hover-background),var(--toolbarbutton-hover-background),var(--toolbarbutton-hover-background),var(--toolbarbutton-hover-background),var(--toolbarbutton-hover-background),var(--toolbarbutton-hover-background),var(--toolbarbutton-hover-background),var(--toolbarbutton-hover-background),var(--toolbarbutton-hover-background),var(--toolbarbutton-hover-background),var(--toolbarbutton-hover-background))}
+}
+@keyframes crunchOnFade{
+    0% {background: linear-gradient(to left, var(--toolbarbutton-hover-background),var(--toolbarbutton-hover-background),var(--toolbarbutton-hover-background),var(--toolbarbutton-hover-background),var(--toolbarbutton-hover-background),var(--toolbarbutton-hover-background),var(--toolbarbutton-hover-background),var(--toolbarbutton-hover-background),var(--toolbarbutton-hover-background),var(--toolbarbutton-hover-background),var(--toolbarbutton-hover-background),var(--toolbarbutton-hover-background),var(--toolbarbutton-hover-background),var(--toolbarbutton-hover-background),var(--toolbarbutton-hover-background))}
+    12% {background: linear-gradient(to left, transparent,var(--toolbarbutton-hover-background),var(--toolbarbutton-hover-background),var(--toolbarbutton-hover-background),var(--toolbarbutton-hover-background),var(--toolbarbutton-hover-background),var(--toolbarbutton-hover-background),var(--toolbarbutton-hover-background),var(--toolbarbutton-hover-background),var(--toolbarbutton-hover-background),var(--toolbarbutton-hover-background),var(--toolbarbutton-hover-background),var(--toolbarbutton-hover-background),var(--toolbarbutton-hover-background),transparent)}
+    25% {background: linear-gradient(to left, transparent,transparent,var(--toolbarbutton-hover-background),var(--toolbarbutton-hover-background),var(--toolbarbutton-hover-background),var(--toolbarbutton-hover-background),var(--toolbarbutton-hover-background),var(--toolbarbutton-hover-background),var(--toolbarbutton-hover-background),var(--toolbarbutton-hover-background),var(--toolbarbutton-hover-background),var(--toolbarbutton-hover-background),var(--toolbarbutton-hover-background),transparent,transparent)}
+    38% {background: linear-gradient(to left, transparent,transparent,transparent,var(--toolbarbutton-hover-background),var(--toolbarbutton-hover-background),var(--toolbarbutton-hover-background),var(--toolbarbutton-hover-background),var(--toolbarbutton-hover-background),var(--toolbarbutton-hover-background),var(--toolbarbutton-hover-background),var(--toolbarbutton-hover-background),var(--toolbarbutton-hover-background),transparent,transparent,transparent)}
+    50% {background: linear-gradient(to left, transparent,transparent,transparent,transparent,var(--toolbarbutton-hover-background),var(--toolbarbutton-hover-background),var(--toolbarbutton-hover-background),var(--toolbarbutton-hover-background),var(--toolbarbutton-hover-background),var(--toolbarbutton-hover-background),var(--toolbarbutton-hover-background),transparent,transparent,transparent,transparent)}
+    66% {background: linear-gradient(to left, transparent,transparent,transparent,transparent,transparent,var(--toolbarbutton-hover-background),var(--toolbarbutton-hover-background),var(--toolbarbutton-hover-background),var(--toolbarbutton-hover-background),var(--toolbarbutton-hover-background),transparent,transparent,transparent,transparent,transparent)}
+    75% {background: linear-gradient(to left, transparent,transparent,transparent,transparent,transparent,transparent,var(--toolbarbutton-hover-background),var(--toolbarbutton-hover-background),var(--toolbarbutton-hover-background),transparent,transparent,transparent,transparent,transparent,transparent)}
+    83% {background: linear-gradient(to left, transparent,transparent,transparent,transparent,transparent,transparent,transparent,var(--toolbarbutton-hover-background),transparent,transparent,transparent,transparent,transparent,transparent,transparent)}
+    100% {background: linear-gradient(to left, transparent,transparent,transparent,transparent,transparent,transparent,transparent,transparent,transparent,transparent,transparent,transparent,transparent,transparent,transparent)}
+}
+/*Section for download rules*/
+#downloadsHistory{
+    padding-bottom: 10px !important;
+    padding-top: 10px !important;
+    margin-left: 0px !important;
+    margin-right: 0px !important;
+}
+.chromeUI{
+    background:var(--toolbarbutton-hover-background) !important;
+}
+.extensionPage{
+     background:var(--toolbarbutton-hover-background) !important;
+}
+
+/**/
+#pocket-button {
+    padding-bottom: 4px !important;
+}
+
+.urlbar-icon-wrapper > .urlbar-icon:hover {
+    background-color: var(--transparent-color) !important;
+}
+
+.urlbar-icon-wrapper {
+    background-color: var(--transparent-color) !important;
+    transition: background-color var(--animation-speed) !important;
+}
+#notification-popup-box {
+  position: relative !important;
+  padding-left:2px !important;
+  padding-right:2px !important;
+  height: initial !important;
+  left: 0px !important;
+  transition: all var(--hovering-speed) !important;
+  border-radius:var(--button-corner-rounding) !important;
+}
+
+#identity-icon-box {
+  border-radius: 5px !important;
+}
+
+
+#identity-permission-box[open="true"], #identity-permission-box[hasPermissions], #identity-permission-box[hasSharingIcon] {
+  display: -webkit-inline-box;
+  margin-right: 1px !important;
+  margin-top: 4px !important;
+  margin-left: 1px !important;
+  border-radius:var(--button-corner-rounding) !important;
+}
+/*#tracking-protection-icon-container[open="true"]{
+    background:var(--toolbarbutton-active-background) !important;
+    border-radius:var(--button-corner-rounding) !important;
+}*/
+/*#tracking-protection-icon-container[open="true"]:hover{
+    background: var(--toolbarbutton-hover-background) !important;
+    border-radius:var(--button-corner-rounding) !important;
+}*/
+
+#notification-popup-box:hover{
+    border-radius:var(--button-corner-rounding) !important;
+    background-color: var(--toolbarbutton-hover-background) !important; 
+}
+#notification-popup-box[open="true"] {
+    opacity: 1 !important;
+    background-color: var(--toolbarbutton-hover-background) !important;
+}
+.identity-box-button:hover:active, .identity-box-button[open="true"], #tracking-protection-icon-container:hover:active, #tracking-protection-icon-container[open="true"] {
+    background-color: var(--toolbarbutton-active-background) !important;
+    border-radius: var(--button-corner-rounding) !important;
+}
+
+#identity-box[pageproxystate="valid"].notSecureText > .identity-box-button, #identity-box[pageproxystate="valid"].chromeUI > .identity-box-button, #identity-box[pageproxystate="valid"].extensionPage > .identity-box-button, #urlbar-label-box {
+    border-radius:var(--button-corner-rounding) !important;
+}
+
+#identity-box:active,
+#tracking-protection-icon-container:active,
+.urlbar-icon:active,
+.urlbar-icon-wrapper:active,
+[anonid=urlbar-go-button]:active {
+    /*background-color: var(--toolbarbutton-active-background) !important;*/
+}
+
+.urlbar-input-box, 
+#identity-box,
+#tracking-protection-icon-container,
+[anonid=urlbar-go-button],
+#urlbar {
+    transition: background-color var(--hovering-speed) !important;
+    animation: crunchOnFade var(--animation-speed) ease-out forwards !important;
+}
+#tracking-protection-icon,
+#identity-box image {
+    transition: fill-opacity var(--animation-speed) !important;
+}
+[lwthemetextcolor="dark"] .urlbarView-body-outer {
+    background-color: #f5f6f7 !important;
+    color: var(--toolbar-color) !important;
+}
+
+.downloadsPanelFooterButton:hover {
+    outline: none !important;
+}
+
+#urlbar[focused] #pageAction-urlbar-_testpilot-containers{
+    opacity:1 !important;
+}
+#urlbar[focused] #userContext-icons{
+    opacity:1 !important;
+}
+#urlbar:not(focused) #tracking-protection-icon-container{
+    opacity: 0 !important;
+}
+#urlbar:not(focused) #tracking-protection-icon-container[open]{
+    opacity: 1 !important;
+}
+#urlbar[focused] #tracking-protection-icon-container{
+    opacity: 1 !important;
+}
+#urlbar:not(focused) #identity-box{
+    opacity: 0 !important;
+}
+#urlbar:not(focused) #identity-box:has(.identity-box-button[open]){
+    opacity: 1 !important;
+}
+#urlbar[focused] #identity-box{
+    opacity: 1 !important;
+}
+
+#userContext-icons{
+  opacity:0;
+  margin:auto 3px!important;
+  border-radius:var(--button-corner-rounding) !important;
+  padding:0 2px 0 5px!important;
+  transition: var(--hovering-speed) all !important;
+}
+#urlbar:hover #userContext-icons {
+    opacity:1;
+    -moz-transition: var(--animation-speed) !important;
+}
+#urlbar:hover #pageAction-urlbar-_testpilot-containers{
+    opacity:1;
+    -moz-transition: var(--animation-speed) !important;
+    transition: all var(--hovering-speed) !important;
+}
+#urlbar:hover #tracking-protection-icon-container{
+    opacity: 1 !important;
+    -moz-transition: var(--animation-speed) !important;
+    transition: all var(--hovering-speed) !important;
+}
+#urlbar:hover #identity-box{
+    opacity: 1 !important;
+    -moz-transition: var(--animation-speed) !important;
+    transition: all var(--hovering-speed) !important;
+}
+#pageAction-urlbar-_testpilot-containers{
+    opacity:0;
+    -moz-transition: var(--animation-speed) !important;
+}
+#pageAction-urlbar-_testpilot-containers:hover{
+    opacity:1;
+    background-color: var(--toolbarbutton-hover-background) !important;
+    border-radius: var(--button-corner-rounding) !important;
+}
+#pageAction-urlbar-_testpilot-containers.urlbar-page-action[focused]{
+    opacity:1 !important;
+}
+#identity-icon-label{
+    color:var(--toolbar-color) !important;
+}
+
+#userContext-icons:hover{
+  opacity:1;
+  border-radius: var(--button-corner-rounding) !important;
+  background:var(--identity-tab-color)!important;
+  -moz-transition: var(--animation-speed) !important;  
+}
+.urlbar-input-container:hover{
+    opacity:1;
+    border-radius: var(--button-corner-rounding) !important;
+    -moz-transition:var(--animation-speed) !important;
+}
+.urlbar-input{
+    color:var(--toolbar-color) !important;
+    text-align: initial !important;
+}
+.urlbar-input-box{
+    direction: initial !important;
+}
+.urlbar-input-container{
+    padding: initial !important;
+}
+.urlbar-go-button:hover{
+    background: var(--toolbarbutton-hover-background) !important;
+    transition: var(--animation-speed) !important;
+}
+#urlbar-label-switchtab{
+    color:var(--toolbar-color) !important;
+}
+#urlbar-search-mode-indicator{
+    color:var(--toolbar-color) !important;
+}
+#urlbar-input-container{
+    color:var(--toolbar-color) !important;   
+    padding: 0px !important;
+}
+#urlbar-background{
+    border-radius: var(--button-corner-rounding) !important;
+    display: none !important;
+}
+.urlbarView-row-inner{
+    font:var(--toolbar-color) !important;
+}
+.urlbarView-row-inner:hover{
+    color:var(--toolbar-color) !important;
+}
+
+
+.urlbarView-results{
+    color:var(--toolbar-color);
+}
+
+#reader-mode-button-icon.urlbar-icon:hover{
+ background:var(--toolbarbutton-hover-background) !important;   
+ animation-delay:var(--animation-speed) !important;
+}
+#reader-mode-button-icon.urlbar-icon[focused]{
+    opacity:1 !important;
+}
+#reader-mode-button image{
+    max-width:200% !important;
+    height:auto !important;
+}
+#reader-mode-button {
+  width: initial !important;
+  height: initial !important;
+}
+#userContext-label{
+  color:#fff!important;
+  margin: 6px !important;
+}
+#userContext-indicator {
+  fill:#fff!important;
+  margin-right:2px!important;
+}
+#userContext-indicator[data-identity-icon="circle"] {
+  display:none!important;
+}
+/*Linear gradient trick for newbies like me*/
+.tabbrowser-tab[usercontextid] > .tab-stack > .tab-background > .tab-context-line {
+  background: var(--identity-icon-color) !important;
+  height: 3.5px !important;
+  border-radius: 2px !important;
+}
+#trust-icon-container{
+    height: 36px !important;
+    opacity: 0 !important;
+    border-radius: var(--button-corner-rounding) !important;
+    transition: all var(--hovering-speed) !important;
+}
+#urlbar:hover #trust-icon-container{
+    opacity: 1 !important;
+}
+#urlbar[focused] #trust-icon-container{
+  opacity: 1 !important;
+}
+#trust-icon-container:hover{
+    opacity: 1 !important;
+}
+#trust-icon-container[open="true"]{
+    background-color: var(--toolbarbutton-active-background) !important;
+}
+#trust-icon-container[open="true"], #trust-icon {
+    opacity: 1 !important;
+}
+#trustpanel-header-row{
+    height: 40px !important;
+}
+
+#eme-notification-icon{
+    fill: var(--toolbar-color) !important;
+}
+#PanelUI-fxa-cta-menu, #PanelUI-fxa-menu-services {
+  & .fxa-cta-button {
+    height: initial !important;
+  }
+}
+.PanelUI-fxa-menu-section-title{
+    display: flex !important;
+    justify-content: center !important;
+}
+#searchmode-switcher-icon{
+    fill:var(--toolbar-color) !important; 
+}
+#searchmode-switcher-title{
+    color:var(--toolbar-color) !important;
+    margin-left: 10px !important;
+}
+#searchmode-switcher-chicklet{
+    margin-inline-end: initial !important;
+    border-radius: var(--button-corner-rounding) !important;
+}
+#searchmode-switcher-close{
+    fill:var(--toolbar-color) !important;
+    margin:10px !important;
+}
+#urlbar .search-panel-header{
+    display: none !important;
+}
+#searchmode-switcher-dropmarker{
+    fill:var(--toolbar-color) !important;
+}
+#urlbar-searchmode-switcher{
+    background-color: initial !important;
+}
+.urlbarView-body-inner{
+    padding-top: 8px !important;
+    padding-bottom: 8px !important;
+}
+.urlbarView-row-inner:hover{
+    background: var(--toolbarbutton-hover-background) !important;
+    transition:300ms all !important;
+}
+.urlbarView-dynamic-actions-button-0{
+    background: none !important;
+}
+.search-panel-one-offs-container{
+    display: visible !important;
+}
+.urlbarView-action-btn{
+    background: none !important;
+}
+.urlbar-background{
+    display: none !important;
+}
+hbox#taskbar-tabs-button.urlbar-page-action{
+    width: 35px !important;
+    height: 35px !important;
+    border-radius: var(--button-corner-rounding) !important;
+}
+hbox#taskbar-tabs-button.urlbar-page-action:hover {
+  width: 35px !important;
+  height: 35px !important;
+  border-radius: var(--button-corner-rounding) !important;
+  transition: all var(--hovering-speed) !important;
+}
+#translations-button-locale{
+  margin-left: -10.6rem !important;
+  opacity: 0 !important;
+}
+#translations-button-circle-arrows{
+  margin-left: -12rem !important;
+  opacity: 0 !important;
+}
+#translations-button[translationsactive="true"] #translations-button-locale{
+    margin-left: 2px !important;
+    opacity: 0 !important;
+    display: none !important;
+}
+#translations-button[translationsactive="true"] #translations-button-circle-arrows{
+    margin-left: 2px !important;
+    opacity: 0 !important;
+    display: none !important;
+}
+#urlbar:hover #translations-button-locale,
+#urlbar:hover #translations-button-circle-arrows,
+#urlbar[focused] #translations-button-locale,
+#urlbar[focused] #translations-button-circle-arrows{
+    opacity: 1 !important;
+}
+.urlbar-icon.urlbar-go-button {
+  margin-right: -7px;
+}
+#identity-box:has(> #identity-icon-box) {
+  height: 36px !important;
+}
+#allTabsMenu-allTabsView .panel-subview-body > .subviewbutton {
+    margin-left: 6px !important;
+    margin-right: 6px !important;
+}
+#appMenu-libraryView .panel-subview-body > .subviewbutton {
+    margin-left: 6px !important;
+    margin-right: 6px !important;
+}
+@media (prefers-color-scheme:light){
+    .urlbarView-row {
+        background-color: var(--transparent-color) !important;
+        color:var(--toolbar-color)  !important;
+    }
+    .toolbarbutton-icon{
+        fill:var(--toolbar-color) !important;
+    }
+    #urlbar:hover #pageAction-urlbar-canvasblocker_kkapsner_de{
+    transition: all var(--animation-speed) !important;
+    filter: none !important;
+    opacity: 1;
+    }
+    #urlbar[focused] #pageAction-urlbar-canvasblocker_kkapsner_de{
+    opacity:1;
+     filter: none !important;
+    }
+    #urlbar-zoom-button .toolbarbutton-text{
+       color:var(--toolbar-color) !important;
+    }
+    #urlbar-one-offs-header-label{
+        color:var(--toolbar-color)  !important;
+    }
+    #urlbar-engine-one-off-item-tabs{
+        color:var(--toolbar-color)  !important;
+    }
+    #urlbar-engine-one-off-item-history{
+       color:var(--toolbar-color)  !important;
+    }
+    #urlbar-anon-search-settings{
+        color:var(--toolbar-color)  !important;
+    }
+    toolbarbutton.bookmark-item{
+        fill:var(--toolbarbutton-icon-fill) !important;
+    }
+    .urlbarView-row-inner:hover{
+    background:var(--toolbarbutton-hover-background) !important;
+    color:var(--toolbar-color) !important;
+    }
+    span.urlbarView-url {
+        color: var(--url-color-urlbarView-light-mode) !important;
+        line-height: 1.4;
+        margin-left: 0.5%;
+    }
+    .chromeUI > #identity-icon-box{
+        background-color:var(--toolbarbutton-active-background) !important;
+    }
+    .toolbarbutton-1[open='true']{
+        background: var(--toolbarbutton-active-background) !important;
+    }
+    #identity-icon-box{
+         fill:var(--toolbar-color) !important;
+    }
+    #identity-permission-box{
+         fill:var(--toolbar-color) !important;
+    }
+    #tracking-protection-icon-container{
+        fill:var(--toolbar-color) !important;
+    }
+     #downloads-indicator-anchor{
+        fill:var(--toolbar-color) !important;
+    }
+    toolbarbutton:not(#back-button)[open], .toolbarbutton-1:not(#back-button)[open] {
+        background-color: var(--toolbarbutton-active-background);
+    }
+    :root:not([uidensity="compact"]) #back-button:not([disabled]):not([open]):active > .toolbarbutton-icon {
+        background-color: var(--toolbarbutton-active-background) !important;
+    }
+    
+    :root:not([uidensity="compact"]) toolbarbutton:not(#back-button):not([disabled]):not([open]):active,
+    .toolbarbutton-1:not(#back-button):not([disabled]):not([open]):active {
+        background-color: var(--toolbarbutton-active-background) !important;
+    }
+    :root:not([uidensity="compact"]) #back-button[open] > .toolbarbutton-icon {
+        background-color: var(--toolbarbutton-active-background) !important;
+    }
+    :root[uidensity="compact"] #back-button[open] {
+        background-color: var(--toolbarbutton-active-background) !important; 
+    }
+    :root[uidensity="compact"] #back-button:not([disabled]):not([open]):active {
+        background-color: var(--toolbarbutton-active-background) !important;
+    }
+    #identity-icon-box[open] {
+        background-color: var(--toolbarbutton-active-background) !important;
+    }
+    #identity-permission-box[open]{
+          background-color: var(--toolbarbutton-active-background) !important;
+    }
+      #downloads-button[open="true"]:hover{
+        background: var(--toolbarbutton-active-background) !important;
+    }
+    #library-button[open="true"] {
+     background-color:var(--toolbarbutton-active-background) !important;
+    }
+    #library-button[open="true"]:hover {
+      background: var(--toolbarbutton-active-background) !important;
+    }
+    #downloads-button[open="true"] {
+        background-color:var(--toolbarbutton-active-background) !important;
+    }
+    #PanelUI-menu-button[open="true"]{
+        background-color: var(--toolbarbutton-active-background) !important;
+    }
+    #PanelUI-menu-button[open="true"]:hover{
+        background: var(--toolbarbutton-active-background) !important;
+    }
+    .urlbarView-row-inner[aria-selected] {
+        background: var(--toolbarbutton-active-background) !important;
+      }
+      #urlbar .searchbar-engine-one-off-item[selected="true"]{
+          background: var(--toolbarbutton-active-background) !important;
+      }
+      #tracking-protection-icon-container[open="true"]{
+        background:var(--toolbarbutton-active-background) !important;
+    }
+    #forward-button[open='true']{
+        background: var(--toolbarbutton-active-background) !important;
+    }
+    .identity-box-button:hover:not([open="true"]), #tracking-protection-icon-container:hover:not([open="true"]) {
+        background-color: var(--toolbarbutton-active-background) !important;
+      }
+      
+      .urlbar-page-action:not([disabled]):hover, #urlbar-go-button:hover, .search-go-button:hover {
+        background-color: var(--toolbarbutton-hover-background) !important;
+      }
+      #star-button-box:hover{
+        background-color:var(--toolbarbutton-hover-background) !important;
+    }
+    #identity-icon-box[open]:hover{
+        background-color:var(--toolbarbutton-hover-background) !important;
+    }
+    #identity-permission-box[open]:hover{
+         background-color:var(--toolbarbutton-active-background) !important;
+    }
+    #notification-popup-box:hover{
+        border-radius:var(--button-corner-rounding) !important;
+        background-color: var(--toolbarbutton-active-background) !important; 
+    }
+    .searchbar-engine-one-off-item:hover{
+        background:#e0e0e0 !important;
+    }
+    .identity-box-button:hover:active, .identity-box-button[open="true"], #tracking-protection-icon-container:hover:active, #tracking-protection-icon-container[open="true"] {
+        background-color: var(--toolbarbutton-active-background);
+    }
+    #pageAction-urlbar-_testpilot-containers:hover{
+        background-color: var(--toolbarbutton-active-background) !important;
+    }
+    @media not (prefers-contrast) {
+        .titlebar-close:hover {
+          stroke: black !important;
+        }
+      }
+}

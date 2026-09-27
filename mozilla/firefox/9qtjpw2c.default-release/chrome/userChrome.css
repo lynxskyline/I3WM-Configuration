@@ -1,0 +1,92 @@
+@import url("quietTab.css");
+@import url("quietUrlbar.css");
+@import url("quietExtensions.css");
+@import url("quietMenus.css");
+@import url("quietContexts.css");
+/*
+
+Quietfox Reborn v155
+
+https://github.com/TheGITofTeo997/quietfoxReborn
+
+Thanks for using our file!
+
+Edit by: Krokko&Teo
+*/
+
+* { 
+/* -------------------- 🎨 Customization 🎨 -------------------- */
+    --tab-corner-rounding: 7px;
+    --button-corner-rounding: 7px;
+    --menu-item-height: 35px;
+    --animation-speed: 0.15s;
+    --hovering-speed:300ms;
+    --menu-corner-rounding: 7px;
+    --icon-border-rounding: 10px;
+    --button-hovered-corner-rounding:11px;
+    --container-context-line-speed-animation:0.6s;
+}
+/*-------------------- Miscellaneous variables created after the 152 release DO NOT TOUCH THEM --------------------*/
+* {
+ --toolbarbutton-hover-background:var(--urlbar-box-background-color-hover);
+ --toolbarbutton-active-background:var(--urlbar-box-background-color-focus);
+ --toolbar-color: var(--toolbar-text-color);
+ --tab-bgcolor: var(--toolbar-background-color);
+ --toolbar-bgcolor: var(--toolbar-field-background-color-focus);
+ --panel-background:var(--panel-background-color);
+  --tab-hover-background-color: var(--urlbar-box-background-color-hover);
+}
+
+
+/*Context line colors, you can edit this part if you want to change your container line colors*/
+.identity-color-blue {
+  --identity-tab-color: #37adff !important; 
+  --identity-icon-color: linear-gradient(to right,#375cff,#37adff) !important;
+  --identity-vertical-tab-color: linear-gradient(to bottom,#375cff,#37adff) !important;
+}
+
+.identity-color-turquoise {
+  --identity-tab-color: #00c79a !important;
+  --identity-icon-color: linear-gradient(to left,#00c79a,#00795e) !important;
+  --identity-vertical-tab-color: linear-gradient(to bottom,#00c79a,#00795e) !important
+}
+
+.identity-color-green {
+  --identity-tab-color: #51cd00 !important;
+  --identity-icon-color: linear-gradient(to left,#51cd00,#2c7300) !important;
+  --identity-vertical-tab-color: linear-gradient(to bottom,#51cd00,#2c7300) !important;
+}
+
+.identity-color-yellow {
+  --identity-tab-color: #ffcb00 !important;
+  --identity-icon-color: linear-gradient(to left,#ffcb00,#7e6500) !important;
+  --identity-vertical-tab-color: linear-gradient(to bottom,#ffcb00,#7e6500) !important;
+}
+
+.identity-color-orange {
+  --identity-tab-color: #ff9f00 !important;
+  --identity-icon-color: linear-gradient(to right, #ff4800, #ffa000) !important;
+  --identity-vertical-tab-color: linear-gradient(to bottom, #ff4800, #ffa000) !important;
+}
+
+.identity-color-red {
+  --identity-tab-color: #ff613d !important;
+  --identity-icon-color: linear-gradient(to left,#ff613d,#7e2f1d) !important;
+  --identity-vertical-tab-color: linear-gradient(to bottom, #ff613d,#7e2f1d) !important;
+}
+
+.identity-color-pink {
+  --identity-tab-color: #ff4bda !important;
+  --identity-icon-color: linear-gradient(to left,#ff4bda,#651d47) !important;
+  --identity-vertical-tab-color: linear-gradient(to bottom,#ff4bda,#651d47) !important;
+}
+
+.identity-color-purple {
+  --identity-tab-color: #af51f5 !important;
+  --identity-icon-color: linear-gradient(to left,#af51f5,#512274) !important; 
+  --identity-vertical-tab-color: linear-gradient(to bottom,#af51f5,#512274) !important; 
+}
+
+/* -------------------- 🎨END Customization 🎨 -------------------- */
+
+@namespace url("http://www.mozilla.org/keymaster/gatekeeper/there.is.only.xul");
