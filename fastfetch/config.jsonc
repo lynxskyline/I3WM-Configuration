@@ -3,7 +3,7 @@
 
   "logo": {
     "type": "file",
-    "source": "~/.config/fastfetch/logo2.txt",
+    "source": "~/.config/fastfetch/logo.txt",
     "padding": {
       "top": 1,
       "left": 1,
@@ -27,7 +27,7 @@
     "key": {
       "width": 0,
       "type": "icon",
-      "paddingLeft": 0,
+      "paddingLeft": 2,
       "language": "en"
     },
 
@@ -74,16 +74,10 @@
   },
 
   "modules": [
-    {
-      "type": "title",
-      "key": " ",
-      "keyIcon": " ",
-      "fqdn": false
-    },
 
     {
-      "type": "separator",
-      "string": "-"
+      "type": "custom",
+      "format": "┌──────────────────── {#1}Software Information{#} ────────────────────┐"
     },
 
     {
@@ -118,6 +112,11 @@
     {
       "type": "shell",
       "keyIcon": " "
+    },
+
+    {
+      "type": "custom",
+      "format": "├────────────────── {#1}Hardware Information{#} ────────────────┤"
     },
 
     {
@@ -172,6 +171,11 @@
     },
 
     {
+      "type": "custom",
+      "format": "├────────────────── {#1}Power Information{#} ─────────────────┤"
+    },
+
+    {
       "type": "command",
       "keyIcon": " 0",
       "text": "p=$(cat /sys/class/power_supply/BAT0/capacity); s=$(cat /sys/class/power_supply/BAT0/status); if [ \"$p\" -lt 20 ]; then c=91; elif [ \"$p\" -lt 50 ]; then c=93; else c=92; fi; printf '%s%% [\\033[%sm%s\\033[0m]' \"$p\" \"$c\" \"$s\""
@@ -186,6 +190,11 @@
     {
       "type": "datetime",
       "keyIcon": " "
+    },
+
+    {
+      "type": "custom",
+      "format": "└────────────────────────────────────────────────────────┘"
     },
 
     "break"
