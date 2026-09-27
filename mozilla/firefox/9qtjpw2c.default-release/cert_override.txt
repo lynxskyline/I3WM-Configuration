@@ -1,3 +1,0 @@
-# PSM Certificate Override Settings file
-# This is a generated file!  Do not edit.
-www-y2mate.com:443:	OID.2.16.840.1.101.3.4.2.1	7E:08:20:C9:09:BD:CE:DD:43:4B:53:F8:4A:79:2D:6A:39:20:3C:75:EB:E9:C8:D3:25:02:56:69:16:AF:8A:EE	
