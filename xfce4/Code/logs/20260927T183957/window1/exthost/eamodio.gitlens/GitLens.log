@@ -1,0 +1,59 @@
+2026-09-27 18:40:03.370 [info] To enable debug logging, run "GitLens: Enable Debug Logging" or "Developer: Set Log Level..." from the Command Palette
+2026-09-27 18:40:03.370 [info]    [            1] GitLens v19.2.0  activating in Visual Studio Code (1.139.1) on the desktop; mode=production,language='en', logLevel='info', defaultDateLocale='null' (vscode|e75139b2f2dcbcc761c02922a47fd0d5643a79238b07084d57d4c462a2b769d9|7864cd43-1990-40b6-818b-a503bae481df1790509199016)
+2026-09-27 18:40:03.370 [info]    [            1] GitLens v19.2.0 activated [207ms]
+2026-09-27 18:40:03.370 [info]    [   76 →    77] GlCliGitProvider.findGit Git (2.55.0) found in /usr/bin/git [248ms]
+2026-09-27 18:40:03.370 [info]    [   76 →    a2] GlCliGitProvider.repositorySearch(/home/kiwann/learning) searching (depth=1)...
+2026-09-27 18:40:03.370 [error]   [GIT          ] [/home/kiwann/learning] git rev-parse --show-toplevel --git-dir --git-common-dir --show-superproject-working-tree · not a git repository (or any of the parent directories): .git [122ms]
+2026-09-27 18:40:03.370 [info]    [IPC          ] CLI capability published on http://127.0.0.1:44639
+2026-09-27 18:40:03.376 [info]    [GIT      13ms] [/home/kiwann/learning/guessing-game] git rev-parse --show-toplevel --git-dir --git-common-dir --show-superproject-working-tree [13ms]
+2026-09-27 18:40:03.378 [info]    [   76 →    a2] GlCliGitProvider.repositorySearch(/home/kiwann/learning) found repository in '/home/kiwann/learning/guessing-game'
+2026-09-27 18:40:03.406 [info]    [GIT      22ms] [/home/kiwann/learning/guessing-game] git remote -v [22ms]
+2026-09-27 18:40:03.408 [info]    [GIT      13ms] [/home/kiwann/learning/guessing-game] git config --get-regex -f /home/kiwann/learning/guessing-game/.git/gk/config . [13ms]
+2026-09-27 18:40:03.426 [info]    [GIT      15ms] [/home/kiwann/learning/guessing-game] git config --local --get-regex ^(extensions\.partialclone|remote\..*\.promisor)$ [15ms]
+2026-09-27 18:40:03.426 [info]    [GIT      15ms] [/home/kiwann/learning/guessing-game] git config --global --get-all maintenance.repo [15ms]
+2026-09-27 18:40:03.431 [info]    [GIT      20ms] [/home/kiwann/learning/guessing-game] git config --get-regex ^(core\.fsmonitor|core\.untrackedcache|core\.commitgraph|core\.multipackindex|core\.sparsecheckout|core\.sparsecheckoutcone|core\.splitindex|extensions\.refstorage|feature\.manyfiles|index\.sparse|maintenance\.incremental-repack\.auto)$ [20ms]
+2026-09-27 18:40:03.437 [info]    [GIT      10ms] [/home/kiwann/learning/guessing-game] git worktree list --porcelain [10ms]
+2026-09-27 18:40:03.459 [info]    [GIT      11ms] [/home/kiwann/learning/guessing-game] git config --get-regex ^(core\.fsmonitor|core\.untrackedcache|core\.commitgraph|core\.multipackindex|core\.sparsecheckout|core\.sparsecheckoutcone|core\.splitindex|extensions\.refstorage|feature\.manyfiles|index\.sparse|maintenance\.incremental-repack\.auto)$ [11ms]
+2026-09-27 18:40:03.459 [info]    [GIT      20ms] [/home/kiwann/learning/guessing-game] git config --type=bool --get core.commitGraph [20ms]
+2026-09-27 18:40:03.463 [info]    [GIT      14ms] [/home/kiwann/learning/guessing-game] git config --local --get-regex ^(extensions\.partialclone|remote\..*\.promisor)$ [14ms]
+2026-09-27 18:40:03.463 [info]    [GIT       3ms] [/home/kiwann/learning/guessing-game] git config --local --get-regex ^(extensions\.partialclone|remote\..*\.promisor)$ [3ms] (waiting)
+2026-09-27 18:40:03.472 [info]    [GIT       9ms] [/home/kiwann/learning/guessing-game] git commit-graph write --reachable --split --changed-paths --max-new-filters=512 [9ms]
+2026-09-27 18:40:03.485 [info]    [GIT      11ms] [/home/kiwann/learning/guessing-game] git config --get-regex ^(core\.fsmonitor|core\.untrackedcache|core\.commitgraph|core\.multipackindex|core\.sparsecheckout|core\.sparsecheckoutcone|core\.splitindex|extensions\.refstorage|feature\.manyfiles|index\.sparse|maintenance\.incremental-repack\.auto)$ [11ms]
+2026-09-27 18:40:03.491 [info]    [GIT      17ms] [/home/kiwann/learning/guessing-game] git config --local --get-regex ^(extensions\.partialclone|remote\..*\.promisor)$ [17ms]
+2026-09-27 18:40:04.057 [error] CancellationError: Operation cancelled   [   f3 →    f4] RefsGitSubProvider.getRefs — failed [43ms]
+2026-09-27 18:40:04.058 [error] CancellationError: Operation cancelled   [           f3] BranchesGitSubProvider.getBranches — failed [44ms]
+2026-09-27 18:40:04.058 [warning] [GIT          ] [/home/kiwann/learning/guessing-game] git for-each-ref --format=%1E%(HEAD)%1D%(refname)%1D%(objectname)%1D%(*objectname)%1D%(upstream)%1D%(upstream:track)%1D%(committerdate:iso8601)%1D%(creatordate:iso8601)%1D%(authordate:iso8601)%1D%(subject)%1D%(worktreepath)%1D refs/heads/ refs/remotes/ refs/tags/ refs/replace/ · ABORTED after 43ms (cancellation)
+2026-09-27 18:40:04.058 [info]    [GIT      43ms] [/home/kiwann/learning/guessing-game] git for-each-ref --format=%1E%(HEAD)%1D%(refname)%1D%(objectname)%1D%(*objectname)%1D%(upstream)%1D%(upstream:track)%1D%(committerdate:iso8601)%1D%(creatordate:iso8601)%1D%(authordate:iso8601)%1D%(subject)%1D%(worktreepath)%1D refs/heads/ refs/remotes/ refs/tags/ refs/replace/ [43ms]
+2026-09-27 18:40:04.853 [info]    [GIT     223ms] [/home/kiwann/learning/guessing-game] git for-each-ref --format=%1E%(HEAD)%1D%(refname)%1D%(objectname)%1D%(*objectname)%1D%(upstream)%1D%(upstream:track)%1D%(committerdate:iso8601)%1D%(creatordate:iso8601)%1D%(authordate:iso8601)%1D%(subject)%1D%(worktreepath)%1D refs/heads/ refs/remotes/ refs/tags/ refs/replace/ [223ms]
+2026-09-27 18:40:04.888 [warning] [   7b →    9c] GitHubIntegration.isConnected returned false [*1829ms] (slow)
+2026-09-27 18:40:04.920 [error] CancellationError: Operation cancelled   [          11c] BranchesGitSubProvider.getBranches — failed [290ms]
+2026-09-27 18:40:04.920 [warning] [GIT          ] [/home/kiwann/learning/guessing-game] git rev-parse --abbrev-ref --symbolic-full-name @ @{u} -- · ABORTED after 66ms (cancellation)
+2026-09-27 18:40:04.920 [error]   [GIT          ] [/home/kiwann/learning/guessing-game] git rev-parse --abbrev-ref --symbolic-full-name @ @{u} -- · cancelled [66ms]
+2026-09-27 18:40:04.968 [error]   [GIT          ] [/home/kiwann/learning] git rev-parse --show-toplevel --git-dir --git-common-dir --show-superproject-working-tree · not a git repository (or any of the parent directories): .git [400ms]
+2026-09-27 18:40:04.969 [warning] [   7f →    c6] GlCliGitProvider.findRepositoryUri(e=Uri(file:///home/kiwann/learning/main.cs), t=undefined) returned undefined [*1579ms] (slow)
+2026-09-27 18:40:04.969 [warning] [   7e →    7f] GitProviderService.getOrAddRepository(e=Uri(file:///home/kiwann/learning/main.cs), t={"opened":false}) returned undefined [*1989ms] (slow)
+2026-09-27 18:40:04.972 [warning] [   7d →    7e] GitUri.fromUri(e=Uri(file:///home/kiwann/learning/main.cs)) returned GitUri(file:///home/kiwann/learning/main.cs) [*1990ms] (slow)
+2026-09-27 18:40:04.972 [warning] [   7c →    7d] TrackedGitDocument(TextDocument(csharp, dirty=false, file:///home/kiwann/learning/main.cs)).initialize(e=true) completed [*1993ms] (slow)
+2026-09-27 18:40:04.972 [warning] [   95 →    96] GitDocumentTracker.get(e=TextDocument(csharp, dirty=false, file:///home/kiwann/learning/main.cs)) completed [*1916ms] (slow)
+2026-09-27 18:40:04.972 [warning] [   7b →    7c] GitDocumentTracker.addCore(e=TextDocument(csharp, dirty=false, file:///home/kiwann/learning/main.cs), t=true) completed [*1994ms] (slow)
+2026-09-27 18:40:04.974 [warning] [   82 →    95] LineTracker.updateState(selections=1, editor=TextEditor(1, file:///home/kiwann/learning/main.cs [1:28-1:28])) returned false • document is not blameable [*1917ms] (slow)
+2026-09-27 18:40:05.089 [warning] [   77 →    78] GlCliGitProvider.getScmGitApiCore completed [*2126ms] (slow)
+2026-09-27 18:40:05.114 [warning] [    c →     d] ServerConnection.fetch(url=https://configs.gitkraken.dev/gitlens/product.json, options=undefined) completed [*2260ms] (slow)
+2026-09-27 18:40:05.116 [warning] [    b →     c] ServerConnection.fetchGkConfig(path=product.json, options=undefined) completed [*2261ms] (slow)
+2026-09-27 18:40:05.801 [info]    [   76 →    77] GlCliGitProvider.findGit SCM.onDidOpenRepository(file:///home/kiwann/learning/guessing-game)
+2026-09-27 18:40:06.255 [info]    [CLI          ] CLI core version is 3.1.75
+2026-09-27 18:40:06.591 [warning] [   f9 →    fa] GkMcpService.getMcpConfig completed [*2569ms] (slow)
+2026-09-27 18:40:06.592 [warning] [  117 →   118] GkMcpService.getMcpConfig completed [*1999ms] (slow)
+2026-09-27 18:40:06.592 [warning] [   8c →    f9] VSCodeMcpHostProvider.provideMcpServerDefinitions({"isCancellationRequested":false}) returned [{"label":"GitKraken","command":"/home/kiwann/.config/Code/User/globalStorage/eamodio.gitlens/gk","args":["mcp","--host=vscode","--source=gitlens","--scheme=vscode"],"env":"<env:@5465>","version":"3.1.70","cwd":{"$mid":1,"path":"/home/kiwann/.config/Code/User/globalStorage/eamodio.gitlens","scheme":"vscode-userdata"}}] [*2570ms] (slow)
+2026-09-27 18:40:06.592 [warning] [   e8 →   117] VSCodeMcpHostProvider.provideMcpServerDefinitions({"isCancellationRequested":false}) returned [{"label":"GitKraken","command":"/home/kiwann/.config/Code/User/globalStorage/eamodio.gitlens/gk","args":["mcp","--host=vscode","--source=gitlens","--scheme=vscode"],"env":"<env:@5465>","version":"3.1.70","cwd":{"$mid":1,"path":"/home/kiwann/.config/Code/User/globalStorage/eamodio.gitlens","scheme":"vscode-userdata"}}] [*2000ms] (slow)
+2026-09-27 18:40:06.878 [info]    [   76 →    77] GlCliGitProvider.findGit fireRepositoryOpened: firing 1 opened repo(s) from vscode.git
+2026-09-27 18:40:06.878 [info]    [          151] GlCliGitProvider.onDidOpenRepository(e=file:///home/kiwann/learning/guessing-game, source=scm) repository=GlRepository(/home/kiwann/learning/guessing-game|1), opened:true→true (closedByScm cleared)
+2026-09-27 18:40:40.373 [info]    [GIT      35ms] [/home/kiwann/learning/guessing-game] git rev-list --max-parents=0 HEAD -- [35ms]
+2026-09-27 18:40:42.372 [warning] [GIT          ] [/home/kiwann/learning/guessing-game] git shortlog -s --all --no-min-parents --since=1.year.ago · ABORTED after 2032ms (timeout)
+2026-09-27 18:40:42.372 [error]   [GIT          ] [/home/kiwann/learning/guessing-game] git shortlog -s --all --no-min-parents --since=1.year.ago · cancelled [2032ms] (slow)
+2026-09-27 18:40:42.372 [error] CancellationError: Operation cancelled; command=/usr/bin/git -c core.quotepath=false -c color.ui=false shortlog -s --all --no-min-parents --since=1.year.ago   [   b1 →   16c] ContributorsGitSubProvider.getContributorsStats 
+2026-09-27 18:40:42.372 [warning] [   b1 →   16c] ContributorsGitSubProvider.getContributorsStats(e=/home/kiwann/learning/guessing-game, t={"since":"1.year.ago"}, i=undefined, r=2000) completed [*2033ms] (slow)
+2026-09-27 18:42:33.391 [error]   [GIT          ] [/home/kiwann/learning/guessing-game] git rev-parse --abbrev-ref --symbolic-full-name @ @{u} -- · bad revision '@' [9ms]
+2026-09-27 18:42:33.401 [info]    [GIT       9ms] [/home/kiwann/learning/guessing-game] git symbolic-ref --short HEAD [9ms]
+2026-09-27 18:42:33.413 [info]    [GIT      11ms] [/home/kiwann/learning/guessing-game] git log -n1 --format=%ct -- [11ms]
+2026-09-27 18:42:33.427 [info]    [GIT      11ms] [/home/kiwann/learning/guessing-game] git config -f /home/kiwann/learning/guessing-game/.git/gk/config branch.master.gk-last-accessed 2026-09-27T11:42:33.414Z [11ms]

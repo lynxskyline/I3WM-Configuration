@@ -1,0 +1,145 @@
+/*****----- Global Properties -----*****/
+* {
+    /* Catppuccin Mocha Palette */
+    bg:          #1e1e2e;
+    bg-alt:      #313244;
+    fg:          #cdd6f4;
+    white:       #ffffff;
+    accent:      #89b4fa;
+    
+    background-color:            transparent;
+    text-color:                  @fg;
+}
+
+/*****----- Configuration -----*****/
+configuration {
+    modi:                       "drun,run,filebrowser";
+    show-icons:                 true;
+    display-drun:               "  ";
+    display-run:                "  ";
+    display-filebrowser:        "  ";
+    drun-display-format:        "{name}  ";
+    font:                       "JetBrains Mono Nerd Font 11";
+}
+
+/*****----- Main Window -----*****/
+window {
+    transparency:                "real";
+    location:                    north;
+    anchor:                      north;
+    width:                       700px; /* Slimmer for list view */
+    y-offset:                    25%;
+
+    enabled:                     true;
+    border:                      1px solid;
+    border-radius:               0px;
+    border-color:                @bg-alt;
+    background-color:            @bg;
+}
+
+/*****----- Main Box -----*****/
+mainbox {
+    enabled:                     true;
+    spacing:                     0px;
+    children:                    [ "inputbar", "listview", "mode-switcher" ];
+}
+
+/*****----- Inputbar -----*****/
+inputbar {
+    enabled:                     true;
+    padding:                     25px;
+    border:                      0px 0px 1px 0px;
+    border-color:                @bg-alt;
+    children:                    [ "prompt", "entry" ];
+}
+
+prompt {
+    enabled:                     true;
+    text-color:                  @accent;
+    font:                        "JetBrains Mono Nerd Font 20";
+}
+
+entry {
+    enabled:                     true;
+    placeholder:                 "Search...";
+    placeholder-color:           #6c7086;
+    /* Bold White Text Input */
+    text-color:                  @white;
+    font:                        "JetBrains Mono Nerd Font 20";
+}
+
+/*****----- Listview -----*****/
+listview {
+    enabled:                     true;
+    columns:                     1; /* Back to List View */
+    lines:                       8;
+    cycle:                       true;
+    dynamic:                     true;
+    scrollbar:                   false;
+    layout:                      vertical;
+    
+    spacing:                     5px;
+    margin:                      10px 20px;
+    background-color:            transparent;
+}
+
+/*****----- Elements -----*****/
+element {
+    enabled:                     true;
+    orientation:                 horizontal; /* Horizontal for List View */
+    spacing:                     15px;
+    padding:                     10px;
+    border-radius:               10px;
+    cursor:                      pointer;
+}
+
+element normal.normal, 
+element alternate.normal {
+    background-color:            transparent;
+    text-color:                  @fg;
+}
+
+element selected.normal {
+    background-color:            @bg-alt;
+    text-color:                  @accent;
+}
+
+element-icon {
+    background-color:            transparent;
+    size:                        32px; /* Smaller icons for list */
+    vertical-align:              0.5;
+}
+
+/* Logic to handle icon-less modes like 'run' */
+element-icon missing {
+    enabled: false;
+}
+
+element-text {
+    background-color:            transparent;
+    text-color:                  inherit;
+    font:                        "Inter Varialbe 12" ;
+    vertical-align:              0.5;
+    horizontal-align:            0.0;
+}
+
+/*****----- Mode Switcher (Bottom Sections) -----*****/
+mode-switcher {
+    enabled:                     true;
+    spacing:                     0px;
+    margin:                      0px;
+    padding:                     0px;
+    background-color:            @bg-alt;
+}
+
+button {
+    padding:                     12px;
+    background-color:            transparent;
+    text-color:                  @fg;
+    cursor:                      pointer;
+}
+
+button selected {
+    background-color:            @accent;
+    text-color:                  @bg;
+}

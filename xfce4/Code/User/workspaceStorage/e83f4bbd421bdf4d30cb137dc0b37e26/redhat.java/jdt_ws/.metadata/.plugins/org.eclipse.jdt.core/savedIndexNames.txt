@@ -1,0 +1,2 @@
+INDEX VERSION 1.134+/home/kiwann/.config/Code/User/workspaceStorage/e83f4bbd421bdf4d30cb137dc0b37e26/redhat.java/jdt_ws/.metadata/.plugins/org.eclipse.jdt.core
+3005082262.index

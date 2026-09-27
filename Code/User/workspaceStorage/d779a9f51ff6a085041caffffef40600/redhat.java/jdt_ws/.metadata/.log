@@ -1,0 +1,126 @@
+!SESSION 2026-09-12 19:14:58.660 -----------------------------------------------
+eclipse.buildId=unknown
+java.version=21.0.12.1
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_US
+Framework arguments:  --pipe=/run/user/1000/lsp-3332601db7a92c5143a404c4724e218d.sock
+Command-line arguments:  -data /home/kiwann/.config/Code/User/workspaceStorage/d779a9f51ff6a085041caffffef40600/redhat.java/jdt_ws --pipe=/run/user/1000/lsp-3332601db7a92c5143a404c4724e218d.sock
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-09-12 19:15:11.873
+!MESSAGE class org.eclipse.jdt.ls.core.internal.JavaLanguageServerPlugin is started
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-09-12 19:15:12.541
+!MESSAGE Started org.eclipse.buildship.core 473ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-09-12 19:15:12.550
+!MESSAGE Started org.eclipse.m2e.core 0ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-09-12 19:15:13.680
+!MESSAGE Main thread is waiting
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-09-12 19:15:14.132
+!MESSAGE >> initialize
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-09-12 19:15:14.166
+!MESSAGE Initializing JDT Language Server (Standard)
+	- Version: 1.61.0-SNAPSHOT (OSGi 1.61.0.202609021834)
+	- Git Commit: 08eafe6 - CHANGELOG for 1.61.0
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-09-12 19:15:16.484
+!MESSAGE ProjectRegistryRefreshJob finished 3930ms
+
+!ENTRY org.eclipse.jdt.launching 4 0 2026-09-12 19:15:17.885
+!MESSAGE Target is not a JDK root. System library was not found.
+
+!ENTRY org.eclipse.jdt.launching 4 0 2026-09-12 19:15:19.223
+!MESSAGE Target is not a JDK root. System library was not found.
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-09-12 19:15:19.230
+!MESSAGE Setting java.home /usr/lib/jvm/java-21-openjdk as default global VM
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-09-12 19:15:19.269
+!MESSAGE Default VM Install changed from  1789215316846-/home/kiwann/.vscode/extensions/redhat.java-1.56.0-linux-x64/jre/21.0.12.1-linux-x86_64 to 1789215319224-/usr/lib/jvm/java-21-openjdk
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-09-12 19:15:19.348
+!MESSAGE JVM Runtimes changed, saving new configuration
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-09-12 19:15:19.437
+!MESSAGE Static Commands: []
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-09-12 19:15:19.438
+!MESSAGE Non-Static Commands: [java.project.import, java.project.changeImportedProjects, java.navigate.openTypeHierarchy, java.project.resolveStackTraceLocation, java.edit.handlePasteEvent, java.edit.stringFormatting, java.project.getSettings, java.project.resolveWorkspaceSymbol, java.project.upgradeGradle, java.project.createModuleInfo, java.vm.getAllInstalls, java.edit.organizeImports, java.project.refreshDiagnostics, java.getFullyQualifiedName, java.project.removeFromSourcePath, java.project.listSourcePaths, java.project.updateSettings, java.project.getAll, java.reloadBundles, java.project.isTestFile, java.project.resolveText, java.project.getClasspaths, java.navigate.resolveTypeHierarchy, java.getTroubleshootingInfo, java.edit.smartSemicolonDetection, java.project.updateSourceAttachment, java.project.updateClassPaths, java.decompile, java.protobuf.generateSources, java.project.resolveSourceAttachment, java.project.updateJdk, java.project.addToSourcePath, java.completion.onDidSelect]
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-09-12 19:15:19.438
+!MESSAGE Static Commands: []
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-09-12 19:15:19.439
+!MESSAGE Non-Static Commands: [java.gradle.delegateTest]
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-09-12 19:15:19.440
+!MESSAGE Static Commands: []
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-09-12 19:15:19.440
+!MESSAGE Non-Static Commands: [vscode.java.checkProjectSettings, vscode.java.isOnClasspath, vscode.java.fetchUsageData, vscode.java.validateLaunchConfig, vscode.java.resolveInlineVariables, vscode.java.resolveClassFilters, vscode.java.resolveMainMethod, vscode.java.resolveClasspath, vscode.java.resolveBuildFiles, vscode.java.resolveMainClass, vscode.java.updateDebugSettings, vscode.java.resolveSourceUri, vscode.java.fetchPlatformSettings, vscode.java.buildWorkspace, vscode.java.startDebugSession, vscode.java.inferLaunchCommandLength, vscode.java.resolveElementAtSelection, vscode.java.resolveJavaExecutable]
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-09-12 19:15:19.444
+!MESSAGE Static Commands: []
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-09-12 19:15:19.448
+!MESSAGE Non-Static Commands: [java.project.refreshLib, java.project.checkImportStatus, java.project.list, java.project.generateJar, java.project.getFileImports, java.project.getMainClasses, java.project.getImportClassContent, java.getPackageData, java.project.getDependencies, java.resolvePath]
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-09-12 19:15:19.449
+!MESSAGE Static Commands: []
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-09-12 19:15:19.449
+!MESSAGE Non-Static Commands: [vscode.java.test.jacoco.getCoverageDetail, vscode.java.test.findJavaProjects, vscode.java.test.findTestPackagesAndTypes, vscode.java.test.findTestTypesAndMethods, vscode.java.test.resolvePath, vscode.java.test.findTestLocation, vscode.java.test.get.testpath, vscode.java.test.findDirectTestChildrenForClass, vscode.java.test.navigateToTestOrTarget, vscode.java.test.junit.argument, vscode.java.test.generateTests]
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-09-12 19:15:19.450
+!MESSAGE Static Commands: []
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-09-12 19:15:19.451
+!MESSAGE Non-Static Commands: [java.maven.initializeSearcher, java.maven.searchArtifact, java.maven.addDependency, java.maven.controlContext]
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-09-12 19:15:19.512
+!MESSAGE RepositoryRegistryUpdateJob finished 10ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-09-12 19:15:19.597
+!MESSAGE >> initialized
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-09-12 19:15:19.621
+!MESSAGE Importers: GradleBuildServerProjectImporter, GradleProjectImporter, MavenProjectImporter, EclipseProjectImporter, InvisibleProjectImporter
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-09-12 19:15:19.914
+!MESSAGE Workspace initialized in 407ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-09-12 19:15:19.945
+!MESSAGE >> initialization job finished
+
+!ENTRY org.eclipse.jdt.launching 4 0 2026-09-12 19:15:20.052
+!MESSAGE Target is not a JDK root. System library was not found.
+
+!ENTRY org.eclipse.jdt.launching 4 0 2026-09-12 19:15:20.071
+!MESSAGE Target is not a JDK root. System library was not found.
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-09-12 19:15:20.083
+!MESSAGE JVM Runtimes changed, saving new configuration
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-09-12 19:15:20.607
+!MESSAGE >> build jobs finished
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-09-12 19:15:20.614
+!MESSAGE >> registerWatchers'
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-09-12 19:15:20.621
+!MESSAGE >> registerFeature 'workspace/didChangeWatchedFiles'
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-09-12 19:16:03.162
+!MESSAGE >> shutdown
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-09-12 19:16:03.226
+!MESSAGE >> exit
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-09-12 19:16:03.588
+!MESSAGE Shutdown received... waking up main thread
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-09-12 19:16:03.637
+!MESSAGE class org.eclipse.jdt.ls.core.internal.JavaLanguageServerPlugin is stopping:

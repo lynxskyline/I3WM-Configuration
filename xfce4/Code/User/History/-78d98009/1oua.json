@@ -1,0 +1,50 @@
+{
+    "redhat.telemetry.enabled": true,
+    "files.autoSave": "afterDelay",
+    "workbench.iconTheme": "material-icon-theme",
+    "workbench.startupEditor": "none",
+    "editor.fontSize": 15,
+    "extensions.experimental.affinity": {
+        "asvetliakov.vscode-neovim": 1
+    },
+    "explorer.confirmDelete": false,
+    "github.copilot.nextEditSuggestions.enabled": false,
+    "C_Cpp.intelliSenseEngine": "disabled",
+    "github.copilot.enable": {
+        "*": false,
+        "plaintext": false,
+        "markdown": false,
+        "scminput": false,
+        "c": false
+    },
+    "github.copilot.nextEditSuggestions.eagerness": "low",
+    "editor.autoClosingBrackets": "always",
+    "C_Cpp.autocompleteAddParentheses": true,
+    "editor.autoClosingComments": "always",
+    "editor.autoClosingQuotes": "always",
+    "files.autoGuessEncoding": true,
+    "code-runner.runInTerminal": true,
+    "code-runner.executorMap": {
+        "c": "gcc \"$fullFileName\" -o \"$dir$fileNameWithoutExt\" && \"$dir$fileNameWithoutExt\"",
+        "csharp": "dotnet run"
+    },
+    "editor.linkedEditing": true,
+    "git.openRepositoryInParentFolders": "always",
+    "php.problems.exclude": {
+        "**/*": [
+            "PHP0413"
+        ]
+    },
+    "window.density.layout": "compact",
+    "workbench.colorTheme": "One Dark Pro Night Flat",
+    "vscode-neovim.compositeKeys": {
+        "jj": {
+            "command": "vscode-neovim.escape"
+        },
+        "jk": {
+            "command": "vscode-neovim.escape"
+        }
+    },
+    "vscode-neovim.compositeTimeout": 300
+}
+

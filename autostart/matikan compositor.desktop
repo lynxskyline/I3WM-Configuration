@@ -1,0 +1,13 @@
+[Desktop Entry]
+Encoding=UTF-8
+Version=0.9.4
+Type=Application
+Name=matikan compositor
+Comment=Mematikan compositor XFCE4 saat startup
+Exec=xfconf-query --channel=xfwm4 --property=/general/use_compositing --set=false
+OnlyShowIn=XFCE;
+RunHook=0
+StartupNotify=false
+Terminal=false
+Hidden=false
+

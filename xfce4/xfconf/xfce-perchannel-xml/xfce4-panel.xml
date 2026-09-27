@@ -1,0 +1,221 @@
+<?xml version="1.1" encoding="UTF-8"?>
+
+<channel name="xfce4-panel" version="1.0">
+  <property name="configver" type="int" value="2"/>
+  <property name="panels" type="array">
+    <value type="int" value="1"/>
+    <property name="dark-mode" type="bool" value="true"/>
+    <property name="panel-1" type="empty">
+      <property name="position" type="string" value="p=6;x=960;y=22"/>
+      <property name="length" type="double" value="100"/>
+      <property name="position-locked" type="bool" value="true"/>
+      <property name="icon-size" type="uint" value="0"/>
+      <property name="size" type="uint" value="43"/>
+      <property name="plugin-ids" type="array">
+        <value type="int" value="1"/>
+        <value type="int" value="12"/>
+        <value type="int" value="43"/>
+        <value type="int" value="3"/>
+        <value type="int" value="6"/>
+        <value type="int" value="17"/>
+        <value type="int" value="7"/>
+        <value type="int" value="14"/>
+        <value type="int" value="28"/>
+        <value type="int" value="8"/>
+        <value type="int" value="26"/>
+        <value type="int" value="44"/>
+        <value type="int" value="25"/>
+        <value type="int" value="2"/>
+        <value type="int" value="23"/>
+        <value type="int" value="35"/>
+        <value type="int" value="32"/>
+        <value type="int" value="18"/>
+        <value type="int" value="24"/>
+        <value type="int" value="15"/>
+        <value type="int" value="22"/>
+        <value type="int" value="21"/>
+      </property>
+      <property name="enter-opacity" type="uint" value="100"/>
+      <property name="leave-opacity" type="uint" value="100"/>
+    </property>
+  </property>
+  <property name="plugins" type="empty">
+    <property name="plugin-3" type="string" value="separator">
+      <property name="expand" type="bool" value="true"/>
+      <property name="style" type="uint" value="0"/>
+    </property>
+    <property name="plugin-6" type="string" value="systray">
+      <property name="square-icons" type="bool" value="true"/>
+      <property name="known-legacy-items" type="array">
+        <value type="string" value="wi-fi network connection “pakeweh” active: pakeweh (84%)"/>
+        <value type="string" value="wi-fi network connection “hana” active: hana (53%)"/>
+        <value type="string" value="wi-fi network connection “hana” active: hana (51%)"/>
+        <value type="string" value="networkmanager applet"/>
+        <value type="string" value="wi-fi network connection “pakeweh” active: pakeweh (91%)"/>
+        <value type="string" value="wi-fi network connection “pakeweh” active: pakeweh (89%)"/>
+        <value type="string" value="wi-fi network connection “pakeweh” active: pakeweh (97%)"/>
+        <value type="string" value="wi-fi network connection “hana” active: hana (70%)"/>
+      </property>
+      <property name="known-items" type="array">
+        <value type="string" value="Mechvibes2"/>
+        <value type="string" value="qBittorrent"/>
+        <value type="string" value="Mechvibes1"/>
+        <value type="string" value="chrome_status_icon_1"/>
+        <value type="string" value="blueman"/>
+      </property>
+    </property>
+    <property name="plugin-7" type="string" value="separator">
+      <property name="style" type="uint" value="1"/>
+    </property>
+    <property name="plugin-8" type="string" value="clock">
+      <property name="mode" type="uint" value="2"/>
+      <property name="tooltip-format" type="string" value="%A %d %B %Y"/>
+      <property name="digital-layout" type="uint" value="0"/>
+      <property name="show-week-numbers" type="bool" value="true"/>
+      <property name="timezone" type="string" value="Asia/Jakarta"/>
+    </property>
+    <property name="plugin-1" type="string" value="whiskermenu">
+      <property name="recent" type="array">
+        <value type="string" value="xfce4-terminal.desktop"/>
+        <value type="string" value="firefox.desktop"/>
+        <value type="string" value="htop.desktop"/>
+        <value type="string" value="mpv.desktop"/>
+        <value type="string" value="org.xfce.mousepad.desktop"/>
+        <value type="string" value="thunar.desktop"/>
+        <value type="string" value="spotify-launcher.desktop"/>
+        <value type="string" value="xfburn.desktop"/>
+        <value type="string" value="xfce4-dict.desktop"/>
+      </property>
+      <property name="menu-opacity" type="int" value="100"/>
+      <property name="favorites" type="array">
+        <value type="string" value="firefox.desktop"/>
+        <value type="string" value="xfce4-terminal-emulator.desktop"/>
+        <value type="string" value="xfce4-file-manager.desktop"/>
+        <value type="string" value="com.microsoft.VSCode.desktop"/>
+        <value type="string" value="android-studio.desktop"/>
+        <value type="string" value="spotify-launcher.desktop"/>
+        <value type="string" value="chrome-hnpfjngllnobngcgfapefoaidbinmjnm-Default.desktop"/>
+        <value type="string" value="chrome-akpamiohjfcnimfljfndmaldlcfphjmp-Default.desktop"/>
+        <value type="string" value="chrome-aaojcnbmdlollfcpaobmilaminjfonbk-Default.desktop"/>
+        <value type="string" value="org.vinegarhq.Sober.desktop"/>
+        <value type="string" value="legacy-launcher.desktop"/>
+        <value type="string" value="steam.desktop"/>
+      </property>
+      <property name="menu-width" type="int" value="497"/>
+      <property name="menu-height" type="int" value="568"/>
+      <property name="launcher-show-name" type="bool" value="true"/>
+      <property name="show-button-title" type="bool" value="true"/>
+      <property name="button-title" type="string" value="applications"/>
+      <property name="position-profile-alternate" type="bool" value="false"/>
+      <property name="position-categories-alternate" type="bool" value="false"/>
+      <property name="position-categories-horizontal" type="bool" value="false"/>
+      <property name="position-commands-alternate" type="bool" value="false"/>
+      <property name="position-search-alternate" type="bool" value="false"/>
+      <property name="view-mode" type="int" value="1"/>
+      <property name="button-icon" type="string" value="xfce4_xicon1"/>
+    </property>
+    <property name="plugin-12" type="string" value="separator">
+      <property name="style" type="uint" value="1"/>
+    </property>
+    <property name="plugin-14" type="string" value="pulseaudio">
+      <property name="enable-keyboard-shortcuts" type="bool" value="true"/>
+      <property name="known-players" type="string" value="Chromium;firefox;spotify"/>
+      <property name="rec-indicator-persistent" type="bool" value="false"/>
+      <property name="play-sound" type="bool" value="false"/>
+    </property>
+    <property name="plugin-2" type="string" value="xfce4-clipman-plugin"/>
+    <property name="plugin-15" type="string" value="weather">
+      <property name="location" type="empty">
+        <property name="name" type="string" value="Kota Bandung, Jawa Barat"/>
+        <property name="latitude" type="string" value="-6.921846"/>
+        <property name="longitude" type="string" value="107.607083"/>
+      </property>
+      <property name="msl" type="int" value="709"/>
+      <property name="timezone" type="string" value="Asia/Jakarta"/>
+      <property name="offset" type="string" value="+07:00"/>
+      <property name="cache-max-age" type="int" value="172800"/>
+      <property name="power-saving" type="bool" value="true"/>
+      <property name="units" type="empty">
+        <property name="temperature" type="int" value="0"/>
+        <property name="pressure" type="int" value="0"/>
+        <property name="windspeed" type="int" value="0"/>
+        <property name="precipitation" type="int" value="0"/>
+        <property name="altitude" type="int" value="0"/>
+        <property name="apparent-temperature" type="int" value="2"/>
+      </property>
+      <property name="round" type="bool" value="true"/>
+      <property name="single-row" type="bool" value="true"/>
+      <property name="tooltip-style" type="int" value="1"/>
+      <property name="forecast" type="empty">
+        <property name="layout" type="int" value="1"/>
+        <property name="days" type="int" value="5"/>
+      </property>
+      <property name="theme-dir" type="string" value="/usr/share/xfce4/weather/icons/liquid-dark"/>
+      <property name="scrollbox" type="empty">
+        <property name="show" type="bool" value="true"/>
+        <property name="animate" type="bool" value="true"/>
+        <property name="lines" type="int" value="1"/>
+        <property name="color" type="string" value="rgba(0,0,0,0)"/>
+        <property name="use-color" type="bool" value="false"/>
+      </property>
+    </property>
+    <property name="plugin-17" type="string" value="xfce4-sensors-plugin"/>
+    <property name="plugin-18" type="string" value="xfce4-mount-plugin"/>
+    <property name="plugin-21" type="string" value="actions">
+      <property name="items" type="array">
+        <value type="string" value="+lock-screen"/>
+        <value type="string" value="-switch-user"/>
+        <value type="string" value="-separator"/>
+        <value type="string" value="-suspend"/>
+        <value type="string" value="-hibernate"/>
+        <value type="string" value="-hybrid-sleep"/>
+        <value type="string" value="-separator"/>
+        <value type="string" value="+shutdown"/>
+        <value type="string" value="-restart"/>
+        <value type="string" value="-separator"/>
+        <value type="string" value="+logout"/>
+        <value type="string" value="-logout-dialog"/>
+      </property>
+    </property>
+    <property name="plugin-22" type="string" value="separator"/>
+    <property name="plugin-23" type="string" value="separator"/>
+    <property name="plugin-24" type="string" value="separator"/>
+    <property name="plugin-25" type="string" value="separator"/>
+    <property name="plugin-26" type="string" value="separator"/>
+    <property name="plugin-28" type="string" value="separator"/>
+    <property name="plugin-32" type="string" value="directorymenu">
+      <property name="base-directory" type="string" value="/home/kiwann"/>
+      <property name="open-folder" type="bool" value="true"/>
+      <property name="open-in-terminal" type="bool" value="true"/>
+      <property name="new-folder" type="bool" value="true"/>
+      <property name="new-document" type="bool" value="true"/>
+      <property name="hidden-files" type="bool" value="false"/>
+    </property>
+    <property name="plugin-35" type="string" value="xfce4-notes-plugin"/>
+    <property name="notes" type="empty">
+      <property name="global" type="empty">
+        <property name="version" type="string" value="1.12.0"/>
+      </property>
+    </property>
+    <property name="clipman" type="empty">
+      <property name="tweaks" type="empty">
+        <property name="never-confirm-history-clear" type="bool" value="true"/>
+        <property name="paste-on-activate" type="uint" value="1"/>
+        <property name="reverse-menu-order" type="bool" value="false"/>
+        <property name="reorder-items" type="bool" value="true"/>
+      </property>
+      <property name="settings" type="empty">
+        <property name="show-qr-code" type="bool" value="true"/>
+      </property>
+    </property>
+    <property name="plugin-43" type="string" value="tasklist">
+      <property name="show-handle" type="bool" value="false"/>
+      <property name="show-tooltips" type="bool" value="true"/>
+      <property name="show-labels" type="bool" value="false"/>
+      <property name="sort-order" type="uint" value="4"/>
+      <property name="include-all-workspaces" type="bool" value="true"/>
+      <property name="flat-buttons" type="bool" value="true"/>
+    </property>
+    <property name="plugin-44" type="string" value="power-manager-plugin"/>
+  </property>
+</channel>
