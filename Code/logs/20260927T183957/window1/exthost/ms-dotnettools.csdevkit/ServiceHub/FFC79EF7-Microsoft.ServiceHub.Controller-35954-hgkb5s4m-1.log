@@ -354,3 +354,51 @@
 09/27/2026 18:40:26 Western Indonesia Time : Information : Microsoft.ServiceHub.Controller.HubController write: Content-Length: 163
 
 {"jsonrpc":"2.0","id":21,"result":{"RequestId":"43bb798a-ac01-49eb-89cd-99ab5b17e8c5","PipeName":"/home/kiwann/.ServiceHub/b3574825db/1273a832a9","IsEmpty":false}}
+09/27/2026 19:29:49 Western Indonesia Time : Information : Microsoft.ServiceHub.Controller.HubController read: Content-Length: 332
+
+{"jsonrpc":"2.0","id":22,"method":"requestServiceChannel","params":[{"Name":"Microsoft.VisualStudio.LaunchConfigurationService"},{"ActivationArguments":{"__servicehub__ServiceHubRemoteServiceBrokerPipeName":"/home/kiwann/.ServiceHub/b3574825db/c84f585fec"},"ClientCredentials":{},"ClientCulture":"en-US","ClientUICulture":"en-US"}]}
+09/27/2026 19:29:49 Western Indonesia Time : Information : Locating service 'Microsoft.VisualStudio.LaunchConfigurationService' requested by VsHubClient (pid:35883)
+09/27/2026 19:29:49 Western Indonesia Time : Information : Service 'Microsoft.VisualStudio.LaunchConfigurationService' has not been loaded before. Loading now.
+09/27/2026 19:29:49 Western Indonesia Time : Information : LocationService write: Content-Length: 978
+
+{"jsonrpc":"2.0","id":20,"method":"StartServiceAsync","params":[{"name":"Microsoft.VisualStudio.LaunchConfigurationService","host":"dotnet.projectSystem","hostId":"C94B8CFE-E3FD-4BAF-A941-2866DBB566FE","serviceBaseDirectory":"/home/kiwann/.vscode/extensions/ms-dotnettools.csdevkit-3.40.210-linux-x64/components/CPS/platforms/linux-x64/node_modules/@microsoft/visualstudio-projectsystem-server.linux-x64","entryPoint":{"assemblyPath":"/home/kiwann/.vscode/extensions/ms-dotnettools.csdevkit-3.40.210-linux-x64/components/CPS/platforms/linux-x64/node_modules/@microsoft/visualstudio-projectsystem-server.linux-x64/Microsoft.VisualStudio.ProjectSystem.Server.Implementation.dll","fullClassName":"Microsoft.VisualStudio.ProjectSystem.Server.LaunchConfigurationServiceFactory"}},{"ActivationArguments":{"__servicehub__ServiceHubRemoteServiceBrokerPipeName":"/home/kiwann/.ServiceHub/b3574825db/c84f585fec"},"ClientCredentials":{},"ClientCulture":"en-US","ClientUICulture":"en-US"}]}
+09/27/2026 19:29:49 Western Indonesia Time : Information : LocationService read: Content-Length: 83
+
+{"jsonrpc":"2.0","id":20,"result":"/home/kiwann/.ServiceHub/b3574825db/1de05074b7"}
+09/27/2026 19:29:49 Western Indonesia Time : Information : Located service \'Microsoft.VisualStudio.LaunchConfigurationService\' at '/home/kiwann/.ServiceHub/b3574825db/1de05074b7 @ dotnet.projectSystem$C94B8CFE-E3FD-4BAF-A941-2866DBB566FE' requested by VsHubClient (pid:35883)
+09/27/2026 19:29:49 Western Indonesia Time : Information : Microsoft.ServiceHub.Controller.HubController write: Content-Length: 163
+
+{"jsonrpc":"2.0","id":22,"result":{"RequestId":"21b18389-ba60-4217-aa62-7312bc7e8c55","PipeName":"/home/kiwann/.ServiceHub/b3574825db/1de05074b7","IsEmpty":false}}
+09/27/2026 19:29:50 Western Indonesia Time : Information : Microsoft.ServiceHub.Controller.HubController read: end of stream
+09/27/2026 19:29:50 Western Indonesia Time : Information : JsonRpc disconnected due to RemotePartyTerminated. Reached end of stream.
+09/27/2026 19:29:50 Western Indonesia Time : Information : LocationService read: Content-Length: 108
+
+{"jsonrpc":"2.0","method":"HostServicesEndedAsync","params":["dotnet$C94B8CFE-E3FD-4BAF-A941-2866DBB566FE"]}
+09/27/2026 19:29:50 Western Indonesia Time : Information : Microsoft.ServiceHub.Controller.HubController read: end of stream
+09/27/2026 19:29:50 Western Indonesia Time : Information : JsonRpc disconnected due to RemotePartyTerminated. Reached end of stream.
+09/27/2026 19:29:50 Western Indonesia Time : Information : External client disconnected from client watch.
+09/27/2026 19:29:50 Western Indonesia Time : Information : Starting fast shutdown
+09/27/2026 19:29:50 Western Indonesia Time : Information : Exiting hub controller.
+09/27/2026 19:29:50 Western Indonesia Time : Information : Controller terminating with exit code '0'.
+09/27/2026 19:29:50 Western Indonesia Time : Information : Stopping host 'dotnet.projectSystem$C94B8CFE-E3FD-4BAF-A941-2866DBB566FE' PID: 36014
+09/27/2026 19:29:50 Western Indonesia Time : Information : LocationService write: Content-Length: 58
+
+{"jsonrpc":"2.0","id":21,"method":"ExitAsync","params":[]}
+09/27/2026 19:29:50 Western Indonesia Time : Information : Releasing single controller instance mutex.
+09/27/2026 19:29:50 Western Indonesia Time : Information : LocationService read: Content-Length: 39
+
+{"jsonrpc":"2.0","id":21,"result":null}
+09/27/2026 19:29:50 Western Indonesia Time : Information : Stopping host 'dotnet$C94B8CFE-E3FD-4BAF-A941-2866DBB566FE' PID: 36022
+09/27/2026 19:29:50 Western Indonesia Time : Information : Host 'dotnet.projectSystem$C94B8CFE-E3FD-4BAF-A941-2866DBB566FE' has been removed from the hosts cache.
+09/27/2026 19:29:50 Western Indonesia Time : Information : LocationService write: Content-Length: 57
+
+{"jsonrpc":"2.0","id":5,"method":"ExitAsync","params":[]}
+09/27/2026 19:29:50 Western Indonesia Time : Information : Waiting for host 'dotnet.projectSystem$C94B8CFE-E3FD-4BAF-A941-2866DBB566FE' with pid '36014' to exit...
+09/27/2026 19:29:50 Western Indonesia Time : Information : LocationService read: end of stream
+09/27/2026 19:29:50 Western Indonesia Time : Information : LocationService read: Content-Length: 38
+
+{"jsonrpc":"2.0","id":5,"result":null}
+09/27/2026 19:29:50 Western Indonesia Time : Information : Host 'dotnet$C94B8CFE-E3FD-4BAF-A941-2866DBB566FE' has been removed from the hosts cache.
+09/27/2026 19:29:50 Western Indonesia Time : Information : Waiting for host 'dotnet$C94B8CFE-E3FD-4BAF-A941-2866DBB566FE' with pid '36022' to exit...
+09/27/2026 19:29:50 Western Indonesia Time : Information : LocationService read: end of stream
+09/27/2026 19:29:50 Western Indonesia Time : Information : Waiting for all hosts to shutdown. Running hosts: dotnet.projectSystem$C94B8CFE-E3FD-4BAF-A941-2866DBB566FE, dotnet$C94B8CFE-E3FD-4BAF-A941-2866DBB566FE

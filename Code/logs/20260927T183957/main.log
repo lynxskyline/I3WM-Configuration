@@ -12,3 +12,17 @@
 2026-09-27 19:08:43.341 [warning] [File Watcher (node.js)] Watcher shutdown because watched path got deleted
 2026-09-27 19:08:43.345 [warning] [File Watcher (node.js)] Watcher shutdown because watched path got deleted
 2026-09-27 19:08:45.706 [error] [storage state.vscdb] prepare(): Error: SQLITE_READONLY_DBMOVED: attempt to write a readonly database (INSERT INTO ItemTable VALUES (?,?),(?,?),(?,?) ON CONFLICT (key) DO UPDATE SET value = excluded.value WHERE value != excluded.value). Details: Keys: workbench.activity.placeholderViewlets, iconThemeData, colorThemeData Length: 139413
+2026-09-27 19:10:16.670 [error] [storage state.vscdb] prepare(): Error: SQLITE_READONLY_DBMOVED: attempt to write a readonly database (INSERT INTO ItemTable VALUES (?,?) ON CONFLICT (key) DO UPDATE SET value = excluded.value WHERE value != excluded.value). Details: Keys: GitHub.copilot-chat Length: 12059
+2026-09-27 19:29:48.802 [error] [storage state.vscdb] prepare(): Error: SQLITE_READONLY_DBMOVED: attempt to write a readonly database (INSERT INTO ItemTable VALUES (?,?),(?,?),(?,?),(?,?),(?,?) ON CONFLICT (key) DO UPDATE SET value = excluded.value WHERE value != excluded.value). Details: Keys: memento/workbench.parts.editor, history.entries, memento/workbench.editors.files.textFileEditor, workbench.statusBar.hidden, chat.customModes.local Length: 11618
+2026-09-27 19:29:49.554 [info] Extension host with pid 34913 exited with code: 0, signal: unknown.
+2026-09-27 19:29:49.851 [error] [storage state.vscdb] prepare(): Error: SQLITE_READONLY_DBMOVED: attempt to write a readonly database (INSERT INTO ItemTable VALUES (?,?),(?,?),(?,?) ON CONFLICT (key) DO UPDATE SET value = excluded.value WHERE value != excluded.value). Details: Keys: __$__targetStorageMarker, lifecyle.lastShutdownReason, codelens/cache2 Length: 4564
+2026-09-27 19:29:49.851 [error] [storage state.vscdb] prepare(): Error: SQLITE_READONLY_DBMOVED: attempt to write a readonly database (INSERT INTO ItemTable VALUES (?,?),(?,?),(?,?) ON CONFLICT (key) DO UPDATE SET value = excluded.value WHERE value != excluded.value). Details: Keys: editorFontInfo, commandPalette.mru.cache, commandPalette.mru.counter Length: 2128
+2026-09-27 19:29:50.026 [info] Extension host with pid 34757 exited with code: 0, signal: unknown.
+2026-09-27 19:29:50.318 [error] Error: ENOENT: no such file or directory, unlink '/home/kiwann/.config/Code/User/workspaceStorage/e83f4bbd421bdf4d30cb137dc0b37e26/state.vscdb'
+    at async Object.unlink (node:internal/fs/promises:1779:10)
+    at async i.doClose (file:///usr/share/code/resources/app/out/main.js:37:31104)
+    at async i.doClose (file:///usr/share/code/resources/app/out/main.js:39:145042)
+    at async i.close (file:///usr/share/code/resources/app/out/main.js:39:144332)
+    at async Promise.all (index 4)
+    at async Object.i [as settled] (file:///usr/share/code/resources/app/out/main.js:31:92628)
+    at async file:///usr/share/code/resources/app/out/main.js:39:132029

@@ -43,3 +43,103 @@
 2026-09-27 19:08:43.473 [info] ExtensionService#_doActivateExtension vscode.extension-editing, startup: false, activationEvent: 'onLanguage:json'
 2026-09-27 19:08:43.503 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:json'
 2026-09-27 19:08:43.603 [info] ExtensionService#_doActivateExtension vscode.npm, startup: false, activationEvent: 'onLanguage:json'
+2026-09-27 19:29:49.526 [info] Extension host terminating: received terminate message from renderer
+2026-09-27 19:29:49.549 [warning] ExtHostTextEditorOptions 'setCursorStyle' failed:'
+2026-09-27 19:29:49.553 [warning] Canceled
+2026-09-27 19:29:49.553 [info] Extension host with pid 34913 exiting with code 0
+2026-09-27 19:29:49.556 [info] Extension host terminating: received terminate message from renderer
+2026-09-27 19:29:49.622 [error] An error occurred when disposing the subscriptions for extension 'eamodio.gitlens':
+2026-09-27 19:29:49.655 [error] Error: Channel has been closed
+    at r (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:171:3935)
+    at Object.info (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:171:4305)
+    at Logger.info (/home/kiwann/.vscode/extensions/eamodio.gitlens-19.2.0/dist/gitlens.js:639:112633)
+    at GkCliService.stopIpc (/home/kiwann/.vscode/extensions/eamodio.gitlens-19.2.0/dist/gitlens.js:1120:55587)
+    at GkCliService.dispose (/home/kiwann/.vscode/extensions/eamodio.gitlens-19.2.0/dist/gitlens.js:1120:53421)
+    at /home/kiwann/.vscode/extensions/eamodio.gitlens-19.2.0/dist/gitlens.js:1007:69937
+    at Array.forEach (<anonymous>)
+    at Object.dispose (/home/kiwann/.vscode/extensions/eamodio.gitlens-19.2.0/dist/gitlens.js:1007:69918)
+    at xn (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:26:736)
+    at U_._fn (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:168:18537)
+    at U_.dispose (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:26:1248)
+    at t_._deactivate (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:168:14854)
+    at file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:168:12156
+    at Array.map (<anonymous>)
+    at t_._deactivateAll (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:168:12144)
+    at t_.terminate (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:168:12495)
+    at i.terminate (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:170:1072)
+    at ya (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:473:11797)
+    at $p.value (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:473:9939)
+    at T._deliver (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:28:3617)
+    at T.fire (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:28:3935)
+    at ws.fire (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:30:8627)
+    at MessagePortMain.<anonymous> (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:473:8171)
+    at MessagePortMain.emit (node:events:514:28)
+    at Object.emit (node:electron/js2c/utility_init:2:2934)
+2026-09-27 19:29:49.675 [error] An error occurred when disposing the subscriptions for extension 'ms-dotnettools.csdevkit':
+2026-09-27 19:29:49.676 [error] Error: Connection is disposed.
+    at le (/home/kiwann/.vscode/extensions/ms-dotnettools.csdevkit-3.40.210-linux-x64/dist/extension.js:2:730594)
+    at Object.sendNotification (/home/kiwann/.vscode/extensions/ms-dotnettools.csdevkit-3.40.210-linux-x64/dist/extension.js:2:731437)
+    at Proxy.dispose (/home/kiwann/.vscode/extensions/ms-dotnettools.csdevkit-3.40.210-linux-x64/dist/extension.js:2:181496)
+    at xn (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:26:736)
+    at U_._fn (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:168:18537)
+    at U_.dispose (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:26:1248)
+    at t_._deactivate (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:168:14854)
+    at file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:168:12156
+    at Array.map (<anonymous>)
+    at t_._deactivateAll (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:168:12144)
+    at t_.terminate (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:168:12495)
+    at i.terminate (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:170:1072)
+    at ya (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:473:11797)
+    at $p.value (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:473:9939)
+    at T._deliver (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:28:3617)
+    at T.fire (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:28:3935)
+    at ws.fire (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:30:8627)
+    at MessagePortMain.<anonymous> (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:473:8171)
+    at MessagePortMain.emit (node:events:514:28)
+    at Object.emit (node:electron/js2c/utility_init:2:2934)
+2026-09-27 19:29:49.744 [error] Canceled: Canceled
+    at new gS (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:32:153524)
+    at i._remoteCall (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:32:159608)
+    at Proxy.r.<computed>.s.charCodeAt.r.<computed> (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:32:156361)
+    at bf._doExecuteCommand (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:164:48319)
+    at bf.executeCommand (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:164:47766)
+    at e.registerCommand.description (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:164:47030)
+    at bf._executeContributedCommand (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:164:48882)
+    at bf._doExecuteCommand (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:164:47899)
+    at bf.executeCommand (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:164:47766)
+    at Object.executeCommand (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:294:139323)
+    at Xa (/home/kiwann/.vscode/extensions/rust-lang.rust-analyzer-0.3.3049-linux-x64/out/main.js:61:15043)
+    at Object.s$ (/home/kiwann/.vscode/extensions/rust-lang.rust-analyzer-0.3.3049-linux-x64/out/main.js:405:1290)
+    at t_._deactivate (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:168:14629)
+    at file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:168:12156
+    at Array.map (<anonymous>)
+    at t_._deactivateAll (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:168:12144)
+    at t_.terminate (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:168:12495)
+    at i.terminate (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:170:1072)
+    at ya (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:473:11797)
+    at $p.value (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:473:9939)
+    at T._deliver (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:28:3617)
+    at T.fire (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:28:3935)
+    at ws.fire (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:30:8627)
+    at MessagePortMain.<anonymous> (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:473:8171)
+    at MessagePortMain.emit (node:events:514:28)
+    at Object.emit (node:electron/js2c/utility_init:2:2934)
+2026-09-27 19:29:49.772 [error] Canceled: Canceled
+    at new gS (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:32:153524)
+    at i._remoteCall (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:32:159608)
+    at Proxy.r.<computed>.s.charCodeAt.r.<computed> (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:32:156361)
+    at df.setValue (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:164:17022)
+    at file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:164:17838
+    at Pn.runner (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:164:17965)
+    at Pn.doRun (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:78390)
+    at Pn.onTimeout (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:78361)
+    at listOnTimeout (node:internal/timers:685:17)
+    at processTimers (node:internal/timers:618:7)
+2026-09-27 19:29:49.782 [error] Error: Channel has been closed
+    at r (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:171:3935)
+    at Object.info (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:171:4305)
+    at NT.info (/usr/share/code/resources/app/extensions/json-language-features/client/dist/node/jsonClientMain.js:14:709)
+    at ChildProcess.<anonymous> (/usr/share/code/resources/app/extensions/json-language-features/client/dist/node/jsonClientMain.js:28:36254)
+    at ChildProcess.emit (node:events:514:28)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:295:12)
+2026-09-27 19:29:50.025 [info] Extension host with pid 34757 exiting with code 0

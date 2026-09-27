@@ -20,3 +20,6 @@
 2026-09-27 18:40:10.903 [info] [getSessions] [6f1cc985-85e8-487e-b0dd-aa633302a731/.default VSCODE_TENANT:organizations] returned 0 session(s)
 2026-09-27 18:40:15.140 [info] [getSessions] [499b84ac-1321-427f-aa17-267ca6975798/.default offline_access] starting
 2026-09-27 18:40:15.141 [info] [getSessions] [499b84ac-1321-427f-aa17-267ca6975798/.default offline_access] returned 0 session(s)
+2026-09-27 19:29:48.601 [info] [getSessions] [all] starting
+2026-09-27 19:29:48.602 [info] [getSessions] [all] returned 0 session(s)
+2026-09-27 19:29:49.691 [info] Microsoft Authentication is deactivating...

@@ -57,3 +57,5 @@
 2026-09-27 18:42:33.401 [info]    [GIT       9ms] [/home/kiwann/learning/guessing-game] git symbolic-ref --short HEAD [9ms]
 2026-09-27 18:42:33.413 [info]    [GIT      11ms] [/home/kiwann/learning/guessing-game] git log -n1 --format=%ct -- [11ms]
 2026-09-27 18:42:33.427 [info]    [GIT      11ms] [/home/kiwann/learning/guessing-game] git config -f /home/kiwann/learning/guessing-game/.git/gk/config branch.master.gk-last-accessed 2026-09-27T11:42:33.414Z [11ms]
+2026-09-27 19:29:48.287 [info]    [GIT      16ms] [/home/kiwann/learning/guessing-game] git config --get-regex -f /home/kiwann/learning/guessing-game/.git/gk/config . [16ms]
+2026-09-27 19:29:48.524 [error]   [GIT          ] [/home/kiwann/Desktop] git rev-parse --show-toplevel --git-dir --git-common-dir --show-superproject-working-tree · not a git repository (or any of the parent directories): .git [13ms]

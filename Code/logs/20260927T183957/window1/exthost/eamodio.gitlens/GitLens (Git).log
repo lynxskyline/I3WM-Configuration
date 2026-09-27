@@ -28,3 +28,6 @@ Error: fatal: bad revision '@'
 2026-09-27 18:42:33.401 [info] [          9ms] [/home/kiwann/learning/guessing-game] git symbolic-ref --short HEAD • completed
 2026-09-27 18:42:33.413 [info] [         11ms] [/home/kiwann/learning/guessing-game] git log -n1 --format=%ct -- • completed
 2026-09-27 18:42:33.427 [info] [         11ms] [/home/kiwann/learning/guessing-game] git config -f /home/kiwann/learning/guessing-game/.git/gk/config branch.master.gk-last-accessed 2026-09-27T11:42:33.414Z • completed
+2026-09-27 19:29:48.287 [info] [         16ms] [/home/kiwann/learning/guessing-game] git config --get-regex -f /home/kiwann/learning/guessing-game/.git/gk/config . • completed
+2026-09-27 19:29:48.524 [error] [         13ms] [/home/kiwann/Desktop] git rev-parse --show-toplevel --git-dir --git-common-dir --show-superproject-working-tree • FAILED
+Error: fatal: not a git repository (or any of the parent directories): .git

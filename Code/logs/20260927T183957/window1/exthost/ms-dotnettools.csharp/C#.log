@@ -28,3 +28,4 @@
 2026-09-27 18:40:29.840 [info] [textDocument/_vs_getProjectContexts] [FileBasedProgramsProjectSystem] Restore complete
 2026-09-27 18:40:30.316 [info] [workspace/didChangeWatchedFiles] [FileBasedProgramsProjectSystem] Successfully completed load of /home/kiwann/learning/main.cs
 2026-09-27 18:40:30.317 [info] [workspace/didChangeWatchedFiles] [FileBasedProgramsProjectSystem] Completed (re)load of 1 project(s) in 00:00:00.0042440
+2026-09-27 19:29:49.698 [error] Failed to show C# Copilot Chat survey prompt Canceled

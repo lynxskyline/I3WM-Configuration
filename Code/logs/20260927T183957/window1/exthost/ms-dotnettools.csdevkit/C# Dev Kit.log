@@ -28,3 +28,4 @@
 2026-09-27 18:40:22.312 [info] Completed: Restoring NuGet packages (3757ms)
 2026-09-27 19:08:49.576 [info] Starting: Query for all projects
 2026-09-27 19:08:49.623 [info] Completed: Query for all projects (48ms)
+2026-09-27 19:29:49.691 [info] C# Dev Kit deactivate() is now executing...

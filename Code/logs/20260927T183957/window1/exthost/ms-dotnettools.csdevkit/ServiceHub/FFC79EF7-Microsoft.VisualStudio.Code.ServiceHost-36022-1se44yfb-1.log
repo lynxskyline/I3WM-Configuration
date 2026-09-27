@@ -41,3 +41,21 @@
 09/27/2026 18:40:20 Western Indonesia Time : Information : Creating service Microsoft.VisualStudio.TestWindow.VSCode.ProjectSystemProvider.Service.ProjectSystemProviderServiceFactory from factory with FactoryVersion=Version2 and ClientRequestedVersion=0.1.
 09/27/2026 18:40:20 Western Indonesia Time : Information : Setting up RPC connection for service 'Microsoft.VisualStudio.TestWindow.VSCode.ProjectSystemProvider.Service.ProjectSystemProviderServiceFactory' from factory
 09/27/2026 18:40:20 Western Indonesia Time : Information : Completed RPC connection setup for service 'Microsoft.VisualStudio.TestWindow.VSCode.ProjectSystemProvider.Service.ProjectSystemProviderServiceFactory' from factory
+09/27/2026 19:29:50 Western Indonesia Time : Information : Checking if 'Microsoft.VisualStudio.TestWindow.VSCode.ProjectSystemProvider.Service.ProjectSystemProviderServiceFactory' implements Microsoft.VisualStudio.Threading.IAsyncDisposable.
+09/27/2026 19:29:50 Western Indonesia Time : Information : Checking if 'Microsoft.VisualStudio.TestWindow.VSCode.ProjectSystemProvider.Service.ProjectSystemProviderServiceFactory' implements System.IAsyncDisposable.
+09/27/2026 19:29:50 Western Indonesia Time : Information : Checking if 'Microsoft.VisualStudio.TestWindow.VSCode.ProjectSystemProvider.Service.ProjectSystemProviderServiceFactory' implements System.IDisposable.
+09/27/2026 19:29:50 Western Indonesia Time : Information : hubHostClr write: Content-Length: 108
+
+{"jsonrpc":"2.0","method":"HostServicesEndedAsync","params":["dotnet$C94B8CFE-E3FD-4BAF-A941-2866DBB566FE"]}
+09/27/2026 19:29:50 Western Indonesia Time : Information : Checking if 'Microsoft.VisualStudio.TestWindow.VSCode.Service.CsDKTestWindowServiceFactory' implements Microsoft.VisualStudio.Threading.IAsyncDisposable.
+09/27/2026 19:29:50 Western Indonesia Time : Information : Checking if 'Microsoft.VisualStudio.TestWindow.VSCode.Service.CsDKTestWindowServiceFactory' implements System.IAsyncDisposable.
+09/27/2026 19:29:50 Western Indonesia Time : Information : Checking if 'Microsoft.VisualStudio.TestWindow.VSCode.Service.CsDKTestWindowServiceFactory' implements System.IDisposable.
+09/27/2026 19:29:50 Western Indonesia Time : Information : hubHostClr read: Content-Length: 57
+
+{"jsonrpc":"2.0","id":5,"method":"ExitAsync","params":[]}
+09/27/2026 19:29:50 Western Indonesia Time : Information : Exit command received. Exiting CLR host
+09/27/2026 19:29:50 Western Indonesia Time : Information : hubHostClr write: Content-Length: 38
+
+{"jsonrpc":"2.0","id":5,"result":null}
+09/27/2026 19:29:50 Western Indonesia Time : Information : hubHostClr JSON RPC has been disposed
+09/27/2026 19:29:50 Western Indonesia Time : Information : hubHostClr read: end of stream

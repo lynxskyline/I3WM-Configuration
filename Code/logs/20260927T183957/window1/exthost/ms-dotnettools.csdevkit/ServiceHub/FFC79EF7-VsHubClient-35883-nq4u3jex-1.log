@@ -360,3 +360,17 @@
 09/27/2026 18:40:26 Western Indonesia Time : Information : Microsoft.VisualStudio.ProjectSystem.DebugTargetFrameworkService-RemoteServiceBrokerServer write: Content-Length: 38
 
 {"jsonrpc":"2.0","id":2,"result":null}
+09/27/2026 19:29:49 Western Indonesia Time : Information : VsHubClient-hubController write: Content-Length: 332
+
+{"jsonrpc":"2.0","id":22,"method":"requestServiceChannel","params":[{"Name":"Microsoft.VisualStudio.LaunchConfigurationService"},{"ActivationArguments":{"__servicehub__ServiceHubRemoteServiceBrokerPipeName":"/home/kiwann/.ServiceHub/b3574825db/c84f585fec"},"ClientCredentials":{},"ClientCulture":"en-US","ClientUICulture":"en-US"}]}
+09/27/2026 19:29:49 Western Indonesia Time : Information : VsHubClient-hubController read: Content-Length: 163
+
+{"jsonrpc":"2.0","id":22,"result":{"RequestId":"21b18389-ba60-4217-aa62-7312bc7e8c55","PipeName":"/home/kiwann/.ServiceHub/b3574825db/1de05074b7","IsEmpty":false}}
+09/27/2026 19:29:49 Western Indonesia Time : Information : Disposing ServiceBroker server '/home/kiwann/.ServiceHub/b3574825db/c84f585fec'.
+09/27/2026 19:29:49 Western Indonesia Time : Information : Microsoft.VisualStudio.LaunchConfigurationService-RemoteServiceBrokerServer read: Content-Length: 195
+
+{"jsonrpc":"2.0","id":2,"method":"handshake","params":[{"supportedConnections":"IpcPipe","localServiceHost":{"operatingSystem":1,"processArchitecture":1,"runtime":2,"runtimeVersion":"10.0.12"}}]}
+09/27/2026 19:29:49 Western Indonesia Time : Information : Microsoft.VisualStudio.LaunchConfigurationService-RemoteServiceBrokerServer write: Content-Length: 38
+
+{"jsonrpc":"2.0","id":2,"result":null}
+09/27/2026 19:29:50 Western Indonesia Time : Information : VsHubClient-hubController JSON RPC has been disposed

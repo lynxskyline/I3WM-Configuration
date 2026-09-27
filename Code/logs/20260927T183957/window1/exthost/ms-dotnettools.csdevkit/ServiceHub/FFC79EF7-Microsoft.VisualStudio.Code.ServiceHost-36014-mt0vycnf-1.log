@@ -265,3 +265,57 @@
 09/27/2026 18:40:26 Western Indonesia Time : Information : Creating service Microsoft.VisualStudio.ProjectSystem.Services.DebugTargetFrameworkServiceFactory from factory with FactoryVersion=Version2 and ClientRequestedVersion=0.1.
 09/27/2026 18:40:27 Western Indonesia Time : Information : Setting up RPC connection for service 'Microsoft.VisualStudio.ProjectSystem.Services.DebugTargetFrameworkServiceFactory' from factory
 09/27/2026 18:40:27 Western Indonesia Time : Information : Completed RPC connection setup for service 'Microsoft.VisualStudio.ProjectSystem.Services.DebugTargetFrameworkServiceFactory' from factory
+09/27/2026 19:29:49 Western Indonesia Time : Information : hubHostClr read: Content-Length: 978
+
+{"jsonrpc":"2.0","id":20,"method":"StartServiceAsync","params":[{"name":"Microsoft.VisualStudio.LaunchConfigurationService","host":"dotnet.projectSystem","hostId":"C94B8CFE-E3FD-4BAF-A941-2866DBB566FE","serviceBaseDirectory":"/home/kiwann/.vscode/extensions/ms-dotnettools.csdevkit-3.40.210-linux-x64/components/CPS/platforms/linux-x64/node_modules/@microsoft/visualstudio-projectsystem-server.linux-x64","entryPoint":{"assemblyPath":"/home/kiwann/.vscode/extensions/ms-dotnettools.csdevkit-3.40.210-linux-x64/components/CPS/platforms/linux-x64/node_modules/@microsoft/visualstudio-projectsystem-server.linux-x64/Microsoft.VisualStudio.ProjectSystem.Server.Implementation.dll","fullClassName":"Microsoft.VisualStudio.ProjectSystem.Server.LaunchConfigurationServiceFactory"}},{"ActivationArguments":{"__servicehub__ServiceHubRemoteServiceBrokerPipeName":"/home/kiwann/.ServiceHub/b3574825db/c84f585fec"},"ClientCredentials":{},"ClientCulture":"en-US","ClientUICulture":"en-US"}]}
+09/27/2026 19:29:49 Western Indonesia Time : Information : CLR host received start request for service 'Microsoft.VisualStudio.LaunchConfigurationService'
+09/27/2026 19:29:49 Western Indonesia Time : Information : Loading service module assembly '/home/kiwann/.vscode/extensions/ms-dotnettools.csdevkit-3.40.210-linux-x64/components/CPS/platforms/linux-x64/node_modules/@microsoft/visualstudio-projectsystem-server.linux-x64/Microsoft.VisualStudio.ProjectSystem.Server.Implementation.dll' from '/home/kiwann/.vscode/extensions/ms-dotnettools.csdevkit-3.40.210-linux-x64/components/CPS/platforms/linux-x64/node_modules/@microsoft/visualstudio-projectsystem-server.linux-x64'
+09/27/2026 19:29:49 Western Indonesia Time : Information : Starting service module 'Microsoft.VisualStudio.LaunchConfigurationService'. Class: Microsoft.VisualStudio.ProjectSystem.Server.LaunchConfigurationServiceFactory, Supported Version: 
+09/27/2026 19:29:49 Western Indonesia Time : Information : Started service 'Microsoft.VisualStudio.LaunchConfigurationService'. Pipe name: /home/kiwann/.ServiceHub/b3574825db/1de05074b7, Supported Version: 
+09/27/2026 19:29:49 Western Indonesia Time : Information : hubHostClr write: Content-Length: 83
+
+{"jsonrpc":"2.0","id":20,"result":"/home/kiwann/.ServiceHub/b3574825db/1de05074b7"}
+09/27/2026 19:29:49 Western Indonesia Time : Information : A new client connected to CLR service module 'Microsoft.VisualStudio.LaunchConfigurationService'
+09/27/2026 19:29:49 Western Indonesia Time : Information : Found IServiceHubServiceFactory in cache. Creating instance from the factory.
+09/27/2026 19:29:49 Western Indonesia Time : Information : Creating service Microsoft.VisualStudio.ProjectSystem.Server.LaunchConfigurationServiceFactory from factory with FactoryVersion=Version2 and ClientRequestedVersion=.
+09/27/2026 19:29:49 Western Indonesia Time : Information : Setting up RPC connection for service 'Microsoft.VisualStudio.ProjectSystem.Server.LaunchConfigurationServiceFactory' from factory
+09/27/2026 19:29:49 Western Indonesia Time : Information : Completed RPC connection setup for service 'Microsoft.VisualStudio.ProjectSystem.Server.LaunchConfigurationServiceFactory' from factory
+09/27/2026 19:29:50 Western Indonesia Time : Information : Checking if 'Microsoft.VisualStudio.ProjectSystem.Services.DebugTargetFrameworkServiceFactory' implements Microsoft.VisualStudio.Threading.IAsyncDisposable.
+09/27/2026 19:29:50 Western Indonesia Time : Information : Checking if 'Microsoft.VisualStudio.ProjectSystem.Services.DebugTargetFrameworkServiceFactory' implements System.IAsyncDisposable.
+09/27/2026 19:29:50 Western Indonesia Time : Information : Checking if 'Microsoft.VisualStudio.ProjectSystem.Services.DebugTargetFrameworkServiceFactory' implements System.IDisposable.
+09/27/2026 19:29:50 Western Indonesia Time : Information : Checking if 'Microsoft.VisualStudio.ProjectSystem.Server.ProjectActivationServiceFactory' implements Microsoft.VisualStudio.Threading.IAsyncDisposable.
+09/27/2026 19:29:50 Western Indonesia Time : Information : Checking if 'Microsoft.VisualStudio.ProjectSystem.Server.ProjectActivationServiceFactory' implements System.IAsyncDisposable.
+09/27/2026 19:29:50 Western Indonesia Time : Information : Checking if 'Microsoft.VisualStudio.ProjectSystem.Server.ProjectActivationServiceFactory' implements System.IDisposable.
+09/27/2026 19:29:50 Western Indonesia Time : Information : Checking if 'Microsoft.VisualStudio.ProjectSystem.Server.LaunchConfigurationServiceFactory' implements Microsoft.VisualStudio.Threading.IAsyncDisposable.
+09/27/2026 19:29:50 Western Indonesia Time : Information : Checking if 'Microsoft.VisualStudio.ProjectSystem.Server.ProjectTreeProviderFactory' implements Microsoft.VisualStudio.Threading.IAsyncDisposable.
+09/27/2026 19:29:50 Western Indonesia Time : Information : Checking if 'Microsoft.VisualStudio.ProjectSystem.Server.ProjectTreeProviderFactory' implements System.IAsyncDisposable.
+09/27/2026 19:29:50 Western Indonesia Time : Information : Checking if 'Microsoft.VisualStudio.ProjectSystem.Server.ProjectTreeProviderFactory' implements System.IDisposable.
+09/27/2026 19:29:50 Western Indonesia Time : Information : Checking if 'Microsoft.VisualStudio.ProjectSystem.Server.LaunchConfigurationServiceFactory' implements System.IAsyncDisposable.
+09/27/2026 19:29:50 Western Indonesia Time : Information : Checking if 'Microsoft.VisualStudio.ProjectSystem.Server.LaunchConfigurationServiceFactory' implements System.IDisposable.
+09/27/2026 19:29:50 Western Indonesia Time : Information : Checking if 'Microsoft.VisualStudio.ProjectSystem.Server.QueryExecutionServiceFactory' implements Microsoft.VisualStudio.Threading.IAsyncDisposable.
+09/27/2026 19:29:50 Western Indonesia Time : Information : Checking if 'Microsoft.VisualStudio.ProjectSystem.Server.QueryExecutionServiceFactory' implements System.IAsyncDisposable.
+09/27/2026 19:29:50 Western Indonesia Time : Information : Checking if 'Microsoft.VisualStudio.ProjectSystem.Server.QueryExecutionServiceFactory' implements System.IDisposable.
+09/27/2026 19:29:50 Western Indonesia Time : Information : Checking if 'Microsoft.VisualStudio.ProjectSystem.LanguageServiceLoadStatusServiceFactory' implements Microsoft.VisualStudio.Threading.IAsyncDisposable.
+09/27/2026 19:29:50 Western Indonesia Time : Information : Checking if 'Microsoft.VisualStudio.ProjectSystem.LanguageServiceLoadStatusServiceFactory' implements System.IAsyncDisposable.
+09/27/2026 19:29:50 Western Indonesia Time : Information : Checking if 'Microsoft.VisualStudio.ProjectSystem.LanguageServiceLoadStatusServiceFactory' implements System.IDisposable.
+09/27/2026 19:29:50 Western Indonesia Time : Information : Checking if 'Microsoft.VisualStudio.HotReload.HotReloadSessionNotificationServiceFactory' implements Microsoft.VisualStudio.Threading.IAsyncDisposable.
+09/27/2026 19:29:50 Western Indonesia Time : Information : Checking if 'Microsoft.VisualStudio.HotReload.HotReloadSessionNotificationServiceFactory' implements System.IAsyncDisposable.
+09/27/2026 19:29:50 Western Indonesia Time : Information : Checking if 'Microsoft.VisualStudio.HotReload.HotReloadSessionNotificationServiceFactory' implements System.IDisposable.
+09/27/2026 19:29:50 Western Indonesia Time : Information : hubHostClr read: Content-Length: 58
+
+{"jsonrpc":"2.0","id":21,"method":"ExitAsync","params":[]}
+09/27/2026 19:29:50 Western Indonesia Time : Information : Exit command received. Exiting CLR host
+09/27/2026 19:29:50 Western Indonesia Time : Information : hubHostClr write: Content-Length: 39
+
+{"jsonrpc":"2.0","id":21,"result":null}
+09/27/2026 19:29:50 Western Indonesia Time : Information : hubHostClr JSON RPC has been disposed
+09/27/2026 19:29:50 Western Indonesia Time : Information : hubHostClr read: end of stream
+09/27/2026 19:29:50 Western Indonesia Time : Information : Checking if 'Microsoft.VisualStudio.ProjectSystem.Server.ProjectInitializationStatusServiceFactory' implements Microsoft.VisualStudio.Threading.IAsyncDisposable.
+09/27/2026 19:29:50 Western Indonesia Time : Information : Checking if 'Microsoft.VisualStudio.ProjectSystem.Server.ProjectInitializationStatusServiceFactory' implements System.IAsyncDisposable.
+09/27/2026 19:29:50 Western Indonesia Time : Information : Checking if 'Microsoft.VisualStudio.ProjectSystem.Server.ProjectInitializationStatusServiceFactory' implements System.IDisposable.
+09/27/2026 19:29:50 Western Indonesia Time : Information : Checking if 'Microsoft.VisualStudio.ProjectSystem.Server.CompositionServiceFactory' implements Microsoft.VisualStudio.Threading.IAsyncDisposable.
+09/27/2026 19:29:50 Western Indonesia Time : Information : Checking if 'Microsoft.VisualStudio.ProjectSystem.Server.ProjectIconSourceServiceFactory' implements Microsoft.VisualStudio.Threading.IAsyncDisposable.
+09/27/2026 19:29:50 Western Indonesia Time : Information : Checking if 'Microsoft.VisualStudio.ProjectSystem.Server.CompositionServiceFactory' implements System.IAsyncDisposable.
+09/27/2026 19:29:50 Western Indonesia Time : Information : Checking if 'Microsoft.VisualStudio.ProjectSystem.Server.CompositionServiceFactory' implements System.IDisposable.
+09/27/2026 19:29:50 Western Indonesia Time : Information : Checking if 'Microsoft.VisualStudio.ProjectSystem.Server.ProjectIconSourceServiceFactory' implements System.IAsyncDisposable.
+09/27/2026 19:29:50 Western Indonesia Time : Information : Checking if 'Microsoft.VisualStudio.ProjectSystem.Server.ProjectIconSourceServiceFactory' implements System.IDisposable.
