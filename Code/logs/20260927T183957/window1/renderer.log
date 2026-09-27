@@ -21,3 +21,9 @@
 2026-09-27 18:40:16.309 [error] [Extension Host] Response status: 404, status text: 
 2026-09-27 18:40:16.566 [error] [Extension Host] Failed to fetch remote embeddings cache from https://embeddings.vscode-cdn.net/text-3-small/v1.139/commands/core.json
 2026-09-27 18:40:16.566 [error] [Extension Host] Response status: 404, status text: 
+2026-09-27 19:08:43.348 [warning] [File Watcher (node.js)] Watcher shutdown because watched path got deleted
+2026-09-27 19:08:43.349 [warning] [File Watcher (node.js)] Watcher shutdown because watched path got deleted
+2026-09-27 19:08:43.353 [warning] [File Watcher (node.js)] Watcher shutdown because watched path got deleted
+2026-09-27 19:08:43.353 [warning] [File Watcher (node.js)] Watcher shutdown because watched path got deleted
+2026-09-27 19:08:43.387 [warning] [computeAgentDiscoveryInfo] Skipping agent file that does not exist: vscode-userdata:/home/kiwann/.config/Code/User/globalStorage/github.copilot-chat/plan-agent/Plan.agent.md Unable to read file 'vscode-userdata:/home/kiwann/.config/Code/User/globalStorage/github.copilot-chat/plan-agent/Plan.agent.md' (Error: Unable to resolve nonexistent file 'vscode-userdata:/home/kiwann/.config/Code/User/globalStorage/github.copilot-chat/plan-agent/Plan.agent.md')
+2026-09-27 19:08:43.387 [warning] [computeAgentDiscoveryInfo] Skipping agent file that does not exist: vscode-userdata:/home/kiwann/.config/Code/User/globalStorage/github.copilot-chat/ask-agent/Ask.agent.md Unable to read file 'vscode-userdata:/home/kiwann/.config/Code/User/globalStorage/github.copilot-chat/ask-agent/Ask.agent.md' (Error: Unable to resolve nonexistent file 'vscode-userdata:/home/kiwann/.config/Code/User/globalStorage/github.copilot-chat/ask-agent/Ask.agent.md')

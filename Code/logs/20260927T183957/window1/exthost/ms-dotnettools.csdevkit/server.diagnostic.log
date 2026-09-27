@@ -1,2 +1,15 @@
 Diagnostics Information: 0 : 2026-09-27T18:40:18.1052248+07:00: EnvironmentState update ver=0 sln=0 folder=0 projects=0
 Diagnostics Information: 0 : 2026-09-27T18:40:18.4953981+07:00: EnvironmentState update ver=1 sln=1 folder=1 projects=1
+Diagnostics Error: 0 : ====== Exception in method RefreshSolutionContentAsync ======
+(/mnt/vss/_work/1/s/server/src/Microsoft.VisualStudio.Server/Services/EnvironmentServiceSharedState.cs:338)
+DirectoryNotFoundException: Could not find a part of the path '/home/kiwann/.config/Code/User/workspaceStorage/e83f4bbd421bdf4d30cb137dc0b37e26/ms-dotnettools.csdevkit/learning.sln'.
+
+Interop.ThrowExceptionForIoErrno(ErrorInfo errorInfo, String path, Boolean isDirError)
+Microsoft.Win32.SafeHandles.SafeFileHandle.Open(String fullPath, FileMode mode, FileAccess access, FileShare share, FileOptions options, Int64 preallocationSize, UnixFileMode openPermissions, Int64& fileLength, UnixFileMode& filePermissions, Boolean failForSymlink, Boolean& wasSymlink, Func`4 createOpenException)
+System.IO.Strategies.OSFileStreamStrategy..ctor(String path, FileMode mode, FileAccess access, FileShare share, FileOptions options, Int64 preallocationSize, Nullable`1 unixCreateMode)
+System.IO.File.OpenRead(String path)
+Microsoft.VisualStudio.SolutionPersistence.Serializer.SingleFileSerializerBase`1.Microsoft.VisualStudio.SolutionPersistence.ISolutionSerializer.OpenAsync(String moniker, CancellationToken cancellationToken)
+Microsoft.VisualStudio.Server.Services.EnvironmentServiceSharedState.GetSolutionModelAsync(String solutionFilePath, CancellationToken cancellationToken)
+Microsoft.VisualStudio.Server.Services.EnvironmentServiceSharedState.RefreshSolutionContentAsync(String solutionFilePath, String loadOperationId, CancellationToken cancellationToken)
+HResult: 0x80070003
+============

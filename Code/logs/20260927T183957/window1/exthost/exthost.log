@@ -39,3 +39,7 @@
 2026-09-27 18:40:10.260 [info] ExtensionService#_doActivateExtension zhuangtongfa.material-theme, startup: false, activationEvent: 'onStartupFinished'
 2026-09-27 18:40:18.227 [warning] DiagnosticCollection with name 'XamlDiagnostics' does already exist.
 2026-09-27 18:40:18.228 [warning] DiagnosticCollection with name 'HotReloadDiagnostics' does already exist.
+2026-09-27 19:08:43.440 [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:json'
+2026-09-27 19:08:43.473 [info] ExtensionService#_doActivateExtension vscode.extension-editing, startup: false, activationEvent: 'onLanguage:json'
+2026-09-27 19:08:43.503 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:json'
+2026-09-27 19:08:43.603 [info] ExtensionService#_doActivateExtension vscode.npm, startup: false, activationEvent: 'onLanguage:json'

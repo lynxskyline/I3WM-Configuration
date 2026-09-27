@@ -9,3 +9,6 @@
 
 2026-09-27 18:40:29.116 [info] update#setState checking for updates
 2026-09-27 18:40:29.170 [info] update#setState idle
+2026-09-27 19:08:43.341 [warning] [File Watcher (node.js)] Watcher shutdown because watched path got deleted
+2026-09-27 19:08:43.345 [warning] [File Watcher (node.js)] Watcher shutdown because watched path got deleted
+2026-09-27 19:08:45.706 [error] [storage state.vscdb] prepare(): Error: SQLITE_READONLY_DBMOVED: attempt to write a readonly database (INSERT INTO ItemTable VALUES (?,?),(?,?),(?,?) ON CONFLICT (key) DO UPDATE SET value = excluded.value WHERE value != excluded.value). Details: Keys: workbench.activity.placeholderViewlets, iconThemeData, colorThemeData Length: 139413
