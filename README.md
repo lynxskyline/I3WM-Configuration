@@ -1,1 +1,1 @@
-this is my linux configuration file
+# this is my linux configuration file
