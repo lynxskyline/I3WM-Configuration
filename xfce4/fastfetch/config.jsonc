@@ -1,0 +1,193 @@
+{
+  "$schema": "https://github.com/fastfetch-cli/fastfetch/raw/master/doc/json_schema.json",
+
+  "logo": {
+    "type": "file",
+    "source": "~/.config/fastfetch/logo2.txt",
+    "padding": {
+      "top": 1,
+      "left": 1,
+      "bottom": 0,
+      "right": 4
+    },
+    "printRemaining": true,
+    "preserveAspectRatio": false,
+    "position": "left"
+  },
+
+  "display": {
+    "stat": false,
+    "pipe": false,
+    "showErrors": false,
+    "disableLinewrap": false,
+    "hideCursor": false,
+    "separator": ": ",
+    "brightColor": true,
+
+    "key": {
+      "width": 0,
+      "type": "icon",
+      "paddingLeft": 0,
+      "language": "en"
+    },
+
+    "size": {
+      "binaryPrefix": "iec",
+      "ndigits": 2
+    },
+
+    "temp": {
+      "unit": "C",
+      "ndigits": 1
+    },
+
+    "percent": {
+      "type": [
+        "num",
+        "num-color"
+      ],
+      "ndigits": 0
+    },
+
+    "bar": {
+      "char": {
+        "elapsed": "■ ",
+        "total": "-"
+      },
+      "border": {
+        "left": "[ ",
+        "right": " ]"
+      },
+      "color": {
+        "elapsed": "auto",
+        "total": "97",
+        "border": "97"
+      },
+      "width": 10
+    }
+  },
+
+  "general": {
+    "thread": true,
+    "processingTimeout": 5000,
+    "detectVersion": true
+  },
+
+  "modules": [
+    {
+      "type": "title",
+      "key": " ",
+      "keyIcon": " ",
+      "fqdn": false
+    },
+
+    {
+      "type": "separator",
+      "string": "-"
+    },
+
+    {
+      "type": "os",
+      "keyIcon": " "
+    },
+
+    {
+      "type": "host",
+      "keyIcon": "󰌢 "
+    },
+
+    {
+      "type": "kernel",
+      "keyIcon": " "
+    },
+
+    {
+      "type": "uptime",
+      "keyIcon": " "
+    },
+
+    {
+      "type": "packages",
+      "keyIcon": "󰏖 ",
+      "disabled": [
+        "apk"
+      ],
+      "combined": false
+    },
+
+    {
+      "type": "shell",
+      "keyIcon": " "
+    },
+
+    {
+      "type": "cpu",
+      "keyIcon": " ",
+      "temp": false,
+      "showPeCoreCount": true
+    },
+
+    {
+      "type": "gpu",
+      "keyIcon": "󰾲 ",
+      "driverSpecific": false,
+      "detectionMethod": "pci",
+      "temp": false,
+      "hideType": "none",
+      "percent": {
+        "green": 50,
+        "yellow": 80,
+        "type": 0
+      }
+    },
+
+    {
+      "type": "memory",
+      "keyIcon": " ",
+      "percent": {
+        "green": 50,
+        "yellow": 80,
+        "type": 0
+      }
+    },
+
+    {
+      "type": "disk",
+      "keyIcon": " ",
+      "showRegular": true,
+      "showExternal": true,
+      "showHidden": false,
+      "showSubvolumes": false,
+      "showReadOnly": true,
+      "showUnknown": false,
+      "folders": "",
+      "hideFolders": "/efi:/boot:/boot/*",
+      "hideFS": "",
+      "useAvailable": false,
+      "percent": {
+        "green": 50,
+        "yellow": 80,
+        "type": 0
+      }
+    },
+
+    {
+      "type": "command",
+      "keyIcon": " 0",
+      "text": "p=$(cat /sys/class/power_supply/BAT0/capacity); s=$(cat /sys/class/power_supply/BAT0/status); if [ \"$p\" -lt 20 ]; then c=91; elif [ \"$p\" -lt 50 ]; then c=93; else c=92; fi; printf '%s%% [\\033[%sm%s\\033[0m]' \"$p\" \"$c\" \"$s\""
+    },
+
+    {
+      "type": "command",
+      "keyIcon": " 1",
+      "text": "p=$(cat /sys/class/power_supply/BAT1/capacity); s=$(cat /sys/class/power_supply/BAT1/status); if [ \"$p\" -lt 20 ]; then c=91; elif [ \"$p\" -lt 50 ]; then c=93; else c=92; fi; printf '%s%% [\\033[%sm%s\\033[0m]' \"$p\" \"$c\" \"$s\""
+    },
+
+    {
+      "type": "datetime",
+      "keyIcon": " "
+    },
+
+    "break"
+  ]
+}

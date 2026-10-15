@@ -1,0 +1,22 @@
+2026-09-27 18:40:06.618 [info] [aebc6443-996d-45c2-90f0-388ff96faa56] Native Broker enabled: false
+2026-09-27 18:40:06.968 [info] [getSessions] [all] starting
+2026-09-27 18:40:06.968 [info] [getSessions] [all] returned 0 session(s)
+2026-09-27 18:40:06.968 [info] [getSessions] [all] starting
+2026-09-27 18:40:06.968 [info] [getSessions] [all] returned 0 session(s)
+2026-09-27 18:40:06.971 [info] [getSessions] [all] starting
+2026-09-27 18:40:06.971 [info] [getSessions] [all] returned 0 session(s)
+2026-09-27 18:40:07.087 [info] [getSessions] [VSCODE_TENANT:organizations] starting
+2026-09-27 18:40:07.087 [info] [aebc6443-996d-45c2-90f0-388ff96faa56] Native Broker enabled: false
+2026-09-27 18:40:10.715 [info] [getSessions] [VSCODE_TENANT:organizations] returned 0 session(s)
+2026-09-27 18:40:10.715 [info] [getSessions] [VSCODE_TENANT:organizations] starting
+2026-09-27 18:40:10.715 [info] [getSessions] [VSCODE_TENANT:organizations] returned 0 session(s)
+2026-09-27 18:40:10.715 [info] [getSessions] [all] starting
+2026-09-27 18:40:10.716 [info] [getSessions] [all] returned 0 session(s)
+2026-09-27 18:40:10.716 [info] [getSessions] [6f1cc985-85e8-487e-b0dd-aa633302a731/.default VSCODE_TENANT:organizations] starting
+2026-09-27 18:40:10.716 [info] [getSessions] [6f1cc985-85e8-487e-b0dd-aa633302a731/.default VSCODE_TENANT:organizations] returned 0 session(s)
+2026-09-27 18:40:10.816 [info] [getSessions] [499b84ac-1321-427f-aa17-267ca6975798/.default offline_access] starting
+2026-09-27 18:40:10.816 [info] [getSessions] [499b84ac-1321-427f-aa17-267ca6975798/.default offline_access] returned 0 session(s)
+2026-09-27 18:40:10.903 [info] [getSessions] [6f1cc985-85e8-487e-b0dd-aa633302a731/.default VSCODE_TENANT:organizations] starting
+2026-09-27 18:40:10.903 [info] [getSessions] [6f1cc985-85e8-487e-b0dd-aa633302a731/.default VSCODE_TENANT:organizations] returned 0 session(s)
+2026-09-27 18:40:15.140 [info] [getSessions] [499b84ac-1321-427f-aa17-267ca6975798/.default offline_access] starting
+2026-09-27 18:40:15.141 [info] [getSessions] [499b84ac-1321-427f-aa17-267ca6975798/.default offline_access] returned 0 session(s)

@@ -1,0 +1,1608 @@
+9/27/2026, 6:40:03 PM 103 AutomaticUpdateCheck
+Checking for updates after 300000. Last Update Date: 2026-09-26T03:13:49.716Z. Current Date: 2026-09-27T11:40:03.075Z
+
+9/27/2026, 6:40:03 PM 104 AutomaticUpdateCheck
+Commencing updates at 1790509203104 in 300000 ms.
+
+9/27/2026, 6:40:03 PM 106 DotnetVSCodeExtensionFound
+true
+Checking extension TypeScriptTeam.jsts-chat-features for .NET installation requests
+
+9/27/2026, 6:40:03 PM 106 DotnetVSCodeExtensionFound
+true
+Checking extension vscode.csharp for .NET installation requests
+
+9/27/2026, 6:40:03 PM 106 DotnetVSCodeExtensionFound
+true
+Checking extension vscode.dotenv for .NET installation requests
+
+9/27/2026, 6:40:03 PM 106 DotnetVSCodeExtensionFound
+true
+Checking extension vscode.mermaid-markdown-features for .NET installation requests
+
+9/27/2026, 6:40:03 PM 106 DotnetVSCodeExtensionFound
+true
+Checking extension vscode.prompt for .NET installation requests
+
+9/27/2026, 6:40:03 PM 106 DotnetVSCodeExtensionFound
+true
+Checking extension vscode.vscode-modern-icons for .NET installation requests
+
+9/27/2026, 6:40:03 PM 106 DotnetVSCodeExtensionFound
+true
+Checking extension 1YiB.rust-bundle for .NET installation requests
+
+9/27/2026, 6:40:03 PM 106 DotnetVSCodeExtensionFound
+true
+Checking extension alexdauenhauer.catppuccin-noctis for .NET installation requests
+
+9/27/2026, 6:40:03 PM 106 DotnetVSCodeExtensionFound
+true
+Checking extension alexisvt.flutter-snippets for .NET installation requests
+
+9/27/2026, 6:40:03 PM 106 DotnetVSCodeExtensionFound
+true
+Checking extension AradhyPathak.language-runner-basic for .NET installation requests
+
+9/27/2026, 6:40:03 PM 106 DotnetVSCodeExtensionFound
+true
+Checking extension bmewburn.vscode-intelephense-client for .NET installation requests
+
+9/27/2026, 6:40:03 PM 106 DotnetVSCodeExtensionFound
+true
+Checking extension brapifra.phpserver for .NET installation requests
+
+9/27/2026, 6:40:03 PM 106 DotnetVSCodeExtensionFound
+true
+Checking extension Catppuccin.catppuccin-vsc for .NET installation requests
+
+9/27/2026, 6:40:03 PM 106 DotnetVSCodeExtensionFound
+true
+Checking extension Catppuccin.catppuccin-vsc-icons for .NET installation requests
+
+9/27/2026, 6:40:03 PM 106 DotnetVSCodeExtensionFound
+true
+Checking extension catppuccin.catppuccin-vsc-pack for .NET installation requests
+
+9/27/2026, 6:40:03 PM 106 DotnetVSCodeExtensionFound
+true
+Checking extension christian-kohler.path-intellisense for .NET installation requests
+
+9/27/2026, 6:40:03 PM 106 DotnetVSCodeExtensionFound
+true
+Checking extension Dart-Code.dart-code for .NET installation requests
+
+9/27/2026, 6:40:03 PM 106 DotnetVSCodeExtensionFound
+true
+Checking extension Dart-Code.flutter for .NET installation requests
+
+9/27/2026, 6:40:03 PM 106 DotnetVSCodeExtensionFound
+true
+Checking extension dbaeumer.vscode-eslint for .NET installation requests
+
+9/27/2026, 6:40:03 PM 106 DotnetVSCodeExtensionFound
+true
+Checking extension DEVSENSE.composer-php-vscode for .NET installation requests
+
+9/27/2026, 6:40:03 PM 106 DotnetVSCodeExtensionFound
+true
+Checking extension DEVSENSE.intelli-php-vscode for .NET installation requests
+
+9/27/2026, 6:40:03 PM 106 DotnetVSCodeExtensionFound
+true
+Checking extension DEVSENSE.phptools-vscode for .NET installation requests
+
+9/27/2026, 6:40:03 PM 106 DotnetVSCodeExtensionFound
+true
+Checking extension DEVSENSE.profiler-php-vscode for .NET installation requests
+
+9/27/2026, 6:40:03 PM 106 DotnetVSCodeExtensionFound
+true
+Checking extension dustypomerleau.rust-syntax for .NET installation requests
+
+9/27/2026, 6:40:03 PM 106 DotnetVSCodeExtensionFound
+true
+Checking extension eamodio.gitlens for .NET installation requests
+
+9/27/2026, 6:40:03 PM 106 DotnetVSCodeExtensionFound
+true
+Checking extension esbenp.prettier-vscode for .NET installation requests
+
+9/27/2026, 6:40:03 PM 106 DotnetVSCodeExtensionFound
+true
+Checking extension fill-labs.dependi for .NET installation requests
+
+9/27/2026, 6:40:03 PM 106 DotnetVSCodeExtensionFound
+true
+Checking extension formulahendry.auto-close-tag for .NET installation requests
+
+9/27/2026, 6:40:03 PM 106 DotnetVSCodeExtensionFound
+true
+Checking extension formulahendry.auto-rename-tag for .NET installation requests
+
+9/27/2026, 6:40:03 PM 106 DotnetVSCodeExtensionFound
+true
+Checking extension formulahendry.code-runner for .NET installation requests
+
+9/27/2026, 6:40:03 PM 106 DotnetVSCodeExtensionFound
+true
+Checking extension HarryHopkinson.vim-theme for .NET installation requests
+
+9/27/2026, 6:40:03 PM 106 DotnetVSCodeExtensionFound
+true
+Checking extension kreativ-software.csharpextensions for .NET installation requests
+
+9/27/2026, 6:40:03 PM 106 DotnetVSCodeExtensionFound
+true
+Checking extension llvm-vs-code-extensions.vscode-clangd for .NET installation requests
+
+9/27/2026, 6:40:03 PM 106 DotnetVSCodeExtensionFound
+true
+Checking extension mhutchie.git-graph for .NET installation requests
+
+9/27/2026, 6:40:03 PM 106 DotnetVSCodeExtensionFound
+true
+Checking extension ms-dotnettools.csdevkit for .NET installation requests
+
+9/27/2026, 6:40:03 PM 106 DotnetVSCodeExtensionFound
+true
+Checking extension ms-dotnettools.csharp for .NET installation requests
+
+9/27/2026, 6:40:03 PM 106 DotnetVSCodeExtensionFound
+true
+Checking extension ms-dotnettools.vscode-dotnet-runtime for .NET installation requests
+
+9/27/2026, 6:40:03 PM 106 DotnetVSCodeExtensionFound
+true
+Checking extension ms-python.vscode-python-envs for .NET installation requests
+
+9/27/2026, 6:40:03 PM 106 DotnetVSCodeExtensionFound
+true
+Checking extension ms-vscode.cmake-tools for .NET installation requests
+
+9/27/2026, 6:40:03 PM 106 DotnetVSCodeExtensionFound
+true
+Checking extension ms-vscode.cpp-devtools for .NET installation requests
+
+9/27/2026, 6:40:03 PM 106 DotnetVSCodeExtensionFound
+true
+Checking extension ms-vscode.cpptools-themes for .NET installation requests
+
+9/27/2026, 6:40:03 PM 106 DotnetVSCodeExtensionFound
+true
+Checking extension PKief.material-icon-theme for .NET installation requests
+
+9/27/2026, 6:40:03 PM 106 DotnetVSCodeExtensionFound
+true
+Checking extension rangav.vscode-thunder-client for .NET installation requests
+
+9/27/2026, 6:40:03 PM 106 DotnetVSCodeExtensionFound
+true
+Checking extension ritwickdey.LiveServer for .NET installation requests
+
+9/27/2026, 6:40:03 PM 106 DotnetVSCodeExtensionFound
+true
+Checking extension rust-lang.rust-analyzer for .NET installation requests
+
+9/27/2026, 6:40:03 PM 106 DotnetVSCodeExtensionFound
+true
+Checking extension streetsidesoftware.code-spell-checker for .NET installation requests
+
+9/27/2026, 6:40:03 PM 106 DotnetVSCodeExtensionFound
+true
+Checking extension tamasfe.even-better-toml for .NET installation requests
+
+9/27/2026, 6:40:03 PM 106 DotnetVSCodeExtensionFound
+true
+Checking extension thang-nm.catppuccin-perfect-icons for .NET installation requests
+
+9/27/2026, 6:40:03 PM 106 DotnetVSCodeExtensionFound
+true
+Checking extension vscjava.vscode-gradle for .NET installation requests
+
+9/27/2026, 6:40:03 PM 106 DotnetVSCodeExtensionFound
+true
+Checking extension vscjava.vscode-java-debug for .NET installation requests
+
+9/27/2026, 6:40:03 PM 107 DotnetVSCodeExtensionFound
+true
+Checking extension vscjava.vscode-java-dependency for .NET installation requests
+
+9/27/2026, 6:40:03 PM 107 DotnetVSCodeExtensionFound
+true
+Checking extension vscjava.vscode-java-pack for .NET installation requests
+
+9/27/2026, 6:40:03 PM 107 DotnetVSCodeExtensionFound
+true
+Checking extension vscjava.vscode-java-test for .NET installation requests
+
+9/27/2026, 6:40:03 PM 107 DotnetVSCodeExtensionFound
+true
+Checking extension vscjava.vscode-maven for .NET installation requests
+
+9/27/2026, 6:40:03 PM 107 DotnetVSCodeExtensionFound
+true
+Checking extension zhuangtongfa.material-theme for .NET installation requests
+
+9/27/2026, 6:40:07 PM 62 DotnetFindPathCommandInvoked
+The find path command was invoked.
+{"acquireContext":{"version":"10.0.5","requestingExtensionId":"ms-dotnettools.csharp","architecture":"x64","mode":"aspnetcore"},"versionSpecRequirement":"greater_than_or_equal","rejectPreviews":true}
+
+9/27/2026, 6:40:07 PM 63 DotnetFindPathLookupSetting
+Looking up vscode setting.
+
+9/27/2026, 6:40:07 PM 67 [b2846f1b-e244-40cd-8ff8-efc2c20c528b] CacheGetEvent
+Checking the cache at 2026-09-27T11:40:07.067Z
+"dotnet" --list-runtimes --arch x64{"cwd":"/home/kiwann/.vscode/extensions/ms-dotnettools.vscode-dotnet-runtime-3.2.0/dist","encoding":"utf8","env":"HOME: /home/kiwann\nLANG: en_US.UTF-8\nPATH: /usr/local/bin:/usr/bin:/bin:/usr/local/sbin:/opt/android-sdk/cmdline-tools/latest/bin:/var/lib/flatpak/exports/bin:/usr/lib/jvm/default/bin:/usr/bin/site_perl:/usr/bin/vendor_perl:/usr/bin/core_perl:/usr/lib/rustup/bin\nPWD: /home/kiwann\nSHELL: /usr/bin/bash\nVSCODE_CLI: 1\nVSCODE_CODE_CACHE_PATH: /home/kiwann/.config/Code/CachedData/04c0d99f4fb0d8afe6ce4f0c58e31e183ac3e4b1\nVSCODE_HANDLES_UNCAUGHT_ERRORS: true\nVSCODE_PID: 34608\nXDG_RUNTIME_DIR: /run/user/1000\nELECTRON_RUN_AS_NODE: 1\nDOTNET_MULTILEVEL_LOOKUP: 0\nDOTNET_CLI_UI_LANGUAGE: en-US\nDOTNET_NOLOGO: true\n","shell":true}
+undefined
+true
+
+9/27/2026, 6:40:07 PM 68 [b2846f1b-e244-40cd-8ff8-efc2c20c528b] CommandExecutionEvent
+Executing command "dotnet" --list-runtimes --arch x64 with options {"env":"HOME: /home/kiwann\nLANG: en_US.UTF-8\nPATH: /usr/local/bin:/usr/bin:/bin:/usr/local/sbin:/opt/android-sdk/cmdline-tools/latest/bin:/var/lib/flatpak/exports/bin:/usr/lib/jvm/default/bin:/usr/bin/site_perl:/usr/bin/vendor_perl:/usr/bin/core_perl:/usr/lib/rustup/bin\nPWD: /home/kiwann\nSHELL: /usr/bin/bash\nVSCODE_CLI: 1\nVSCODE_CODE_CACHE_PATH: /home/kiwann/.config/Code/CachedData/04c0d99f4fb0d8afe6ce4f0c58e31e183ac3e4b1\nVSCODE_HANDLES_UNCAUGHT_ERRORS: true\nVSCODE_PID: 34608\nXDG_RUNTIME_DIR: /run/user/1000\nELECTRON_RUN_AS_NODE: 1\nDOTNET_MULTILEVEL_LOOKUP: 0\nDOTNET_CLI_UI_LANGUAGE: en-US\nDOTNET_NOLOGO: true\n","dotnetInstallToolCacheTtlMs":9000,"cwd":"/home/kiwann/.vscode/extensions/ms-dotnettools.vscode-dotnet-runtime-3.2.0/dist","shell":true,"encoding":"utf8"}.
+
+9/27/2026, 6:40:10 PM 679 [b2846f1b-e244-40cd-8ff8-efc2c20c528b] CommandExecutionTimer
+The command "dotnet" --list-runtimes --arch x64 took 3609.82 ms to run.
+3609.82
+ "dotnet" --list-runtimes --arch x64
+2a2e2b4dc23d60b8356d9051902716865c635a4686dba329ca4f53e13e8fc78f
+
+9/27/2026, 6:40:10 PM 680 [b2846f1b-e244-40cd-8ff8-efc2c20c528b] CommandExecutionStatusEvent
+The command "dotnet" --list-runtimes --arch x64 exited:
+0.
+
+9/27/2026, 6:40:10 PM 681 [b2846f1b-e244-40cd-8ff8-efc2c20c528b] CommandExecutionStdOut
+The command "dotnet" --list-runtimes --arch x64 encountered stdout:
+Microsoft.NETCore.App 10.0.12 [/usr/share/dotnet/shared/Microsoft.NETCore.App]
+
+
+9/27/2026, 6:40:10 PM 681 [b2846f1b-e244-40cd-8ff8-efc2c20c528b] CommandExecutionStdError
+The command "dotnet" --list-runtimes --arch x64 encountered stderr:
+
+
+9/27/2026, 6:40:10 PM 682 [b2846f1b-e244-40cd-8ff8-efc2c20c528b] CachePutEvent
+Adding to the cache at 2026-09-27T11:40:10.682Z
+"dotnet" --list-runtimes --arch x64{"cwd":"/home/kiwann/.vscode/extensions/ms-dotnettools.vscode-dotnet-runtime-3.2.0/dist","encoding":"utf8","env":"HOME: /home/kiwann\nLANG: en_US.UTF-8\nPATH: /usr/local/bin:/usr/bin:/bin:/usr/local/sbin:/opt/android-sdk/cmdline-tools/latest/bin:/var/lib/flatpak/exports/bin:/usr/lib/jvm/default/bin:/usr/bin/site_perl:/usr/bin/vendor_perl:/usr/bin/core_perl:/usr/lib/rustup/bin\nPWD: /home/kiwann\nSHELL: /usr/bin/bash\nVSCODE_CLI: 1\nVSCODE_CODE_CACHE_PATH: /home/kiwann/.config/Code/CachedData/04c0d99f4fb0d8afe6ce4f0c58e31e183ac3e4b1\nVSCODE_HANDLES_UNCAUGHT_ERRORS: true\nVSCODE_PID: 34608\nXDG_RUNTIME_DIR: /run/user/1000\nELECTRON_RUN_AS_NODE: 1\nDOTNET_MULTILEVEL_LOOKUP: 0\nDOTNET_CLI_UI_LANGUAGE: en-US\nDOTNET_NOLOGO: true\n","shell":true}
+{"stdout":"Microsoft.NETCore.App 10.0.12 [/usr/share/dotnet/shared/Microsoft.NETCore.App]\n","stderr":"","status":"0"}
+9000
+true
+
+9/27/2026, 6:40:10 PM 683 [b2846f1b-e244-40cd-8ff8-efc2c20c528b] CacheGetEvent
+Checking the cache at 2026-09-27T11:40:10.683Z
+"/usr/share/dotnet/dotnet" --list-runtimes --arch x64{"cwd":"/home/kiwann/.vscode/extensions/ms-dotnettools.vscode-dotnet-runtime-3.2.0/dist","encoding":"utf8","env":"HOME: /home/kiwann\nLANG: en_US.UTF-8\nPATH: /usr/local/bin:/usr/bin:/bin:/usr/local/sbin:/opt/android-sdk/cmdline-tools/latest/bin:/var/lib/flatpak/exports/bin:/usr/lib/jvm/default/bin:/usr/bin/site_perl:/usr/bin/vendor_perl:/usr/bin/core_perl:/usr/lib/rustup/bin\nPWD: /home/kiwann\nSHELL: /usr/bin/bash\nVSCODE_CLI: 1\nVSCODE_CODE_CACHE_PATH: /home/kiwann/.config/Code/CachedData/04c0d99f4fb0d8afe6ce4f0c58e31e183ac3e4b1\nVSCODE_HANDLES_UNCAUGHT_ERRORS: true\nVSCODE_PID: 34608\nXDG_RUNTIME_DIR: /run/user/1000\nELECTRON_RUN_AS_NODE: 1\nDOTNET_MULTILEVEL_LOOKUP: 0\nDOTNET_CLI_UI_LANGUAGE: en-US\nDOTNET_NOLOGO: true\n","shell":true}
+undefined
+true
+
+9/27/2026, 6:40:10 PM 683 [b2846f1b-e244-40cd-8ff8-efc2c20c528b] CommandExecutionEvent
+Executing command "/usr/share/dotnet/dotnet" --list-runtimes --arch x64 with options {"env":"HOME: /home/kiwann\nLANG: en_US.UTF-8\nPATH: /usr/local/bin:/usr/bin:/bin:/usr/local/sbin:/opt/android-sdk/cmdline-tools/latest/bin:/var/lib/flatpak/exports/bin:/usr/lib/jvm/default/bin:/usr/bin/site_perl:/usr/bin/vendor_perl:/usr/bin/core_perl:/usr/lib/rustup/bin\nPWD: /home/kiwann\nSHELL: /usr/bin/bash\nVSCODE_CLI: 1\nVSCODE_CODE_CACHE_PATH: /home/kiwann/.config/Code/CachedData/04c0d99f4fb0d8afe6ce4f0c58e31e183ac3e4b1\nVSCODE_HANDLES_UNCAUGHT_ERRORS: true\nVSCODE_PID: 34608\nXDG_RUNTIME_DIR: /run/user/1000\nELECTRON_RUN_AS_NODE: 1\nDOTNET_MULTILEVEL_LOOKUP: 0\nDOTNET_CLI_UI_LANGUAGE: en-US\nDOTNET_NOLOGO: true\n","dotnetInstallToolCacheTtlMs":9000,"cwd":"/home/kiwann/.vscode/extensions/ms-dotnettools.vscode-dotnet-runtime-3.2.0/dist","shell":true,"encoding":"utf8"}.
+
+9/27/2026, 6:40:10 PM 733 [b2846f1b-e244-40cd-8ff8-efc2c20c528b] CommandExecutionTimer
+The command "/usr/share/dotnet/dotnet" --list-runtimes --arch x64 took 48.68 ms to run.
+48.68
+ "/usr/share/dotnet/dotnet" --list-runtimes --arch x64
+447e175f64e7f6b5fa8ac62b1fb89862ed5bf9eeb7de7af36a92eda396bf3f95
+
+9/27/2026, 6:40:10 PM 733 [b2846f1b-e244-40cd-8ff8-efc2c20c528b] CommandExecutionStatusEvent
+The command "/usr/share/dotnet/dotnet" --list-runtimes --arch x64 exited:
+0.
+
+9/27/2026, 6:40:10 PM 734 [b2846f1b-e244-40cd-8ff8-efc2c20c528b] CommandExecutionStdOut
+The command "/usr/share/dotnet/dotnet" --list-runtimes --arch x64 encountered stdout:
+Microsoft.NETCore.App 10.0.12 [/usr/share/dotnet/shared/Microsoft.NETCore.App]
+
+
+9/27/2026, 6:40:10 PM 734 [b2846f1b-e244-40cd-8ff8-efc2c20c528b] CommandExecutionStdError
+The command "/usr/share/dotnet/dotnet" --list-runtimes --arch x64 encountered stderr:
+
+
+9/27/2026, 6:40:10 PM 734 [b2846f1b-e244-40cd-8ff8-efc2c20c528b] CachePutEvent
+Adding to the cache at 2026-09-27T11:40:10.734Z
+"/usr/share/dotnet/dotnet" --list-runtimes --arch x64{"cwd":"/home/kiwann/.vscode/extensions/ms-dotnettools.vscode-dotnet-runtime-3.2.0/dist","encoding":"utf8","env":"HOME: /home/kiwann\nLANG: en_US.UTF-8\nPATH: /usr/local/bin:/usr/bin:/bin:/usr/local/sbin:/opt/android-sdk/cmdline-tools/latest/bin:/var/lib/flatpak/exports/bin:/usr/lib/jvm/default/bin:/usr/bin/site_perl:/usr/bin/vendor_perl:/usr/bin/core_perl:/usr/lib/rustup/bin\nPWD: /home/kiwann\nSHELL: /usr/bin/bash\nVSCODE_CLI: 1\nVSCODE_CODE_CACHE_PATH: /home/kiwann/.config/Code/CachedData/04c0d99f4fb0d8afe6ce4f0c58e31e183ac3e4b1\nVSCODE_HANDLES_UNCAUGHT_ERRORS: true\nVSCODE_PID: 34608\nXDG_RUNTIME_DIR: /run/user/1000\nELECTRON_RUN_AS_NODE: 1\nDOTNET_MULTILEVEL_LOOKUP: 0\nDOTNET_CLI_UI_LANGUAGE: en-US\nDOTNET_NOLOGO: true\n","shell":true}
+{"stdout":"Microsoft.NETCore.App 10.0.12 [/usr/share/dotnet/shared/Microsoft.NETCore.App]\n","stderr":"","status":"0"}
+9000
+true
+
+9/27/2026, 6:40:10 PM 735 [b2846f1b-e244-40cd-8ff8-efc2c20c528b] CacheGetEvent
+Checking the cache at 2026-09-27T11:40:10.735Z
+"/usr/share/dotnet/dotnet" --list-runtimes --arch x64{"cwd":"/home/kiwann/.vscode/extensions/ms-dotnettools.vscode-dotnet-runtime-3.2.0/dist","encoding":"utf8","env":"HOME: /home/kiwann\nLANG: en_US.UTF-8\nPATH: /usr/local/bin:/usr/bin:/bin:/usr/local/sbin:/opt/android-sdk/cmdline-tools/latest/bin:/var/lib/flatpak/exports/bin:/usr/lib/jvm/default/bin:/usr/bin/site_perl:/usr/bin/vendor_perl:/usr/bin/core_perl:/usr/lib/rustup/bin\nPWD: /home/kiwann\nSHELL: /usr/bin/bash\nVSCODE_CLI: 1\nVSCODE_CODE_CACHE_PATH: /home/kiwann/.config/Code/CachedData/04c0d99f4fb0d8afe6ce4f0c58e31e183ac3e4b1\nVSCODE_HANDLES_UNCAUGHT_ERRORS: true\nVSCODE_PID: 34608\nXDG_RUNTIME_DIR: /run/user/1000\nELECTRON_RUN_AS_NODE: 1\nDOTNET_MULTILEVEL_LOOKUP: 0\nDOTNET_CLI_UI_LANGUAGE: en-US\nDOTNET_NOLOGO: true\n","shell":true}
+{"stdout":"Microsoft.NETCore.App 10.0.12 [/usr/share/dotnet/shared/Microsoft.NETCore.App]\n","stderr":"","status":"0"}
+true
+
+9/27/2026, 6:40:10 PM 735 [b2846f1b-e244-40cd-8ff8-efc2c20c528b] DotnetFindPathDidNotMeetCondition
+/usr/share/dotnet/dotnet did NOT satisfy the conditions: hostArch: x64, requiredArch: x64,
+            required version: 10.0.5, required mode: aspnetcore
+
+9/27/2026, 6:40:10 PM 736 [b2846f1b-e244-40cd-8ff8-efc2c20c528b] DotnetFindPathLookupPATH
+Looking up .NET on the path. Process.env.path: /usr/local/bin:/usr/bin:/bin:/usr/local/sbin:/opt/android-sdk/cmdline-tools/latest/bin:/var/lib/flatpak/exports/bin:/usr/lib/jvm/default/bin:/usr/bin/site_perl:/usr/bin/vendor_perl:/usr/bin/core_perl:/usr/lib/rustup/bin
+
+9/27/2026, 6:40:10 PM 736 [b2846f1b-e244-40cd-8ff8-efc2c20c528b] CacheGetEvent
+Checking the cache at 2026-09-27T11:40:10.736Z
+echo $PATH{"cwd":"/home/kiwann/.vscode/extensions/ms-dotnettools.vscode-dotnet-runtime-3.2.0/dist","encoding":"utf8","env":"HOME: /home/kiwann\nLANG: en_US.UTF-8\nPATH: /usr/local/bin:/usr/bin:/bin:/usr/local/sbin:/opt/android-sdk/cmdline-tools/latest/bin:/var/lib/flatpak/exports/bin:/usr/lib/jvm/default/bin:/usr/bin/site_perl:/usr/bin/vendor_perl:/usr/bin/core_perl:/usr/lib/rustup/bin\nPWD: /home/kiwann\nSHELL: /usr/bin/bash\nVSCODE_CLI: 1\nVSCODE_CODE_CACHE_PATH: /home/kiwann/.config/Code/CachedData/04c0d99f4fb0d8afe6ce4f0c58e31e183ac3e4b1\nVSCODE_HANDLES_UNCAUGHT_ERRORS: true\nVSCODE_PID: 34608\nXDG_RUNTIME_DIR: /run/user/1000\nELECTRON_RUN_AS_NODE: 1\nDOTNET_CLI_UI_LANGUAGE: en-US\nDOTNET_NOLOGO: true\n","shell":true}
+undefined
+true
+
+9/27/2026, 6:40:10 PM 736 [b2846f1b-e244-40cd-8ff8-efc2c20c528b] CommandExecutionEvent
+Executing command echo $PATH with options {"env":"HOME: /home/kiwann\nLANG: en_US.UTF-8\nPATH: /usr/local/bin:/usr/bin:/bin:/usr/local/sbin:/opt/android-sdk/cmdline-tools/latest/bin:/var/lib/flatpak/exports/bin:/usr/lib/jvm/default/bin:/usr/bin/site_perl:/usr/bin/vendor_perl:/usr/bin/core_perl:/usr/lib/rustup/bin\nPWD: /home/kiwann\nSHELL: /usr/bin/bash\nVSCODE_CLI: 1\nVSCODE_CODE_CACHE_PATH: /home/kiwann/.config/Code/CachedData/04c0d99f4fb0d8afe6ce4f0c58e31e183ac3e4b1\nVSCODE_HANDLES_UNCAUGHT_ERRORS: true\nVSCODE_PID: 34608\nXDG_RUNTIME_DIR: /run/user/1000\nELECTRON_RUN_AS_NODE: 1\nDOTNET_CLI_UI_LANGUAGE: en-US\nDOTNET_NOLOGO: true\n","dotnetInstallToolCacheTtlMs":9000,"cwd":"/home/kiwann/.vscode/extensions/ms-dotnettools.vscode-dotnet-runtime-3.2.0/dist","shell":true,"encoding":"utf8"}.
+
+9/27/2026, 6:40:10 PM 747 [b2846f1b-e244-40cd-8ff8-efc2c20c528b] CacheGetEvent
+Checking the cache at 2026-09-27T11:40:10.747Z
+echo $PATH{"cwd":"/home/kiwann/.vscode/extensions/ms-dotnettools.vscode-dotnet-runtime-3.2.0/dist","encoding":"utf8","env":"HOME: /home/kiwann\nLANG: en_US.UTF-8\nPATH: /usr/local/bin:/usr/bin:/bin:/usr/local/sbin:/opt/android-sdk/cmdline-tools/latest/bin:/var/lib/flatpak/exports/bin:/usr/lib/jvm/default/bin:/usr/bin/site_perl:/usr/bin/vendor_perl:/usr/bin/core_perl:/usr/lib/rustup/bin\nPWD: /home/kiwann\nSHELL: /usr/bin/bash\nVSCODE_CLI: 1\nVSCODE_CODE_CACHE_PATH: /home/kiwann/.config/Code/CachedData/04c0d99f4fb0d8afe6ce4f0c58e31e183ac3e4b1\nVSCODE_HANDLES_UNCAUGHT_ERRORS: true\nVSCODE_PID: 34608\nXDG_RUNTIME_DIR: /run/user/1000\nELECTRON_RUN_AS_NODE: 1\nDOTNET_CLI_UI_LANGUAGE: en-US\nDOTNET_NOLOGO: true\n","shell":"bin/bash"}
+undefined
+true
+
+9/27/2026, 6:40:10 PM 747 [b2846f1b-e244-40cd-8ff8-efc2c20c528b] CommandExecutionEvent
+Executing command echo $PATH with options {"env":"HOME: /home/kiwann\nLANG: en_US.UTF-8\nPATH: /usr/local/bin:/usr/bin:/bin:/usr/local/sbin:/opt/android-sdk/cmdline-tools/latest/bin:/var/lib/flatpak/exports/bin:/usr/lib/jvm/default/bin:/usr/bin/site_perl:/usr/bin/vendor_perl:/usr/bin/core_perl:/usr/lib/rustup/bin\nPWD: /home/kiwann\nSHELL: /usr/bin/bash\nVSCODE_CLI: 1\nVSCODE_CODE_CACHE_PATH: /home/kiwann/.config/Code/CachedData/04c0d99f4fb0d8afe6ce4f0c58e31e183ac3e4b1\nVSCODE_HANDLES_UNCAUGHT_ERRORS: true\nVSCODE_PID: 34608\nXDG_RUNTIME_DIR: /run/user/1000\nELECTRON_RUN_AS_NODE: 1\nDOTNET_CLI_UI_LANGUAGE: en-US\nDOTNET_NOLOGO: true\n","shell":"bin/bash","dotnetInstallToolCacheTtlMs":30000,"cwd":"/home/kiwann/.vscode/extensions/ms-dotnettools.vscode-dotnet-runtime-3.2.0/dist","encoding":"utf8"}.
+
+9/27/2026, 6:40:10 PM 763 [b2846f1b-e244-40cd-8ff8-efc2c20c528b] CacheGetEvent
+Checking the cache at 2026-09-27T11:40:10.763Z
+which which{"cwd":"/home/kiwann/.vscode/extensions/ms-dotnettools.vscode-dotnet-runtime-3.2.0/dist","encoding":"utf8","env":"HOME: /home/kiwann\nLANG: en_US.UTF-8\nPATH: /usr/local/bin:/usr/bin:/bin:/usr/local/sbin:/opt/android-sdk/cmdline-tools/latest/bin:/var/lib/flatpak/exports/bin:/usr/lib/jvm/default/bin:/usr/bin/site_perl:/usr/bin/vendor_perl:/usr/bin/core_perl:/usr/lib/rustup/bin\nPWD: /home/kiwann\nSHELL: /usr/bin/bash\nVSCODE_CLI: 1\nVSCODE_CODE_CACHE_PATH: /home/kiwann/.config/Code/CachedData/04c0d99f4fb0d8afe6ce4f0c58e31e183ac3e4b1\nVSCODE_HANDLES_UNCAUGHT_ERRORS: true\nVSCODE_PID: 34608\nXDG_RUNTIME_DIR: /run/user/1000\nELECTRON_RUN_AS_NODE: 1\nDOTNET_CLI_UI_LANGUAGE: en-US\nDOTNET_NOLOGO: true\n","shell":"/bin/sh"}
+undefined
+false
+
+9/27/2026, 6:40:10 PM 764 [b2846f1b-e244-40cd-8ff8-efc2c20c528b] CommandExecutionEvent
+Executing command which which with options {"env":"HOME: /home/kiwann\nLANG: en_US.UTF-8\nPATH: /usr/local/bin:/usr/bin:/bin:/usr/local/sbin:/opt/android-sdk/cmdline-tools/latest/bin:/var/lib/flatpak/exports/bin:/usr/lib/jvm/default/bin:/usr/bin/site_perl:/usr/bin/vendor_perl:/usr/bin/core_perl:/usr/lib/rustup/bin\nPWD: /home/kiwann\nSHELL: /usr/bin/bash\nVSCODE_CLI: 1\nVSCODE_CODE_CACHE_PATH: /home/kiwann/.config/Code/CachedData/04c0d99f4fb0d8afe6ce4f0c58e31e183ac3e4b1\nVSCODE_HANDLES_UNCAUGHT_ERRORS: true\nVSCODE_PID: 34608\nXDG_RUNTIME_DIR: /run/user/1000\nELECTRON_RUN_AS_NODE: 1\nDOTNET_CLI_UI_LANGUAGE: en-US\nDOTNET_NOLOGO: true\n","shell":"/bin/sh","dotnetInstallToolCacheTtlMs":30000,"cwd":"/home/kiwann/.vscode/extensions/ms-dotnettools.vscode-dotnet-runtime-3.2.0/dist","encoding":"utf8"}.
+
+9/27/2026, 6:40:10 PM 780 [b2846f1b-e244-40cd-8ff8-efc2c20c528b] CommandExecutionTimer
+The command echo $PATH took 32.52 ms to run.
+32.52
+ echo $PATH
+23c3bebf31826568ef891d4c8f852b3875d2e5beff0ca44e02bd310c892c0923
+
+9/27/2026, 6:40:10 PM 781 [b2846f1b-e244-40cd-8ff8-efc2c20c528b] CommandExecutionStatusEvent
+The command echo $PATH exited:
+ENOENT.
+
+9/27/2026, 6:40:10 PM 782 [b2846f1b-e244-40cd-8ff8-efc2c20c528b] CommandExecutionStdOut
+The command echo $PATH encountered stdout:
+
+
+9/27/2026, 6:40:10 PM 782 [b2846f1b-e244-40cd-8ff8-efc2c20c528b] CommandExecutionStdError
+The command echo $PATH encountered stderr:
+
+
+9/27/2026, 6:40:10 PM 784 [b2846f1b-e244-40cd-8ff8-efc2c20c528b] CachePutEvent
+Adding to the cache at 2026-09-27T11:40:10.783Z
+echo $PATH{"cwd":"/home/kiwann/.vscode/extensions/ms-dotnettools.vscode-dotnet-runtime-3.2.0/dist","encoding":"utf8","env":"HOME: /home/kiwann\nLANG: en_US.UTF-8\nPATH: /usr/local/bin:/usr/bin:/bin:/usr/local/sbin:/opt/android-sdk/cmdline-tools/latest/bin:/var/lib/flatpak/exports/bin:/usr/lib/jvm/default/bin:/usr/bin/site_perl:/usr/bin/vendor_perl:/usr/bin/core_perl:/usr/lib/rustup/bin\nPWD: /home/kiwann\nSHELL: /usr/bin/bash\nVSCODE_CLI: 1\nVSCODE_CODE_CACHE_PATH: /home/kiwann/.config/Code/CachedData/04c0d99f4fb0d8afe6ce4f0c58e31e183ac3e4b1\nVSCODE_HANDLES_UNCAUGHT_ERRORS: true\nVSCODE_PID: 34608\nXDG_RUNTIME_DIR: /run/user/1000\nELECTRON_RUN_AS_NODE: 1\nDOTNET_CLI_UI_LANGUAGE: en-US\nDOTNET_NOLOGO: true\n","shell":"bin/bash"}
+{"stdout":"","stderr":"","status":"ENOENT"}
+30000
+true
+
+9/27/2026, 6:40:10 PM 784 [b2846f1b-e244-40cd-8ff8-efc2c20c528b] DotnetFindPathLookupPATH
+Execution Path (Unix Bash): 
+
+9/27/2026, 6:40:10 PM 829 [b2846f1b-e244-40cd-8ff8-efc2c20c528b] CommandExecutionTimer
+The command which which took 64.40 ms to run.
+64.40
+ which which
+a4aa6a3d22b478e49624e652352f9e84b4d2df75d35f2a9d91c35e70bc346156
+
+9/27/2026, 6:40:10 PM 829 [b2846f1b-e244-40cd-8ff8-efc2c20c528b] CommandExecutionStatusEvent
+The command which which exited:
+0.
+
+9/27/2026, 6:40:10 PM 830 [b2846f1b-e244-40cd-8ff8-efc2c20c528b] CommandExecutionStdOut
+The command which which encountered stdout:
+/usr/bin/which
+
+
+9/27/2026, 6:40:10 PM 830 [b2846f1b-e244-40cd-8ff8-efc2c20c528b] CommandExecutionStdError
+The command which which encountered stderr:
+
+
+9/27/2026, 6:40:10 PM 830 [b2846f1b-e244-40cd-8ff8-efc2c20c528b] CachePutEvent
+Adding to the cache at 2026-09-27T11:40:10.830Z
+which which{"cwd":"/home/kiwann/.vscode/extensions/ms-dotnettools.vscode-dotnet-runtime-3.2.0/dist","encoding":"utf8","env":"HOME: /home/kiwann\nLANG: en_US.UTF-8\nPATH: /usr/local/bin:/usr/bin:/bin:/usr/local/sbin:/opt/android-sdk/cmdline-tools/latest/bin:/var/lib/flatpak/exports/bin:/usr/lib/jvm/default/bin:/usr/bin/site_perl:/usr/bin/vendor_perl:/usr/bin/core_perl:/usr/lib/rustup/bin\nPWD: /home/kiwann\nSHELL: /usr/bin/bash\nVSCODE_CLI: 1\nVSCODE_CODE_CACHE_PATH: /home/kiwann/.config/Code/CachedData/04c0d99f4fb0d8afe6ce4f0c58e31e183ac3e4b1\nVSCODE_HANDLES_UNCAUGHT_ERRORS: true\nVSCODE_PID: 34608\nXDG_RUNTIME_DIR: /run/user/1000\nELECTRON_RUN_AS_NODE: 1\nDOTNET_CLI_UI_LANGUAGE: en-US\nDOTNET_NOLOGO: true\n","shell":"/bin/sh"}
+{"stdout":"/usr/bin/which\n","stderr":"","status":"0"}
+30000
+true
+
+9/27/2026, 6:40:10 PM 831 [b2846f1b-e244-40cd-8ff8-efc2c20c528b] DotnetAlternativeCommandFoundEvent
+The command which was found.
+
+9/27/2026, 6:40:10 PM 831 [b2846f1b-e244-40cd-8ff8-efc2c20c528b] CacheGetEvent
+Checking the cache at 2026-09-27T11:40:10.831Z
+which dotnet{"cwd":"/home/kiwann/.vscode/extensions/ms-dotnettools.vscode-dotnet-runtime-3.2.0/dist","encoding":"utf8","env":"HOME: /home/kiwann\nLANG: en_US.UTF-8\nPATH: /usr/local/bin:/usr/bin:/bin:/usr/local/sbin:/opt/android-sdk/cmdline-tools/latest/bin:/var/lib/flatpak/exports/bin:/usr/lib/jvm/default/bin:/usr/bin/site_perl:/usr/bin/vendor_perl:/usr/bin/core_perl:/usr/lib/rustup/bin\nPWD: /home/kiwann\nSHELL: /usr/bin/bash\nVSCODE_CLI: 1\nVSCODE_CODE_CACHE_PATH: /home/kiwann/.config/Code/CachedData/04c0d99f4fb0d8afe6ce4f0c58e31e183ac3e4b1\nVSCODE_HANDLES_UNCAUGHT_ERRORS: true\nVSCODE_PID: 34608\nXDG_RUNTIME_DIR: /run/user/1000\nELECTRON_RUN_AS_NODE: 1\nDOTNET_CLI_UI_LANGUAGE: en-US\nDOTNET_NOLOGO: true\n","shell":"/bin/sh"}
+undefined
+true
+
+9/27/2026, 6:40:10 PM 832 [b2846f1b-e244-40cd-8ff8-efc2c20c528b] CommandExecutionEvent
+Executing command which dotnet with options {"env":"HOME: /home/kiwann\nLANG: en_US.UTF-8\nPATH: /usr/local/bin:/usr/bin:/bin:/usr/local/sbin:/opt/android-sdk/cmdline-tools/latest/bin:/var/lib/flatpak/exports/bin:/usr/lib/jvm/default/bin:/usr/bin/site_perl:/usr/bin/vendor_perl:/usr/bin/core_perl:/usr/lib/rustup/bin\nPWD: /home/kiwann\nSHELL: /usr/bin/bash\nVSCODE_CLI: 1\nVSCODE_CODE_CACHE_PATH: /home/kiwann/.config/Code/CachedData/04c0d99f4fb0d8afe6ce4f0c58e31e183ac3e4b1\nVSCODE_HANDLES_UNCAUGHT_ERRORS: true\nVSCODE_PID: 34608\nXDG_RUNTIME_DIR: /run/user/1000\nELECTRON_RUN_AS_NODE: 1\nDOTNET_CLI_UI_LANGUAGE: en-US\nDOTNET_NOLOGO: true\n","shell":"/bin/sh","dotnetInstallToolCacheTtlMs":9000,"cwd":"/home/kiwann/.vscode/extensions/ms-dotnettools.vscode-dotnet-runtime-3.2.0/dist","encoding":"utf8"}.
+
+9/27/2026, 6:40:10 PM 843 [b2846f1b-e244-40cd-8ff8-efc2c20c528b] CommandExecutionTimer
+The command echo $PATH took 105.92 ms to run.
+105.92
+ echo $PATH
+23c3bebf31826568ef891d4c8f852b3875d2e5beff0ca44e02bd310c892c0923
+
+9/27/2026, 6:40:10 PM 843 [b2846f1b-e244-40cd-8ff8-efc2c20c528b] CommandExecutionStatusEvent
+The command echo $PATH exited:
+0.
+
+9/27/2026, 6:40:10 PM 843 [b2846f1b-e244-40cd-8ff8-efc2c20c528b] CommandExecutionStdOut
+The command echo $PATH encountered stdout:
+/usr/local/bin:/usr/bin:/bin:/usr/local/sbin:/opt/android-sdk/cmdline-tools/latest/bin:/var/lib/flatpak/exports/bin:/usr/lib/jvm/default/bin:/usr/bin/site_perl:/usr/bin/vendor_perl:/usr/bin/core_perl:/usr/lib/rustup/bin
+
+
+9/27/2026, 6:40:10 PM 844 [b2846f1b-e244-40cd-8ff8-efc2c20c528b] CommandExecutionStdError
+The command echo $PATH encountered stderr:
+
+
+9/27/2026, 6:40:10 PM 844 [b2846f1b-e244-40cd-8ff8-efc2c20c528b] CachePutEvent
+Adding to the cache at 2026-09-27T11:40:10.844Z
+echo $PATH{"cwd":"/home/kiwann/.vscode/extensions/ms-dotnettools.vscode-dotnet-runtime-3.2.0/dist","encoding":"utf8","env":"HOME: /home/kiwann\nLANG: en_US.UTF-8\nPATH: /usr/local/bin:/usr/bin:/bin:/usr/local/sbin:/opt/android-sdk/cmdline-tools/latest/bin:/var/lib/flatpak/exports/bin:/usr/lib/jvm/default/bin:/usr/bin/site_perl:/usr/bin/vendor_perl:/usr/bin/core_perl:/usr/lib/rustup/bin\nPWD: /home/kiwann\nSHELL: /usr/bin/bash\nVSCODE_CLI: 1\nVSCODE_CODE_CACHE_PATH: /home/kiwann/.config/Code/CachedData/04c0d99f4fb0d8afe6ce4f0c58e31e183ac3e4b1\nVSCODE_HANDLES_UNCAUGHT_ERRORS: true\nVSCODE_PID: 34608\nXDG_RUNTIME_DIR: /run/user/1000\nELECTRON_RUN_AS_NODE: 1\nDOTNET_CLI_UI_LANGUAGE: en-US\nDOTNET_NOLOGO: true\n","shell":true}
+{"stdout":"/usr/local/bin:/usr/bin:/bin:/usr/local/sbin:/opt/android-sdk/cmdline-tools/latest/bin:/var/lib/flatpak/exports/bin:/usr/lib/jvm/default/bin:/usr/bin/site_perl:/usr/bin/vendor_perl:/usr/bin/core_perl:/usr/lib/rustup/bin\n","stderr":"","status":"0"}
+9000
+true
+
+9/27/2026, 6:40:10 PM 844 [b2846f1b-e244-40cd-8ff8-efc2c20c528b] DotnetFindPathLookupPATH
+Execution Path (Unix-Default-Shell): /usr/local/bin:/usr/bin:/bin:/usr/local/sbin:/opt/android-sdk/cmdline-tools/latest/bin:/var/lib/flatpak/exports/bin:/usr/lib/jvm/default/bin:/usr/bin/site_perl:/usr/bin/vendor_perl:/usr/bin/core_perl:/usr/lib/rustup/bin
+
+
+9/27/2026, 6:40:10 PM 888 [b2846f1b-e244-40cd-8ff8-efc2c20c528b] CommandExecutionTimer
+The command which dotnet took 55.82 ms to run.
+55.82
+ which dotnet
+a4aa6a3d22b478e49624e652352f9e84b4d2df75d35f2a9d91c35e70bc346156
+
+9/27/2026, 6:40:10 PM 889 [b2846f1b-e244-40cd-8ff8-efc2c20c528b] CommandExecutionStatusEvent
+The command which dotnet exited:
+0.
+
+9/27/2026, 6:40:10 PM 889 [b2846f1b-e244-40cd-8ff8-efc2c20c528b] CommandExecutionStdOut
+The command which dotnet encountered stdout:
+/usr/bin/dotnet
+
+
+9/27/2026, 6:40:10 PM 890 [b2846f1b-e244-40cd-8ff8-efc2c20c528b] CommandExecutionStdError
+The command which dotnet encountered stderr:
+
+
+9/27/2026, 6:40:10 PM 890 [b2846f1b-e244-40cd-8ff8-efc2c20c528b] CachePutEvent
+Adding to the cache at 2026-09-27T11:40:10.890Z
+which dotnet{"cwd":"/home/kiwann/.vscode/extensions/ms-dotnettools.vscode-dotnet-runtime-3.2.0/dist","encoding":"utf8","env":"HOME: /home/kiwann\nLANG: en_US.UTF-8\nPATH: /usr/local/bin:/usr/bin:/bin:/usr/local/sbin:/opt/android-sdk/cmdline-tools/latest/bin:/var/lib/flatpak/exports/bin:/usr/lib/jvm/default/bin:/usr/bin/site_perl:/usr/bin/vendor_perl:/usr/bin/core_perl:/usr/lib/rustup/bin\nPWD: /home/kiwann\nSHELL: /usr/bin/bash\nVSCODE_CLI: 1\nVSCODE_CODE_CACHE_PATH: /home/kiwann/.config/Code/CachedData/04c0d99f4fb0d8afe6ce4f0c58e31e183ac3e4b1\nVSCODE_HANDLES_UNCAUGHT_ERRORS: true\nVSCODE_PID: 34608\nXDG_RUNTIME_DIR: /run/user/1000\nELECTRON_RUN_AS_NODE: 1\nDOTNET_CLI_UI_LANGUAGE: en-US\nDOTNET_NOLOGO: true\n","shell":"/bin/sh"}
+{"stdout":"/usr/bin/dotnet\n","stderr":"","status":"0"}
+9000
+true
+
+9/27/2026, 6:40:10 PM 890 [b2846f1b-e244-40cd-8ff8-efc2c20c528b] DotnetFindPathPATHFound
+Found.NET on the path: ["/usr/bin/dotnet"]
+
+9/27/2026, 6:40:10 PM 891 [b2846f1b-e244-40cd-8ff8-efc2c20c528b] CacheGetEvent
+Checking the cache at 2026-09-27T11:40:10.891Z
+"/usr/bin/dotnet" --list-runtimes --arch x64{"cwd":"/home/kiwann/.vscode/extensions/ms-dotnettools.vscode-dotnet-runtime-3.2.0/dist","encoding":"utf8","env":"HOME: /home/kiwann\nLANG: en_US.UTF-8\nPATH: /usr/local/bin:/usr/bin:/bin:/usr/local/sbin:/opt/android-sdk/cmdline-tools/latest/bin:/var/lib/flatpak/exports/bin:/usr/lib/jvm/default/bin:/usr/bin/site_perl:/usr/bin/vendor_perl:/usr/bin/core_perl:/usr/lib/rustup/bin\nPWD: /home/kiwann\nSHELL: /usr/bin/bash\nVSCODE_CLI: 1\nVSCODE_CODE_CACHE_PATH: /home/kiwann/.config/Code/CachedData/04c0d99f4fb0d8afe6ce4f0c58e31e183ac3e4b1\nVSCODE_HANDLES_UNCAUGHT_ERRORS: true\nVSCODE_PID: 34608\nXDG_RUNTIME_DIR: /run/user/1000\nELECTRON_RUN_AS_NODE: 1\nDOTNET_CLI_UI_LANGUAGE: en-US\nDOTNET_NOLOGO: true\nDOTNET_MULTILEVEL_LOOKUP: 0\n","shell":true}
+undefined
+true
+
+9/27/2026, 6:40:10 PM 891 [b2846f1b-e244-40cd-8ff8-efc2c20c528b] CommandExecutionEvent
+Executing command "/usr/bin/dotnet" --list-runtimes --arch x64 with options {"env":"HOME: /home/kiwann\nLANG: en_US.UTF-8\nPATH: /usr/local/bin:/usr/bin:/bin:/usr/local/sbin:/opt/android-sdk/cmdline-tools/latest/bin:/var/lib/flatpak/exports/bin:/usr/lib/jvm/default/bin:/usr/bin/site_perl:/usr/bin/vendor_perl:/usr/bin/core_perl:/usr/lib/rustup/bin\nPWD: /home/kiwann\nSHELL: /usr/bin/bash\nVSCODE_CLI: 1\nVSCODE_CODE_CACHE_PATH: /home/kiwann/.config/Code/CachedData/04c0d99f4fb0d8afe6ce4f0c58e31e183ac3e4b1\nVSCODE_HANDLES_UNCAUGHT_ERRORS: true\nVSCODE_PID: 34608\nXDG_RUNTIME_DIR: /run/user/1000\nELECTRON_RUN_AS_NODE: 1\nDOTNET_CLI_UI_LANGUAGE: en-US\nDOTNET_NOLOGO: true\nDOTNET_MULTILEVEL_LOOKUP: 0\n","dotnetInstallToolCacheTtlMs":9000,"cwd":"/home/kiwann/.vscode/extensions/ms-dotnettools.vscode-dotnet-runtime-3.2.0/dist","shell":true,"encoding":"utf8"}.
+
+9/27/2026, 6:40:10 PM 904 DotnetFindPathCommandInvoked
+The find path command was invoked.
+{"acquireContext":{"version":"10.0.9","requestingExtensionId":"ms-dotnettools.csdevkit","architecture":"x64","mode":"runtime"},"versionSpecRequirement":"latestFeature","rejectPreviews":true}
+
+9/27/2026, 6:40:10 PM 905 DotnetFindPathLookupSetting
+Looking up vscode setting.
+
+9/27/2026, 6:40:10 PM 906 [61a36330-4198-46b2-b1b3-653af9cf4451] CacheGetEvent
+Checking the cache at 2026-09-27T11:40:10.906Z
+"dotnet" --list-runtimes --arch x64{"cwd":"/home/kiwann/.vscode/extensions/ms-dotnettools.vscode-dotnet-runtime-3.2.0/dist","encoding":"utf8","env":"HOME: /home/kiwann\nLANG: en_US.UTF-8\nPATH: /usr/local/bin:/usr/bin:/bin:/usr/local/sbin:/opt/android-sdk/cmdline-tools/latest/bin:/var/lib/flatpak/exports/bin:/usr/lib/jvm/default/bin:/usr/bin/site_perl:/usr/bin/vendor_perl:/usr/bin/core_perl:/usr/lib/rustup/bin\nPWD: /home/kiwann\nSHELL: /usr/bin/bash\nVSCODE_CLI: 1\nVSCODE_CODE_CACHE_PATH: /home/kiwann/.config/Code/CachedData/04c0d99f4fb0d8afe6ce4f0c58e31e183ac3e4b1\nVSCODE_HANDLES_UNCAUGHT_ERRORS: true\nVSCODE_PID: 34608\nXDG_RUNTIME_DIR: /run/user/1000\nELECTRON_RUN_AS_NODE: 1\nDOTNET_CLI_UI_LANGUAGE: en-US\nDOTNET_NOLOGO: true\nDOTNET_MULTILEVEL_LOOKUP: 0\n","shell":true}
+undefined
+true
+
+9/27/2026, 6:40:10 PM 906 [61a36330-4198-46b2-b1b3-653af9cf4451] CommandExecutionEvent
+Executing command "dotnet" --list-runtimes --arch x64 with options {"env":"HOME: /home/kiwann\nLANG: en_US.UTF-8\nPATH: /usr/local/bin:/usr/bin:/bin:/usr/local/sbin:/opt/android-sdk/cmdline-tools/latest/bin:/var/lib/flatpak/exports/bin:/usr/lib/jvm/default/bin:/usr/bin/site_perl:/usr/bin/vendor_perl:/usr/bin/core_perl:/usr/lib/rustup/bin\nPWD: /home/kiwann\nSHELL: /usr/bin/bash\nVSCODE_CLI: 1\nVSCODE_CODE_CACHE_PATH: /home/kiwann/.config/Code/CachedData/04c0d99f4fb0d8afe6ce4f0c58e31e183ac3e4b1\nVSCODE_HANDLES_UNCAUGHT_ERRORS: true\nVSCODE_PID: 34608\nXDG_RUNTIME_DIR: /run/user/1000\nELECTRON_RUN_AS_NODE: 1\nDOTNET_CLI_UI_LANGUAGE: en-US\nDOTNET_NOLOGO: true\nDOTNET_MULTILEVEL_LOOKUP: 0\n","dotnetInstallToolCacheTtlMs":9000,"cwd":"/home/kiwann/.vscode/extensions/ms-dotnettools.vscode-dotnet-runtime-3.2.0/dist","shell":true,"encoding":"utf8"}.
+
+9/27/2026, 6:40:10 PM 924 [61a36330-4198-46b2-b1b3-653af9cf4451] CommandExecutionTimer
+The command "dotnet" --list-runtimes --arch x64 took 17.57 ms to run.
+17.57
+ "dotnet" --list-runtimes --arch x64
+2a2e2b4dc23d60b8356d9051902716865c635a4686dba329ca4f53e13e8fc78f
+
+9/27/2026, 6:40:10 PM 924 [61a36330-4198-46b2-b1b3-653af9cf4451] CommandExecutionStatusEvent
+The command "dotnet" --list-runtimes --arch x64 exited:
+0.
+
+9/27/2026, 6:40:10 PM 924 [61a36330-4198-46b2-b1b3-653af9cf4451] CommandExecutionStdOut
+The command "dotnet" --list-runtimes --arch x64 encountered stdout:
+Microsoft.NETCore.App 10.0.12 [/usr/share/dotnet/shared/Microsoft.NETCore.App]
+
+
+9/27/2026, 6:40:10 PM 924 [61a36330-4198-46b2-b1b3-653af9cf4451] CommandExecutionStdError
+The command "dotnet" --list-runtimes --arch x64 encountered stderr:
+
+
+9/27/2026, 6:40:10 PM 925 [61a36330-4198-46b2-b1b3-653af9cf4451] CachePutEvent
+Adding to the cache at 2026-09-27T11:40:10.925Z
+"dotnet" --list-runtimes --arch x64{"cwd":"/home/kiwann/.vscode/extensions/ms-dotnettools.vscode-dotnet-runtime-3.2.0/dist","encoding":"utf8","env":"HOME: /home/kiwann\nLANG: en_US.UTF-8\nPATH: /usr/local/bin:/usr/bin:/bin:/usr/local/sbin:/opt/android-sdk/cmdline-tools/latest/bin:/var/lib/flatpak/exports/bin:/usr/lib/jvm/default/bin:/usr/bin/site_perl:/usr/bin/vendor_perl:/usr/bin/core_perl:/usr/lib/rustup/bin\nPWD: /home/kiwann\nSHELL: /usr/bin/bash\nVSCODE_CLI: 1\nVSCODE_CODE_CACHE_PATH: /home/kiwann/.config/Code/CachedData/04c0d99f4fb0d8afe6ce4f0c58e31e183ac3e4b1\nVSCODE_HANDLES_UNCAUGHT_ERRORS: true\nVSCODE_PID: 34608\nXDG_RUNTIME_DIR: /run/user/1000\nELECTRON_RUN_AS_NODE: 1\nDOTNET_CLI_UI_LANGUAGE: en-US\nDOTNET_NOLOGO: true\nDOTNET_MULTILEVEL_LOOKUP: 0\n","shell":true}
+{"stdout":"Microsoft.NETCore.App 10.0.12 [/usr/share/dotnet/shared/Microsoft.NETCore.App]\n","stderr":"","status":"0"}
+9000
+true
+
+9/27/2026, 6:40:10 PM 925 [61a36330-4198-46b2-b1b3-653af9cf4451] CacheGetEvent
+Checking the cache at 2026-09-27T11:40:10.925Z
+"/usr/share/dotnet/dotnet" --list-runtimes --arch x64{"cwd":"/home/kiwann/.vscode/extensions/ms-dotnettools.vscode-dotnet-runtime-3.2.0/dist","encoding":"utf8","env":"HOME: /home/kiwann\nLANG: en_US.UTF-8\nPATH: /usr/local/bin:/usr/bin:/bin:/usr/local/sbin:/opt/android-sdk/cmdline-tools/latest/bin:/var/lib/flatpak/exports/bin:/usr/lib/jvm/default/bin:/usr/bin/site_perl:/usr/bin/vendor_perl:/usr/bin/core_perl:/usr/lib/rustup/bin\nPWD: /home/kiwann\nSHELL: /usr/bin/bash\nVSCODE_CLI: 1\nVSCODE_CODE_CACHE_PATH: /home/kiwann/.config/Code/CachedData/04c0d99f4fb0d8afe6ce4f0c58e31e183ac3e4b1\nVSCODE_HANDLES_UNCAUGHT_ERRORS: true\nVSCODE_PID: 34608\nXDG_RUNTIME_DIR: /run/user/1000\nELECTRON_RUN_AS_NODE: 1\nDOTNET_CLI_UI_LANGUAGE: en-US\nDOTNET_NOLOGO: true\nDOTNET_MULTILEVEL_LOOKUP: 0\n","shell":true}
+undefined
+true
+
+9/27/2026, 6:40:10 PM 925 [61a36330-4198-46b2-b1b3-653af9cf4451] CommandExecutionEvent
+Executing command "/usr/share/dotnet/dotnet" --list-runtimes --arch x64 with options {"env":"HOME: /home/kiwann\nLANG: en_US.UTF-8\nPATH: /usr/local/bin:/usr/bin:/bin:/usr/local/sbin:/opt/android-sdk/cmdline-tools/latest/bin:/var/lib/flatpak/exports/bin:/usr/lib/jvm/default/bin:/usr/bin/site_perl:/usr/bin/vendor_perl:/usr/bin/core_perl:/usr/lib/rustup/bin\nPWD: /home/kiwann\nSHELL: /usr/bin/bash\nVSCODE_CLI: 1\nVSCODE_CODE_CACHE_PATH: /home/kiwann/.config/Code/CachedData/04c0d99f4fb0d8afe6ce4f0c58e31e183ac3e4b1\nVSCODE_HANDLES_UNCAUGHT_ERRORS: true\nVSCODE_PID: 34608\nXDG_RUNTIME_DIR: /run/user/1000\nELECTRON_RUN_AS_NODE: 1\nDOTNET_CLI_UI_LANGUAGE: en-US\nDOTNET_NOLOGO: true\nDOTNET_MULTILEVEL_LOOKUP: 0\n","dotnetInstallToolCacheTtlMs":9000,"cwd":"/home/kiwann/.vscode/extensions/ms-dotnettools.vscode-dotnet-runtime-3.2.0/dist","shell":true,"encoding":"utf8"}.
+
+9/27/2026, 6:40:10 PM 937 [b2846f1b-e244-40cd-8ff8-efc2c20c528b] CommandExecutionTimer
+The command "/usr/bin/dotnet" --list-runtimes --arch x64 took 45.23 ms to run.
+45.23
+ "/usr/bin/dotnet" --list-runtimes --arch x64
+1bdcd771504671e2a7eb72fca3e4cc09397ea74b6bda4b7425d43f878bcf389f
+
+9/27/2026, 6:40:10 PM 937 [b2846f1b-e244-40cd-8ff8-efc2c20c528b] CommandExecutionStatusEvent
+The command "/usr/bin/dotnet" --list-runtimes --arch x64 exited:
+0.
+
+9/27/2026, 6:40:10 PM 937 [b2846f1b-e244-40cd-8ff8-efc2c20c528b] CommandExecutionStdOut
+The command "/usr/bin/dotnet" --list-runtimes --arch x64 encountered stdout:
+Microsoft.NETCore.App 10.0.12 [/usr/share/dotnet/shared/Microsoft.NETCore.App]
+
+
+9/27/2026, 6:40:10 PM 938 [b2846f1b-e244-40cd-8ff8-efc2c20c528b] CommandExecutionStdError
+The command "/usr/bin/dotnet" --list-runtimes --arch x64 encountered stderr:
+
+
+9/27/2026, 6:40:10 PM 938 [b2846f1b-e244-40cd-8ff8-efc2c20c528b] CachePutEvent
+Adding to the cache at 2026-09-27T11:40:10.938Z
+"/usr/bin/dotnet" --list-runtimes --arch x64{"cwd":"/home/kiwann/.vscode/extensions/ms-dotnettools.vscode-dotnet-runtime-3.2.0/dist","encoding":"utf8","env":"HOME: /home/kiwann\nLANG: en_US.UTF-8\nPATH: /usr/local/bin:/usr/bin:/bin:/usr/local/sbin:/opt/android-sdk/cmdline-tools/latest/bin:/var/lib/flatpak/exports/bin:/usr/lib/jvm/default/bin:/usr/bin/site_perl:/usr/bin/vendor_perl:/usr/bin/core_perl:/usr/lib/rustup/bin\nPWD: /home/kiwann\nSHELL: /usr/bin/bash\nVSCODE_CLI: 1\nVSCODE_CODE_CACHE_PATH: /home/kiwann/.config/Code/CachedData/04c0d99f4fb0d8afe6ce4f0c58e31e183ac3e4b1\nVSCODE_HANDLES_UNCAUGHT_ERRORS: true\nVSCODE_PID: 34608\nXDG_RUNTIME_DIR: /run/user/1000\nELECTRON_RUN_AS_NODE: 1\nDOTNET_CLI_UI_LANGUAGE: en-US\nDOTNET_NOLOGO: true\nDOTNET_MULTILEVEL_LOOKUP: 0\n","shell":true}
+{"stdout":"Microsoft.NETCore.App 10.0.12 [/usr/share/dotnet/shared/Microsoft.NETCore.App]\n","stderr":"","status":"0"}
+9000
+true
+
+9/27/2026, 6:40:10 PM 938 [b2846f1b-e244-40cd-8ff8-efc2c20c528b] CacheGetEvent
+Checking the cache at 2026-09-27T11:40:10.938Z
+"/usr/share/dotnet/dotnet" --list-runtimes --arch x64{"cwd":"/home/kiwann/.vscode/extensions/ms-dotnettools.vscode-dotnet-runtime-3.2.0/dist","encoding":"utf8","env":"HOME: /home/kiwann\nLANG: en_US.UTF-8\nPATH: /usr/local/bin:/usr/bin:/bin:/usr/local/sbin:/opt/android-sdk/cmdline-tools/latest/bin:/var/lib/flatpak/exports/bin:/usr/lib/jvm/default/bin:/usr/bin/site_perl:/usr/bin/vendor_perl:/usr/bin/core_perl:/usr/lib/rustup/bin\nPWD: /home/kiwann\nSHELL: /usr/bin/bash\nVSCODE_CLI: 1\nVSCODE_CODE_CACHE_PATH: /home/kiwann/.config/Code/CachedData/04c0d99f4fb0d8afe6ce4f0c58e31e183ac3e4b1\nVSCODE_HANDLES_UNCAUGHT_ERRORS: true\nVSCODE_PID: 34608\nXDG_RUNTIME_DIR: /run/user/1000\nELECTRON_RUN_AS_NODE: 1\nDOTNET_CLI_UI_LANGUAGE: en-US\nDOTNET_NOLOGO: true\nDOTNET_MULTILEVEL_LOOKUP: 0\n","shell":true}
+undefined
+true
+
+9/27/2026, 6:40:10 PM 939 [b2846f1b-e244-40cd-8ff8-efc2c20c528b] CommandExecutionEvent
+Executing command "/usr/share/dotnet/dotnet" --list-runtimes --arch x64 with options {"env":"HOME: /home/kiwann\nLANG: en_US.UTF-8\nPATH: /usr/local/bin:/usr/bin:/bin:/usr/local/sbin:/opt/android-sdk/cmdline-tools/latest/bin:/var/lib/flatpak/exports/bin:/usr/lib/jvm/default/bin:/usr/bin/site_perl:/usr/bin/vendor_perl:/usr/bin/core_perl:/usr/lib/rustup/bin\nPWD: /home/kiwann\nSHELL: /usr/bin/bash\nVSCODE_CLI: 1\nVSCODE_CODE_CACHE_PATH: /home/kiwann/.config/Code/CachedData/04c0d99f4fb0d8afe6ce4f0c58e31e183ac3e4b1\nVSCODE_HANDLES_UNCAUGHT_ERRORS: true\nVSCODE_PID: 34608\nXDG_RUNTIME_DIR: /run/user/1000\nELECTRON_RUN_AS_NODE: 1\nDOTNET_CLI_UI_LANGUAGE: en-US\nDOTNET_NOLOGO: true\nDOTNET_MULTILEVEL_LOOKUP: 0\n","dotnetInstallToolCacheTtlMs":9000,"cwd":"/home/kiwann/.vscode/extensions/ms-dotnettools.vscode-dotnet-runtime-3.2.0/dist","shell":true,"encoding":"utf8"}.
+
+9/27/2026, 6:40:10 PM 964 [61a36330-4198-46b2-b1b3-653af9cf4451] CommandExecutionTimer
+The command "/usr/share/dotnet/dotnet" --list-runtimes --arch x64 took 38.39 ms to run.
+38.39
+ "/usr/share/dotnet/dotnet" --list-runtimes --arch x64
+447e175f64e7f6b5fa8ac62b1fb89862ed5bf9eeb7de7af36a92eda396bf3f95
+
+9/27/2026, 6:40:10 PM 965 [61a36330-4198-46b2-b1b3-653af9cf4451] CommandExecutionStatusEvent
+The command "/usr/share/dotnet/dotnet" --list-runtimes --arch x64 exited:
+0.
+
+9/27/2026, 6:40:10 PM 965 [61a36330-4198-46b2-b1b3-653af9cf4451] CommandExecutionStdOut
+The command "/usr/share/dotnet/dotnet" --list-runtimes --arch x64 encountered stdout:
+Microsoft.NETCore.App 10.0.12 [/usr/share/dotnet/shared/Microsoft.NETCore.App]
+
+
+9/27/2026, 6:40:10 PM 965 [61a36330-4198-46b2-b1b3-653af9cf4451] CommandExecutionStdError
+The command "/usr/share/dotnet/dotnet" --list-runtimes --arch x64 encountered stderr:
+
+
+9/27/2026, 6:40:10 PM 966 [61a36330-4198-46b2-b1b3-653af9cf4451] CachePutEvent
+Adding to the cache at 2026-09-27T11:40:10.966Z
+"/usr/share/dotnet/dotnet" --list-runtimes --arch x64{"cwd":"/home/kiwann/.vscode/extensions/ms-dotnettools.vscode-dotnet-runtime-3.2.0/dist","encoding":"utf8","env":"HOME: /home/kiwann\nLANG: en_US.UTF-8\nPATH: /usr/local/bin:/usr/bin:/bin:/usr/local/sbin:/opt/android-sdk/cmdline-tools/latest/bin:/var/lib/flatpak/exports/bin:/usr/lib/jvm/default/bin:/usr/bin/site_perl:/usr/bin/vendor_perl:/usr/bin/core_perl:/usr/lib/rustup/bin\nPWD: /home/kiwann\nSHELL: /usr/bin/bash\nVSCODE_CLI: 1\nVSCODE_CODE_CACHE_PATH: /home/kiwann/.config/Code/CachedData/04c0d99f4fb0d8afe6ce4f0c58e31e183ac3e4b1\nVSCODE_HANDLES_UNCAUGHT_ERRORS: true\nVSCODE_PID: 34608\nXDG_RUNTIME_DIR: /run/user/1000\nELECTRON_RUN_AS_NODE: 1\nDOTNET_CLI_UI_LANGUAGE: en-US\nDOTNET_NOLOGO: true\nDOTNET_MULTILEVEL_LOOKUP: 0\n","shell":true}
+{"stdout":"Microsoft.NETCore.App 10.0.12 [/usr/share/dotnet/shared/Microsoft.NETCore.App]\n","stderr":"","status":"0"}
+9000
+true
+
+9/27/2026, 6:40:10 PM 967 [61a36330-4198-46b2-b1b3-653af9cf4451] CacheGetEvent
+Checking the cache at 2026-09-27T11:40:10.967Z
+"/usr/share/dotnet/dotnet" --list-runtimes --arch x64{"cwd":"/home/kiwann/.vscode/extensions/ms-dotnettools.vscode-dotnet-runtime-3.2.0/dist","encoding":"utf8","env":"HOME: /home/kiwann\nLANG: en_US.UTF-8\nPATH: /usr/local/bin:/usr/bin:/bin:/usr/local/sbin:/opt/android-sdk/cmdline-tools/latest/bin:/var/lib/flatpak/exports/bin:/usr/lib/jvm/default/bin:/usr/bin/site_perl:/usr/bin/vendor_perl:/usr/bin/core_perl:/usr/lib/rustup/bin\nPWD: /home/kiwann\nSHELL: /usr/bin/bash\nVSCODE_CLI: 1\nVSCODE_CODE_CACHE_PATH: /home/kiwann/.config/Code/CachedData/04c0d99f4fb0d8afe6ce4f0c58e31e183ac3e4b1\nVSCODE_HANDLES_UNCAUGHT_ERRORS: true\nVSCODE_PID: 34608\nXDG_RUNTIME_DIR: /run/user/1000\nELECTRON_RUN_AS_NODE: 1\nDOTNET_CLI_UI_LANGUAGE: en-US\nDOTNET_NOLOGO: true\nDOTNET_MULTILEVEL_LOOKUP: 0\n","shell":true}
+{"stdout":"Microsoft.NETCore.App 10.0.12 [/usr/share/dotnet/shared/Microsoft.NETCore.App]\n","stderr":"","status":"0"}
+true
+
+9/27/2026, 6:40:10 PM 968 [61a36330-4198-46b2-b1b3-653af9cf4451] DotnetConditionsValidated
+true
+/usr/share/dotnet/dotnet satisfies the conditions.
+
+9/27/2026, 6:40:10 PM 968 DotnetFindPathMetCondition
+/usr/share/dotnet/dotnet met the conditions.
+
+9/27/2026, 6:40:10 PM 969 GenericDotnetLockEvent
+Action: session-f02033896d Lock acquired: /run/user/1000/vscd-session-f02033896d.sock
+2026-09-27T11:40:10.969Z
+session-f02033896d
+session-f02033896d
+true
+
+9/27/2026, 6:40:10 PM 970 GenericDotnetLockEvent
+Action: installedLk-611c1257-58cc-42a8-aaf7-48d810f2a803 Lock acquired: /run/user/1000/vscd-installedLk.sock
+2026-09-27T11:40:10.970Z
+installedLk
+installedLk
+true
+
+9/27/2026, 6:40:10 PM 970 MarkedInstallInUse
+Session session-f02033896d marked /usr/share/dotnet/dotnet as in use.
+Sessions: {"session-8fb01ad94f":["/home/kiwann/.config/Code/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/10.0.12~x64~aspnetcore/dotnet"],"session-45a331464e":["/home/kiwann/.config/Code/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/10.0.12~x64~aspnetcore/dotnet"],"session-62760c9f2f":["/home/kiwann/.config/Code/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/10.0.12~x64~aspnetcore/dotnet","/usr/share/dotnet/dotnet"],"session-1dc0332e20":["/home/kiwann/.config/Code/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/10.0.12~x64~aspnetcore/dotnet","/usr/share/dotnet/dotnet"],"session-d157b54e49":["/home/kiwann/.config/Code/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/10.0.12~x64~aspnetcore/dotnet"],"session-38f8e34825":["/home/kiwann/.config/Code/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/10.0.12~x64~aspnetcore/dotnet"],"session-a4fa2885f0":["/home/kiwann/.config/Code/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/10.0.12~x64~aspnetcore/dotnet"],"session-ebebfd7d2f":["/home/kiwann/.config/Code/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/10.0.12~x64~aspnetcore/dotnet"],"session-5aeb6e2d98":["/home/kiwann/.config/Code/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/10.0.12~x64~aspnetcore/dotnet"],"session-3b4dbfe263":["/home/kiwann/.config/Code/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/10.0.12~x64~aspnetcore/dotnet"],"session-1977088e04":["/home/kiwann/.config/Code/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/10.0.12~x64~aspnetcore/dotnet"],"session-4894f2db8c":["/home/kiwann/.config/Code/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/10.0.12~x64~aspnetcore/dotnet"],"session-2f37912c1c":["/home/kiwann/.config/Code/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/10.0.12~x64~aspnetcore/dotnet"],"session-0652cd8127":["/usr/share/dotnet/dotnet","/home/kiwann/.config/Code/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/10.0.12~x64~aspnetcore/dotnet"],"session-98dece620c":["/usr/share/dotnet/dotnet","/home/kiwann/.config/Code/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/10.0.12~x64~aspnetcore/dotnet"],"session-525fef1e73":["/usr/share/dotnet/dotnet","/home/kiwann/.config/Code/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/10.0.12~x64~aspnetcore/dotnet"],"session-5706f0f141":["/usr/share/dotnet/dotnet","/home/kiwann/.config/Code/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/10.0.12~x64~aspnetcore/dotnet"],"session-3456c1dba1":["/usr/share/dotnet/dotnet","/home/kiwann/.config/Code/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/10.0.12~x64~aspnetcore/dotnet"],"session-2908ed4210":["/usr/share/dotnet/dotnet","/home/kiwann/.config/Code/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/10.0.12~x64~aspnetcore/dotnet"],"session-5fc1a4e893":["/usr/share/dotnet/dotnet","/home/kiwann/.config/Code/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/10.0.12~x64~aspnetcore/dotnet"],"session-9d537e7331":["/usr/share/dotnet/dotnet","/home/kiwann/.config/Code/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/10.0.12~x64~aspnetcore/dotnet"],"session-f02033896d":["/usr/share/dotnet/dotnet"]}
+
+9/27/2026, 6:40:10 PM 973 [b2846f1b-e244-40cd-8ff8-efc2c20c528b] CommandExecutionTimer
+The command "/usr/share/dotnet/dotnet" --list-runtimes --arch x64 took 34.34 ms to run.
+34.34
+ "/usr/share/dotnet/dotnet" --list-runtimes --arch x64
+447e175f64e7f6b5fa8ac62b1fb89862ed5bf9eeb7de7af36a92eda396bf3f95
+
+9/27/2026, 6:40:10 PM 974 [b2846f1b-e244-40cd-8ff8-efc2c20c528b] CommandExecutionStatusEvent
+The command "/usr/share/dotnet/dotnet" --list-runtimes --arch x64 exited:
+0.
+
+9/27/2026, 6:40:10 PM 974 [b2846f1b-e244-40cd-8ff8-efc2c20c528b] CommandExecutionStdOut
+The command "/usr/share/dotnet/dotnet" --list-runtimes --arch x64 encountered stdout:
+Microsoft.NETCore.App 10.0.12 [/usr/share/dotnet/shared/Microsoft.NETCore.App]
+
+
+9/27/2026, 6:40:10 PM 974 [b2846f1b-e244-40cd-8ff8-efc2c20c528b] CommandExecutionStdError
+The command "/usr/share/dotnet/dotnet" --list-runtimes --arch x64 encountered stderr:
+
+
+9/27/2026, 6:40:10 PM 987 [b2846f1b-e244-40cd-8ff8-efc2c20c528b] CachePutEvent
+Adding to the cache at 2026-09-27T11:40:10.987Z
+"/usr/share/dotnet/dotnet" --list-runtimes --arch x64{"cwd":"/home/kiwann/.vscode/extensions/ms-dotnettools.vscode-dotnet-runtime-3.2.0/dist","encoding":"utf8","env":"HOME: /home/kiwann\nLANG: en_US.UTF-8\nPATH: /usr/local/bin:/usr/bin:/bin:/usr/local/sbin:/opt/android-sdk/cmdline-tools/latest/bin:/var/lib/flatpak/exports/bin:/usr/lib/jvm/default/bin:/usr/bin/site_perl:/usr/bin/vendor_perl:/usr/bin/core_perl:/usr/lib/rustup/bin\nPWD: /home/kiwann\nSHELL: /usr/bin/bash\nVSCODE_CLI: 1\nVSCODE_CODE_CACHE_PATH: /home/kiwann/.config/Code/CachedData/04c0d99f4fb0d8afe6ce4f0c58e31e183ac3e4b1\nVSCODE_HANDLES_UNCAUGHT_ERRORS: true\nVSCODE_PID: 34608\nXDG_RUNTIME_DIR: /run/user/1000\nELECTRON_RUN_AS_NODE: 1\nDOTNET_CLI_UI_LANGUAGE: en-US\nDOTNET_NOLOGO: true\nDOTNET_MULTILEVEL_LOOKUP: 0\n","shell":true}
+{"stdout":"Microsoft.NETCore.App 10.0.12 [/usr/share/dotnet/shared/Microsoft.NETCore.App]\n","stderr":"","status":"0"}
+9000
+true
+
+9/27/2026, 6:40:10 PM 991 [b2846f1b-e244-40cd-8ff8-efc2c20c528b] CacheGetEvent
+Checking the cache at 2026-09-27T11:40:10.991Z
+"/usr/share/dotnet/dotnet" --list-runtimes --arch x64{"cwd":"/home/kiwann/.vscode/extensions/ms-dotnettools.vscode-dotnet-runtime-3.2.0/dist","encoding":"utf8","env":"HOME: /home/kiwann\nLANG: en_US.UTF-8\nPATH: /usr/local/bin:/usr/bin:/bin:/usr/local/sbin:/opt/android-sdk/cmdline-tools/latest/bin:/var/lib/flatpak/exports/bin:/usr/lib/jvm/default/bin:/usr/bin/site_perl:/usr/bin/vendor_perl:/usr/bin/core_perl:/usr/lib/rustup/bin\nPWD: /home/kiwann\nSHELL: /usr/bin/bash\nVSCODE_CLI: 1\nVSCODE_CODE_CACHE_PATH: /home/kiwann/.config/Code/CachedData/04c0d99f4fb0d8afe6ce4f0c58e31e183ac3e4b1\nVSCODE_HANDLES_UNCAUGHT_ERRORS: true\nVSCODE_PID: 34608\nXDG_RUNTIME_DIR: /run/user/1000\nELECTRON_RUN_AS_NODE: 1\nDOTNET_CLI_UI_LANGUAGE: en-US\nDOTNET_NOLOGO: true\nDOTNET_MULTILEVEL_LOOKUP: 0\n","shell":true}
+{"stdout":"Microsoft.NETCore.App 10.0.12 [/usr/share/dotnet/shared/Microsoft.NETCore.App]\n","stderr":"","status":"0"}
+true
+
+9/27/2026, 6:40:11 PM 2 [b2846f1b-e244-40cd-8ff8-efc2c20c528b] DotnetFindPathDidNotMeetCondition
+/usr/share/dotnet/dotnet did NOT satisfy the conditions: hostArch: x64, requiredArch: x64,
+            required version: 10.0.5, required mode: aspnetcore
+
+9/27/2026, 6:40:11 PM 2 [b2846f1b-e244-40cd-8ff8-efc2c20c528b] DotnetFindPathLookupRealPATH
+Looking up.NET on the real path.
+
+9/27/2026, 6:40:11 PM 3 [b2846f1b-e244-40cd-8ff8-efc2c20c528b] DotnetFindPathLookupPATH
+Looking up .NET on the path. Process.env.path: /usr/local/bin:/usr/bin:/bin:/usr/local/sbin:/opt/android-sdk/cmdline-tools/latest/bin:/var/lib/flatpak/exports/bin:/usr/lib/jvm/default/bin:/usr/bin/site_perl:/usr/bin/vendor_perl:/usr/bin/core_perl:/usr/lib/rustup/bin
+
+9/27/2026, 6:40:11 PM 3 [b2846f1b-e244-40cd-8ff8-efc2c20c528b] CacheGetEvent
+Checking the cache at 2026-09-27T11:40:11.003Z
+echo $PATH{"cwd":"/home/kiwann/.vscode/extensions/ms-dotnettools.vscode-dotnet-runtime-3.2.0/dist","encoding":"utf8","env":"HOME: /home/kiwann\nLANG: en_US.UTF-8\nPATH: /usr/local/bin:/usr/bin:/bin:/usr/local/sbin:/opt/android-sdk/cmdline-tools/latest/bin:/var/lib/flatpak/exports/bin:/usr/lib/jvm/default/bin:/usr/bin/site_perl:/usr/bin/vendor_perl:/usr/bin/core_perl:/usr/lib/rustup/bin\nPWD: /home/kiwann\nSHELL: /usr/bin/bash\nVSCODE_CLI: 1\nVSCODE_CODE_CACHE_PATH: /home/kiwann/.config/Code/CachedData/04c0d99f4fb0d8afe6ce4f0c58e31e183ac3e4b1\nVSCODE_HANDLES_UNCAUGHT_ERRORS: true\nVSCODE_PID: 34608\nXDG_RUNTIME_DIR: /run/user/1000\nELECTRON_RUN_AS_NODE: 1\nDOTNET_CLI_UI_LANGUAGE: en-US\nDOTNET_NOLOGO: true\n","shell":true}
+{"stdout":"/usr/local/bin:/usr/bin:/bin:/usr/local/sbin:/opt/android-sdk/cmdline-tools/latest/bin:/var/lib/flatpak/exports/bin:/usr/lib/jvm/default/bin:/usr/bin/site_perl:/usr/bin/vendor_perl:/usr/bin/core_perl:/usr/lib/rustup/bin\n","stderr":"","status":"0"}
+true
+
+9/27/2026, 6:40:11 PM 4 [b2846f1b-e244-40cd-8ff8-efc2c20c528b] CacheGetEvent
+Checking the cache at 2026-09-27T11:40:11.003Z
+echo $PATH{"cwd":"/home/kiwann/.vscode/extensions/ms-dotnettools.vscode-dotnet-runtime-3.2.0/dist","encoding":"utf8","env":"HOME: /home/kiwann\nLANG: en_US.UTF-8\nPATH: /usr/local/bin:/usr/bin:/bin:/usr/local/sbin:/opt/android-sdk/cmdline-tools/latest/bin:/var/lib/flatpak/exports/bin:/usr/lib/jvm/default/bin:/usr/bin/site_perl:/usr/bin/vendor_perl:/usr/bin/core_perl:/usr/lib/rustup/bin\nPWD: /home/kiwann\nSHELL: /usr/bin/bash\nVSCODE_CLI: 1\nVSCODE_CODE_CACHE_PATH: /home/kiwann/.config/Code/CachedData/04c0d99f4fb0d8afe6ce4f0c58e31e183ac3e4b1\nVSCODE_HANDLES_UNCAUGHT_ERRORS: true\nVSCODE_PID: 34608\nXDG_RUNTIME_DIR: /run/user/1000\nELECTRON_RUN_AS_NODE: 1\nDOTNET_CLI_UI_LANGUAGE: en-US\nDOTNET_NOLOGO: true\n","shell":"bin/bash"}
+{"stdout":"","stderr":"","status":"ENOENT"}
+true
+
+9/27/2026, 6:40:11 PM 4 [b2846f1b-e244-40cd-8ff8-efc2c20c528b] CacheGetEvent
+Checking the cache at 2026-09-27T11:40:11.004Z
+which which{"cwd":"/home/kiwann/.vscode/extensions/ms-dotnettools.vscode-dotnet-runtime-3.2.0/dist","encoding":"utf8","env":"HOME: /home/kiwann\nLANG: en_US.UTF-8\nPATH: /usr/local/bin:/usr/bin:/bin:/usr/local/sbin:/opt/android-sdk/cmdline-tools/latest/bin:/var/lib/flatpak/exports/bin:/usr/lib/jvm/default/bin:/usr/bin/site_perl:/usr/bin/vendor_perl:/usr/bin/core_perl:/usr/lib/rustup/bin\nPWD: /home/kiwann\nSHELL: /usr/bin/bash\nVSCODE_CLI: 1\nVSCODE_CODE_CACHE_PATH: /home/kiwann/.config/Code/CachedData/04c0d99f4fb0d8afe6ce4f0c58e31e183ac3e4b1\nVSCODE_HANDLES_UNCAUGHT_ERRORS: true\nVSCODE_PID: 34608\nXDG_RUNTIME_DIR: /run/user/1000\nELECTRON_RUN_AS_NODE: 1\nDOTNET_CLI_UI_LANGUAGE: en-US\nDOTNET_NOLOGO: true\n","shell":"/bin/sh"}
+{"stdout":"/usr/bin/which\n","stderr":"","status":"0"}
+true
+
+9/27/2026, 6:40:11 PM 4 [b2846f1b-e244-40cd-8ff8-efc2c20c528b] DotnetFindPathLookupPATH
+Execution Path (Unix-Default-Shell): /usr/local/bin:/usr/bin:/bin:/usr/local/sbin:/opt/android-sdk/cmdline-tools/latest/bin:/var/lib/flatpak/exports/bin:/usr/lib/jvm/default/bin:/usr/bin/site_perl:/usr/bin/vendor_perl:/usr/bin/core_perl:/usr/lib/rustup/bin
+
+
+9/27/2026, 6:40:11 PM 4 [b2846f1b-e244-40cd-8ff8-efc2c20c528b] DotnetFindPathLookupPATH
+Execution Path (Unix Bash): 
+
+9/27/2026, 6:40:11 PM 4 [b2846f1b-e244-40cd-8ff8-efc2c20c528b] DotnetAlternativeCommandFoundEvent
+The command which was found.
+
+9/27/2026, 6:40:11 PM 4 [b2846f1b-e244-40cd-8ff8-efc2c20c528b] CacheGetEvent
+Checking the cache at 2026-09-27T11:40:11.004Z
+which dotnet{"cwd":"/home/kiwann/.vscode/extensions/ms-dotnettools.vscode-dotnet-runtime-3.2.0/dist","encoding":"utf8","env":"HOME: /home/kiwann\nLANG: en_US.UTF-8\nPATH: /usr/local/bin:/usr/bin:/bin:/usr/local/sbin:/opt/android-sdk/cmdline-tools/latest/bin:/var/lib/flatpak/exports/bin:/usr/lib/jvm/default/bin:/usr/bin/site_perl:/usr/bin/vendor_perl:/usr/bin/core_perl:/usr/lib/rustup/bin\nPWD: /home/kiwann\nSHELL: /usr/bin/bash\nVSCODE_CLI: 1\nVSCODE_CODE_CACHE_PATH: /home/kiwann/.config/Code/CachedData/04c0d99f4fb0d8afe6ce4f0c58e31e183ac3e4b1\nVSCODE_HANDLES_UNCAUGHT_ERRORS: true\nVSCODE_PID: 34608\nXDG_RUNTIME_DIR: /run/user/1000\nELECTRON_RUN_AS_NODE: 1\nDOTNET_CLI_UI_LANGUAGE: en-US\nDOTNET_NOLOGO: true\n","shell":"/bin/sh"}
+{"stdout":"/usr/bin/dotnet\n","stderr":"","status":"0"}
+true
+
+9/27/2026, 6:40:11 PM 4 [b2846f1b-e244-40cd-8ff8-efc2c20c528b] DotnetFindPathPATHFound
+Found.NET on the path: ["/usr/bin/dotnet"]
+
+9/27/2026, 6:40:11 PM 5 [b2846f1b-e244-40cd-8ff8-efc2c20c528b] CacheGetEvent
+Checking the cache at 2026-09-27T11:40:11.005Z
+"/usr/bin/dotnet" --list-runtimes --arch x64{"cwd":"/home/kiwann/.vscode/extensions/ms-dotnettools.vscode-dotnet-runtime-3.2.0/dist","encoding":"utf8","env":"HOME: /home/kiwann\nLANG: en_US.UTF-8\nPATH: /usr/local/bin:/usr/bin:/bin:/usr/local/sbin:/opt/android-sdk/cmdline-tools/latest/bin:/var/lib/flatpak/exports/bin:/usr/lib/jvm/default/bin:/usr/bin/site_perl:/usr/bin/vendor_perl:/usr/bin/core_perl:/usr/lib/rustup/bin\nPWD: /home/kiwann\nSHELL: /usr/bin/bash\nVSCODE_CLI: 1\nVSCODE_CODE_CACHE_PATH: /home/kiwann/.config/Code/CachedData/04c0d99f4fb0d8afe6ce4f0c58e31e183ac3e4b1\nVSCODE_HANDLES_UNCAUGHT_ERRORS: true\nVSCODE_PID: 34608\nXDG_RUNTIME_DIR: /run/user/1000\nELECTRON_RUN_AS_NODE: 1\nDOTNET_CLI_UI_LANGUAGE: en-US\nDOTNET_NOLOGO: true\nDOTNET_MULTILEVEL_LOOKUP: 0\n","shell":true}
+{"stdout":"Microsoft.NETCore.App 10.0.12 [/usr/share/dotnet/shared/Microsoft.NETCore.App]\n","stderr":"","status":"0"}
+true
+
+9/27/2026, 6:40:11 PM 96 GenericDotnetLockEvent
+Action: installedLk-611c1257-58cc-42a8-aaf7-48d810f2a803 Lock freed: /run/user/1000/vscd-installedLk.sock
+2026-09-27T11:40:11.096Z
+installedLk
+installedLk
+true
+
+9/27/2026, 6:40:11 PM 96 DotnetCommandSucceeded
+findPath
+
+9/27/2026, 6:40:11 PM 97 DotnetFindPathCommandInvoked
+The find path command was invoked.
+{"acquireContext":{"version":"10.0.9","requestingExtensionId":"ms-dotnettools.csdevkit","architecture":"x64","mode":"aspnetcore"},"versionSpecRequirement":"latestFeature","rejectPreviews":true}
+
+9/27/2026, 6:40:11 PM 98 DotnetFindPathLookupSetting
+Looking up vscode setting.
+
+9/27/2026, 6:40:11 PM 98 [61e3c1b9-a81c-4988-bdf7-5b1fd3d10876] CacheGetEvent
+Checking the cache at 2026-09-27T11:40:11.098Z
+"dotnet" --list-runtimes --arch x64{"cwd":"/home/kiwann/.vscode/extensions/ms-dotnettools.vscode-dotnet-runtime-3.2.0/dist","encoding":"utf8","env":"HOME: /home/kiwann\nLANG: en_US.UTF-8\nPATH: /usr/local/bin:/usr/bin:/bin:/usr/local/sbin:/opt/android-sdk/cmdline-tools/latest/bin:/var/lib/flatpak/exports/bin:/usr/lib/jvm/default/bin:/usr/bin/site_perl:/usr/bin/vendor_perl:/usr/bin/core_perl:/usr/lib/rustup/bin\nPWD: /home/kiwann\nSHELL: /usr/bin/bash\nVSCODE_CLI: 1\nVSCODE_CODE_CACHE_PATH: /home/kiwann/.config/Code/CachedData/04c0d99f4fb0d8afe6ce4f0c58e31e183ac3e4b1\nVSCODE_HANDLES_UNCAUGHT_ERRORS: true\nVSCODE_PID: 34608\nXDG_RUNTIME_DIR: /run/user/1000\nELECTRON_RUN_AS_NODE: 1\nDOTNET_CLI_UI_LANGUAGE: en-US\nDOTNET_NOLOGO: true\nDOTNET_MULTILEVEL_LOOKUP: 0\n","shell":true}
+{"stdout":"Microsoft.NETCore.App 10.0.12 [/usr/share/dotnet/shared/Microsoft.NETCore.App]\n","stderr":"","status":"0"}
+true
+
+9/27/2026, 6:40:11 PM 98 [61e3c1b9-a81c-4988-bdf7-5b1fd3d10876] CacheGetEvent
+Checking the cache at 2026-09-27T11:40:11.098Z
+"/usr/share/dotnet/dotnet" --list-runtimes --arch x64{"cwd":"/home/kiwann/.vscode/extensions/ms-dotnettools.vscode-dotnet-runtime-3.2.0/dist","encoding":"utf8","env":"HOME: /home/kiwann\nLANG: en_US.UTF-8\nPATH: /usr/local/bin:/usr/bin:/bin:/usr/local/sbin:/opt/android-sdk/cmdline-tools/latest/bin:/var/lib/flatpak/exports/bin:/usr/lib/jvm/default/bin:/usr/bin/site_perl:/usr/bin/vendor_perl:/usr/bin/core_perl:/usr/lib/rustup/bin\nPWD: /home/kiwann\nSHELL: /usr/bin/bash\nVSCODE_CLI: 1\nVSCODE_CODE_CACHE_PATH: /home/kiwann/.config/Code/CachedData/04c0d99f4fb0d8afe6ce4f0c58e31e183ac3e4b1\nVSCODE_HANDLES_UNCAUGHT_ERRORS: true\nVSCODE_PID: 34608\nXDG_RUNTIME_DIR: /run/user/1000\nELECTRON_RUN_AS_NODE: 1\nDOTNET_CLI_UI_LANGUAGE: en-US\nDOTNET_NOLOGO: true\nDOTNET_MULTILEVEL_LOOKUP: 0\n","shell":true}
+{"stdout":"Microsoft.NETCore.App 10.0.12 [/usr/share/dotnet/shared/Microsoft.NETCore.App]\n","stderr":"","status":"0"}
+true
+
+9/27/2026, 6:40:11 PM 99 [61e3c1b9-a81c-4988-bdf7-5b1fd3d10876] CacheGetEvent
+Checking the cache at 2026-09-27T11:40:11.099Z
+"/usr/share/dotnet/dotnet" --list-runtimes --arch x64{"cwd":"/home/kiwann/.vscode/extensions/ms-dotnettools.vscode-dotnet-runtime-3.2.0/dist","encoding":"utf8","env":"HOME: /home/kiwann\nLANG: en_US.UTF-8\nPATH: /usr/local/bin:/usr/bin:/bin:/usr/local/sbin:/opt/android-sdk/cmdline-tools/latest/bin:/var/lib/flatpak/exports/bin:/usr/lib/jvm/default/bin:/usr/bin/site_perl:/usr/bin/vendor_perl:/usr/bin/core_perl:/usr/lib/rustup/bin\nPWD: /home/kiwann\nSHELL: /usr/bin/bash\nVSCODE_CLI: 1\nVSCODE_CODE_CACHE_PATH: /home/kiwann/.config/Code/CachedData/04c0d99f4fb0d8afe6ce4f0c58e31e183ac3e4b1\nVSCODE_HANDLES_UNCAUGHT_ERRORS: true\nVSCODE_PID: 34608\nXDG_RUNTIME_DIR: /run/user/1000\nELECTRON_RUN_AS_NODE: 1\nDOTNET_CLI_UI_LANGUAGE: en-US\nDOTNET_NOLOGO: true\nDOTNET_MULTILEVEL_LOOKUP: 0\n","shell":true}
+{"stdout":"Microsoft.NETCore.App 10.0.12 [/usr/share/dotnet/shared/Microsoft.NETCore.App]\n","stderr":"","status":"0"}
+true
+
+9/27/2026, 6:40:11 PM 99 [61e3c1b9-a81c-4988-bdf7-5b1fd3d10876] DotnetFindPathDidNotMeetCondition
+/usr/share/dotnet/dotnet did NOT satisfy the conditions: hostArch: x64, requiredArch: x64,
+            required version: 10.0.9, required mode: aspnetcore
+
+9/27/2026, 6:40:11 PM 99 [61e3c1b9-a81c-4988-bdf7-5b1fd3d10876] DotnetFindPathLookupPATH
+Looking up .NET on the path. Process.env.path: /usr/local/bin:/usr/bin:/bin:/usr/local/sbin:/opt/android-sdk/cmdline-tools/latest/bin:/var/lib/flatpak/exports/bin:/usr/lib/jvm/default/bin:/usr/bin/site_perl:/usr/bin/vendor_perl:/usr/bin/core_perl:/usr/lib/rustup/bin
+
+9/27/2026, 6:40:11 PM 99 [61e3c1b9-a81c-4988-bdf7-5b1fd3d10876] CacheGetEvent
+Checking the cache at 2026-09-27T11:40:11.099Z
+echo $PATH{"cwd":"/home/kiwann/.vscode/extensions/ms-dotnettools.vscode-dotnet-runtime-3.2.0/dist","encoding":"utf8","env":"HOME: /home/kiwann\nLANG: en_US.UTF-8\nPATH: /usr/local/bin:/usr/bin:/bin:/usr/local/sbin:/opt/android-sdk/cmdline-tools/latest/bin:/var/lib/flatpak/exports/bin:/usr/lib/jvm/default/bin:/usr/bin/site_perl:/usr/bin/vendor_perl:/usr/bin/core_perl:/usr/lib/rustup/bin\nPWD: /home/kiwann\nSHELL: /usr/bin/bash\nVSCODE_CLI: 1\nVSCODE_CODE_CACHE_PATH: /home/kiwann/.config/Code/CachedData/04c0d99f4fb0d8afe6ce4f0c58e31e183ac3e4b1\nVSCODE_HANDLES_UNCAUGHT_ERRORS: true\nVSCODE_PID: 34608\nXDG_RUNTIME_DIR: /run/user/1000\nELECTRON_RUN_AS_NODE: 1\nDOTNET_CLI_UI_LANGUAGE: en-US\nDOTNET_NOLOGO: true\n","shell":true}
+{"stdout":"/usr/local/bin:/usr/bin:/bin:/usr/local/sbin:/opt/android-sdk/cmdline-tools/latest/bin:/var/lib/flatpak/exports/bin:/usr/lib/jvm/default/bin:/usr/bin/site_perl:/usr/bin/vendor_perl:/usr/bin/core_perl:/usr/lib/rustup/bin\n","stderr":"","status":"0"}
+true
+
+9/27/2026, 6:40:11 PM 100 [61e3c1b9-a81c-4988-bdf7-5b1fd3d10876] CacheGetEvent
+Checking the cache at 2026-09-27T11:40:11.100Z
+echo $PATH{"cwd":"/home/kiwann/.vscode/extensions/ms-dotnettools.vscode-dotnet-runtime-3.2.0/dist","encoding":"utf8","env":"HOME: /home/kiwann\nLANG: en_US.UTF-8\nPATH: /usr/local/bin:/usr/bin:/bin:/usr/local/sbin:/opt/android-sdk/cmdline-tools/latest/bin:/var/lib/flatpak/exports/bin:/usr/lib/jvm/default/bin:/usr/bin/site_perl:/usr/bin/vendor_perl:/usr/bin/core_perl:/usr/lib/rustup/bin\nPWD: /home/kiwann\nSHELL: /usr/bin/bash\nVSCODE_CLI: 1\nVSCODE_CODE_CACHE_PATH: /home/kiwann/.config/Code/CachedData/04c0d99f4fb0d8afe6ce4f0c58e31e183ac3e4b1\nVSCODE_HANDLES_UNCAUGHT_ERRORS: true\nVSCODE_PID: 34608\nXDG_RUNTIME_DIR: /run/user/1000\nELECTRON_RUN_AS_NODE: 1\nDOTNET_CLI_UI_LANGUAGE: en-US\nDOTNET_NOLOGO: true\n","shell":"bin/bash"}
+{"stdout":"","stderr":"","status":"ENOENT"}
+true
+
+9/27/2026, 6:40:11 PM 100 [61e3c1b9-a81c-4988-bdf7-5b1fd3d10876] CacheGetEvent
+Checking the cache at 2026-09-27T11:40:11.100Z
+which which{"cwd":"/home/kiwann/.vscode/extensions/ms-dotnettools.vscode-dotnet-runtime-3.2.0/dist","encoding":"utf8","env":"HOME: /home/kiwann\nLANG: en_US.UTF-8\nPATH: /usr/local/bin:/usr/bin:/bin:/usr/local/sbin:/opt/android-sdk/cmdline-tools/latest/bin:/var/lib/flatpak/exports/bin:/usr/lib/jvm/default/bin:/usr/bin/site_perl:/usr/bin/vendor_perl:/usr/bin/core_perl:/usr/lib/rustup/bin\nPWD: /home/kiwann\nSHELL: /usr/bin/bash\nVSCODE_CLI: 1\nVSCODE_CODE_CACHE_PATH: /home/kiwann/.config/Code/CachedData/04c0d99f4fb0d8afe6ce4f0c58e31e183ac3e4b1\nVSCODE_HANDLES_UNCAUGHT_ERRORS: true\nVSCODE_PID: 34608\nXDG_RUNTIME_DIR: /run/user/1000\nELECTRON_RUN_AS_NODE: 1\nDOTNET_CLI_UI_LANGUAGE: en-US\nDOTNET_NOLOGO: true\n","shell":"/bin/sh"}
+{"stdout":"/usr/bin/which\n","stderr":"","status":"0"}
+true
+
+9/27/2026, 6:40:11 PM 100 [61e3c1b9-a81c-4988-bdf7-5b1fd3d10876] DotnetFindPathLookupPATH
+Execution Path (Unix-Default-Shell): /usr/local/bin:/usr/bin:/bin:/usr/local/sbin:/opt/android-sdk/cmdline-tools/latest/bin:/var/lib/flatpak/exports/bin:/usr/lib/jvm/default/bin:/usr/bin/site_perl:/usr/bin/vendor_perl:/usr/bin/core_perl:/usr/lib/rustup/bin
+
+
+9/27/2026, 6:40:11 PM 100 [61e3c1b9-a81c-4988-bdf7-5b1fd3d10876] DotnetFindPathLookupPATH
+Execution Path (Unix Bash): 
+
+9/27/2026, 6:40:11 PM 100 [61e3c1b9-a81c-4988-bdf7-5b1fd3d10876] DotnetAlternativeCommandFoundEvent
+The command which was found.
+
+9/27/2026, 6:40:11 PM 100 [61e3c1b9-a81c-4988-bdf7-5b1fd3d10876] CacheGetEvent
+Checking the cache at 2026-09-27T11:40:11.100Z
+which dotnet{"cwd":"/home/kiwann/.vscode/extensions/ms-dotnettools.vscode-dotnet-runtime-3.2.0/dist","encoding":"utf8","env":"HOME: /home/kiwann\nLANG: en_US.UTF-8\nPATH: /usr/local/bin:/usr/bin:/bin:/usr/local/sbin:/opt/android-sdk/cmdline-tools/latest/bin:/var/lib/flatpak/exports/bin:/usr/lib/jvm/default/bin:/usr/bin/site_perl:/usr/bin/vendor_perl:/usr/bin/core_perl:/usr/lib/rustup/bin\nPWD: /home/kiwann\nSHELL: /usr/bin/bash\nVSCODE_CLI: 1\nVSCODE_CODE_CACHE_PATH: /home/kiwann/.config/Code/CachedData/04c0d99f4fb0d8afe6ce4f0c58e31e183ac3e4b1\nVSCODE_HANDLES_UNCAUGHT_ERRORS: true\nVSCODE_PID: 34608\nXDG_RUNTIME_DIR: /run/user/1000\nELECTRON_RUN_AS_NODE: 1\nDOTNET_CLI_UI_LANGUAGE: en-US\nDOTNET_NOLOGO: true\n","shell":"/bin/sh"}
+{"stdout":"/usr/bin/dotnet\n","stderr":"","status":"0"}
+true
+
+9/27/2026, 6:40:11 PM 100 [61e3c1b9-a81c-4988-bdf7-5b1fd3d10876] DotnetFindPathPATHFound
+Found.NET on the path: ["/usr/bin/dotnet"]
+
+9/27/2026, 6:40:11 PM 101 [61e3c1b9-a81c-4988-bdf7-5b1fd3d10876] CacheGetEvent
+Checking the cache at 2026-09-27T11:40:11.101Z
+"/usr/bin/dotnet" --list-runtimes --arch x64{"cwd":"/home/kiwann/.vscode/extensions/ms-dotnettools.vscode-dotnet-runtime-3.2.0/dist","encoding":"utf8","env":"HOME: /home/kiwann\nLANG: en_US.UTF-8\nPATH: /usr/local/bin:/usr/bin:/bin:/usr/local/sbin:/opt/android-sdk/cmdline-tools/latest/bin:/var/lib/flatpak/exports/bin:/usr/lib/jvm/default/bin:/usr/bin/site_perl:/usr/bin/vendor_perl:/usr/bin/core_perl:/usr/lib/rustup/bin\nPWD: /home/kiwann\nSHELL: /usr/bin/bash\nVSCODE_CLI: 1\nVSCODE_CODE_CACHE_PATH: /home/kiwann/.config/Code/CachedData/04c0d99f4fb0d8afe6ce4f0c58e31e183ac3e4b1\nVSCODE_HANDLES_UNCAUGHT_ERRORS: true\nVSCODE_PID: 34608\nXDG_RUNTIME_DIR: /run/user/1000\nELECTRON_RUN_AS_NODE: 1\nDOTNET_CLI_UI_LANGUAGE: en-US\nDOTNET_NOLOGO: true\nDOTNET_MULTILEVEL_LOOKUP: 0\n","shell":true}
+{"stdout":"Microsoft.NETCore.App 10.0.12 [/usr/share/dotnet/shared/Microsoft.NETCore.App]\n","stderr":"","status":"0"}
+true
+
+9/27/2026, 6:40:11 PM 101 [61e3c1b9-a81c-4988-bdf7-5b1fd3d10876] CacheGetEvent
+Checking the cache at 2026-09-27T11:40:11.101Z
+"/usr/share/dotnet/dotnet" --list-runtimes --arch x64{"cwd":"/home/kiwann/.vscode/extensions/ms-dotnettools.vscode-dotnet-runtime-3.2.0/dist","encoding":"utf8","env":"HOME: /home/kiwann\nLANG: en_US.UTF-8\nPATH: /usr/local/bin:/usr/bin:/bin:/usr/local/sbin:/opt/android-sdk/cmdline-tools/latest/bin:/var/lib/flatpak/exports/bin:/usr/lib/jvm/default/bin:/usr/bin/site_perl:/usr/bin/vendor_perl:/usr/bin/core_perl:/usr/lib/rustup/bin\nPWD: /home/kiwann\nSHELL: /usr/bin/bash\nVSCODE_CLI: 1\nVSCODE_CODE_CACHE_PATH: /home/kiwann/.config/Code/CachedData/04c0d99f4fb0d8afe6ce4f0c58e31e183ac3e4b1\nVSCODE_HANDLES_UNCAUGHT_ERRORS: true\nVSCODE_PID: 34608\nXDG_RUNTIME_DIR: /run/user/1000\nELECTRON_RUN_AS_NODE: 1\nDOTNET_CLI_UI_LANGUAGE: en-US\nDOTNET_NOLOGO: true\nDOTNET_MULTILEVEL_LOOKUP: 0\n","shell":true}
+{"stdout":"Microsoft.NETCore.App 10.0.12 [/usr/share/dotnet/shared/Microsoft.NETCore.App]\n","stderr":"","status":"0"}
+true
+
+9/27/2026, 6:40:11 PM 101 [61e3c1b9-a81c-4988-bdf7-5b1fd3d10876] CacheGetEvent
+Checking the cache at 2026-09-27T11:40:11.101Z
+"/usr/share/dotnet/dotnet" --list-runtimes --arch x64{"cwd":"/home/kiwann/.vscode/extensions/ms-dotnettools.vscode-dotnet-runtime-3.2.0/dist","encoding":"utf8","env":"HOME: /home/kiwann\nLANG: en_US.UTF-8\nPATH: /usr/local/bin:/usr/bin:/bin:/usr/local/sbin:/opt/android-sdk/cmdline-tools/latest/bin:/var/lib/flatpak/exports/bin:/usr/lib/jvm/default/bin:/usr/bin/site_perl:/usr/bin/vendor_perl:/usr/bin/core_perl:/usr/lib/rustup/bin\nPWD: /home/kiwann\nSHELL: /usr/bin/bash\nVSCODE_CLI: 1\nVSCODE_CODE_CACHE_PATH: /home/kiwann/.config/Code/CachedData/04c0d99f4fb0d8afe6ce4f0c58e31e183ac3e4b1\nVSCODE_HANDLES_UNCAUGHT_ERRORS: true\nVSCODE_PID: 34608\nXDG_RUNTIME_DIR: /run/user/1000\nELECTRON_RUN_AS_NODE: 1\nDOTNET_CLI_UI_LANGUAGE: en-US\nDOTNET_NOLOGO: true\nDOTNET_MULTILEVEL_LOOKUP: 0\n","shell":true}
+{"stdout":"Microsoft.NETCore.App 10.0.12 [/usr/share/dotnet/shared/Microsoft.NETCore.App]\n","stderr":"","status":"0"}
+true
+
+9/27/2026, 6:40:11 PM 102 [61e3c1b9-a81c-4988-bdf7-5b1fd3d10876] DotnetFindPathDidNotMeetCondition
+/usr/share/dotnet/dotnet did NOT satisfy the conditions: hostArch: x64, requiredArch: x64,
+            required version: 10.0.9, required mode: aspnetcore
+
+9/27/2026, 6:40:11 PM 102 [61e3c1b9-a81c-4988-bdf7-5b1fd3d10876] DotnetFindPathLookupRealPATH
+Looking up.NET on the real path.
+
+9/27/2026, 6:40:11 PM 102 [61e3c1b9-a81c-4988-bdf7-5b1fd3d10876] DotnetFindPathLookupPATH
+Looking up .NET on the path. Process.env.path: /usr/local/bin:/usr/bin:/bin:/usr/local/sbin:/opt/android-sdk/cmdline-tools/latest/bin:/var/lib/flatpak/exports/bin:/usr/lib/jvm/default/bin:/usr/bin/site_perl:/usr/bin/vendor_perl:/usr/bin/core_perl:/usr/lib/rustup/bin
+
+9/27/2026, 6:40:11 PM 103 [61e3c1b9-a81c-4988-bdf7-5b1fd3d10876] CacheGetEvent
+Checking the cache at 2026-09-27T11:40:11.103Z
+echo $PATH{"cwd":"/home/kiwann/.vscode/extensions/ms-dotnettools.vscode-dotnet-runtime-3.2.0/dist","encoding":"utf8","env":"HOME: /home/kiwann\nLANG: en_US.UTF-8\nPATH: /usr/local/bin:/usr/bin:/bin:/usr/local/sbin:/opt/android-sdk/cmdline-tools/latest/bin:/var/lib/flatpak/exports/bin:/usr/lib/jvm/default/bin:/usr/bin/site_perl:/usr/bin/vendor_perl:/usr/bin/core_perl:/usr/lib/rustup/bin\nPWD: /home/kiwann\nSHELL: /usr/bin/bash\nVSCODE_CLI: 1\nVSCODE_CODE_CACHE_PATH: /home/kiwann/.config/Code/CachedData/04c0d99f4fb0d8afe6ce4f0c58e31e183ac3e4b1\nVSCODE_HANDLES_UNCAUGHT_ERRORS: true\nVSCODE_PID: 34608\nXDG_RUNTIME_DIR: /run/user/1000\nELECTRON_RUN_AS_NODE: 1\nDOTNET_CLI_UI_LANGUAGE: en-US\nDOTNET_NOLOGO: true\n","shell":true}
+{"stdout":"/usr/local/bin:/usr/bin:/bin:/usr/local/sbin:/opt/android-sdk/cmdline-tools/latest/bin:/var/lib/flatpak/exports/bin:/usr/lib/jvm/default/bin:/usr/bin/site_perl:/usr/bin/vendor_perl:/usr/bin/core_perl:/usr/lib/rustup/bin\n","stderr":"","status":"0"}
+true
+
+9/27/2026, 6:40:11 PM 103 [61e3c1b9-a81c-4988-bdf7-5b1fd3d10876] CacheGetEvent
+Checking the cache at 2026-09-27T11:40:11.103Z
+echo $PATH{"cwd":"/home/kiwann/.vscode/extensions/ms-dotnettools.vscode-dotnet-runtime-3.2.0/dist","encoding":"utf8","env":"HOME: /home/kiwann\nLANG: en_US.UTF-8\nPATH: /usr/local/bin:/usr/bin:/bin:/usr/local/sbin:/opt/android-sdk/cmdline-tools/latest/bin:/var/lib/flatpak/exports/bin:/usr/lib/jvm/default/bin:/usr/bin/site_perl:/usr/bin/vendor_perl:/usr/bin/core_perl:/usr/lib/rustup/bin\nPWD: /home/kiwann\nSHELL: /usr/bin/bash\nVSCODE_CLI: 1\nVSCODE_CODE_CACHE_PATH: /home/kiwann/.config/Code/CachedData/04c0d99f4fb0d8afe6ce4f0c58e31e183ac3e4b1\nVSCODE_HANDLES_UNCAUGHT_ERRORS: true\nVSCODE_PID: 34608\nXDG_RUNTIME_DIR: /run/user/1000\nELECTRON_RUN_AS_NODE: 1\nDOTNET_CLI_UI_LANGUAGE: en-US\nDOTNET_NOLOGO: true\n","shell":"bin/bash"}
+{"stdout":"","stderr":"","status":"ENOENT"}
+true
+
+9/27/2026, 6:40:11 PM 103 [61e3c1b9-a81c-4988-bdf7-5b1fd3d10876] CacheGetEvent
+Checking the cache at 2026-09-27T11:40:11.103Z
+which which{"cwd":"/home/kiwann/.vscode/extensions/ms-dotnettools.vscode-dotnet-runtime-3.2.0/dist","encoding":"utf8","env":"HOME: /home/kiwann\nLANG: en_US.UTF-8\nPATH: /usr/local/bin:/usr/bin:/bin:/usr/local/sbin:/opt/android-sdk/cmdline-tools/latest/bin:/var/lib/flatpak/exports/bin:/usr/lib/jvm/default/bin:/usr/bin/site_perl:/usr/bin/vendor_perl:/usr/bin/core_perl:/usr/lib/rustup/bin\nPWD: /home/kiwann\nSHELL: /usr/bin/bash\nVSCODE_CLI: 1\nVSCODE_CODE_CACHE_PATH: /home/kiwann/.config/Code/CachedData/04c0d99f4fb0d8afe6ce4f0c58e31e183ac3e4b1\nVSCODE_HANDLES_UNCAUGHT_ERRORS: true\nVSCODE_PID: 34608\nXDG_RUNTIME_DIR: /run/user/1000\nELECTRON_RUN_AS_NODE: 1\nDOTNET_CLI_UI_LANGUAGE: en-US\nDOTNET_NOLOGO: true\n","shell":"/bin/sh"}
+{"stdout":"/usr/bin/which\n","stderr":"","status":"0"}
+true
+
+9/27/2026, 6:40:11 PM 103 [61e3c1b9-a81c-4988-bdf7-5b1fd3d10876] DotnetFindPathLookupPATH
+Execution Path (Unix-Default-Shell): /usr/local/bin:/usr/bin:/bin:/usr/local/sbin:/opt/android-sdk/cmdline-tools/latest/bin:/var/lib/flatpak/exports/bin:/usr/lib/jvm/default/bin:/usr/bin/site_perl:/usr/bin/vendor_perl:/usr/bin/core_perl:/usr/lib/rustup/bin
+
+
+9/27/2026, 6:40:11 PM 104 [61e3c1b9-a81c-4988-bdf7-5b1fd3d10876] DotnetFindPathLookupPATH
+Execution Path (Unix Bash): 
+
+9/27/2026, 6:40:11 PM 104 [61e3c1b9-a81c-4988-bdf7-5b1fd3d10876] DotnetAlternativeCommandFoundEvent
+The command which was found.
+
+9/27/2026, 6:40:11 PM 104 [61e3c1b9-a81c-4988-bdf7-5b1fd3d10876] CacheGetEvent
+Checking the cache at 2026-09-27T11:40:11.104Z
+which dotnet{"cwd":"/home/kiwann/.vscode/extensions/ms-dotnettools.vscode-dotnet-runtime-3.2.0/dist","encoding":"utf8","env":"HOME: /home/kiwann\nLANG: en_US.UTF-8\nPATH: /usr/local/bin:/usr/bin:/bin:/usr/local/sbin:/opt/android-sdk/cmdline-tools/latest/bin:/var/lib/flatpak/exports/bin:/usr/lib/jvm/default/bin:/usr/bin/site_perl:/usr/bin/vendor_perl:/usr/bin/core_perl:/usr/lib/rustup/bin\nPWD: /home/kiwann\nSHELL: /usr/bin/bash\nVSCODE_CLI: 1\nVSCODE_CODE_CACHE_PATH: /home/kiwann/.config/Code/CachedData/04c0d99f4fb0d8afe6ce4f0c58e31e183ac3e4b1\nVSCODE_HANDLES_UNCAUGHT_ERRORS: true\nVSCODE_PID: 34608\nXDG_RUNTIME_DIR: /run/user/1000\nELECTRON_RUN_AS_NODE: 1\nDOTNET_CLI_UI_LANGUAGE: en-US\nDOTNET_NOLOGO: true\n","shell":"/bin/sh"}
+{"stdout":"/usr/bin/dotnet\n","stderr":"","status":"0"}
+true
+
+9/27/2026, 6:40:11 PM 104 [61e3c1b9-a81c-4988-bdf7-5b1fd3d10876] DotnetFindPathPATHFound
+Found.NET on the path: ["/usr/bin/dotnet"]
+
+9/27/2026, 6:40:11 PM 104 [61e3c1b9-a81c-4988-bdf7-5b1fd3d10876] CacheGetEvent
+Checking the cache at 2026-09-27T11:40:11.104Z
+"/usr/bin/dotnet" --list-runtimes --arch x64{"cwd":"/home/kiwann/.vscode/extensions/ms-dotnettools.vscode-dotnet-runtime-3.2.0/dist","encoding":"utf8","env":"HOME: /home/kiwann\nLANG: en_US.UTF-8\nPATH: /usr/local/bin:/usr/bin:/bin:/usr/local/sbin:/opt/android-sdk/cmdline-tools/latest/bin:/var/lib/flatpak/exports/bin:/usr/lib/jvm/default/bin:/usr/bin/site_perl:/usr/bin/vendor_perl:/usr/bin/core_perl:/usr/lib/rustup/bin\nPWD: /home/kiwann\nSHELL: /usr/bin/bash\nVSCODE_CLI: 1\nVSCODE_CODE_CACHE_PATH: /home/kiwann/.config/Code/CachedData/04c0d99f4fb0d8afe6ce4f0c58e31e183ac3e4b1\nVSCODE_HANDLES_UNCAUGHT_ERRORS: true\nVSCODE_PID: 34608\nXDG_RUNTIME_DIR: /run/user/1000\nELECTRON_RUN_AS_NODE: 1\nDOTNET_CLI_UI_LANGUAGE: en-US\nDOTNET_NOLOGO: true\nDOTNET_MULTILEVEL_LOOKUP: 0\n","shell":true}
+{"stdout":"Microsoft.NETCore.App 10.0.12 [/usr/share/dotnet/shared/Microsoft.NETCore.App]\n","stderr":"","status":"0"}
+true
+
+9/27/2026, 6:40:11 PM 254 [b2846f1b-e244-40cd-8ff8-efc2c20c528b] DotnetFindPathRealPATHFound
+Found.NET on the path: ["/usr/share/dotnet/dotnet"], realpath: /usr/share/dotnet/dotnet
+
+9/27/2026, 6:40:11 PM 255 [b2846f1b-e244-40cd-8ff8-efc2c20c528b] CacheGetEvent
+Checking the cache at 2026-09-27T11:40:11.255Z
+"/usr/share/dotnet/dotnet" --list-runtimes --arch x64{"cwd":"/home/kiwann/.vscode/extensions/ms-dotnettools.vscode-dotnet-runtime-3.2.0/dist","encoding":"utf8","env":"HOME: /home/kiwann\nLANG: en_US.UTF-8\nPATH: /usr/local/bin:/usr/bin:/bin:/usr/local/sbin:/opt/android-sdk/cmdline-tools/latest/bin:/var/lib/flatpak/exports/bin:/usr/lib/jvm/default/bin:/usr/bin/site_perl:/usr/bin/vendor_perl:/usr/bin/core_perl:/usr/lib/rustup/bin\nPWD: /home/kiwann\nSHELL: /usr/bin/bash\nVSCODE_CLI: 1\nVSCODE_CODE_CACHE_PATH: /home/kiwann/.config/Code/CachedData/04c0d99f4fb0d8afe6ce4f0c58e31e183ac3e4b1\nVSCODE_HANDLES_UNCAUGHT_ERRORS: true\nVSCODE_PID: 34608\nXDG_RUNTIME_DIR: /run/user/1000\nELECTRON_RUN_AS_NODE: 1\nDOTNET_CLI_UI_LANGUAGE: en-US\nDOTNET_NOLOGO: true\nDOTNET_MULTILEVEL_LOOKUP: 0\n","shell":true}
+{"stdout":"Microsoft.NETCore.App 10.0.12 [/usr/share/dotnet/shared/Microsoft.NETCore.App]\n","stderr":"","status":"0"}
+true
+
+9/27/2026, 6:40:11 PM 256 [b2846f1b-e244-40cd-8ff8-efc2c20c528b] CacheGetEvent
+Checking the cache at 2026-09-27T11:40:11.256Z
+"/usr/share/dotnet/dotnet" --list-runtimes --arch x64{"cwd":"/home/kiwann/.vscode/extensions/ms-dotnettools.vscode-dotnet-runtime-3.2.0/dist","encoding":"utf8","env":"HOME: /home/kiwann\nLANG: en_US.UTF-8\nPATH: /usr/local/bin:/usr/bin:/bin:/usr/local/sbin:/opt/android-sdk/cmdline-tools/latest/bin:/var/lib/flatpak/exports/bin:/usr/lib/jvm/default/bin:/usr/bin/site_perl:/usr/bin/vendor_perl:/usr/bin/core_perl:/usr/lib/rustup/bin\nPWD: /home/kiwann\nSHELL: /usr/bin/bash\nVSCODE_CLI: 1\nVSCODE_CODE_CACHE_PATH: /home/kiwann/.config/Code/CachedData/04c0d99f4fb0d8afe6ce4f0c58e31e183ac3e4b1\nVSCODE_HANDLES_UNCAUGHT_ERRORS: true\nVSCODE_PID: 34608\nXDG_RUNTIME_DIR: /run/user/1000\nELECTRON_RUN_AS_NODE: 1\nDOTNET_CLI_UI_LANGUAGE: en-US\nDOTNET_NOLOGO: true\nDOTNET_MULTILEVEL_LOOKUP: 0\n","shell":true}
+{"stdout":"Microsoft.NETCore.App 10.0.12 [/usr/share/dotnet/shared/Microsoft.NETCore.App]\n","stderr":"","status":"0"}
+true
+
+9/27/2026, 6:40:11 PM 256 [b2846f1b-e244-40cd-8ff8-efc2c20c528b] CacheGetEvent
+Checking the cache at 2026-09-27T11:40:11.256Z
+"/usr/share/dotnet/dotnet" --list-runtimes --arch x64{"cwd":"/home/kiwann/.vscode/extensions/ms-dotnettools.vscode-dotnet-runtime-3.2.0/dist","encoding":"utf8","env":"HOME: /home/kiwann\nLANG: en_US.UTF-8\nPATH: /usr/local/bin:/usr/bin:/bin:/usr/local/sbin:/opt/android-sdk/cmdline-tools/latest/bin:/var/lib/flatpak/exports/bin:/usr/lib/jvm/default/bin:/usr/bin/site_perl:/usr/bin/vendor_perl:/usr/bin/core_perl:/usr/lib/rustup/bin\nPWD: /home/kiwann\nSHELL: /usr/bin/bash\nVSCODE_CLI: 1\nVSCODE_CODE_CACHE_PATH: /home/kiwann/.config/Code/CachedData/04c0d99f4fb0d8afe6ce4f0c58e31e183ac3e4b1\nVSCODE_HANDLES_UNCAUGHT_ERRORS: true\nVSCODE_PID: 34608\nXDG_RUNTIME_DIR: /run/user/1000\nELECTRON_RUN_AS_NODE: 1\nDOTNET_CLI_UI_LANGUAGE: en-US\nDOTNET_NOLOGO: true\nDOTNET_MULTILEVEL_LOOKUP: 0\n","shell":true}
+{"stdout":"Microsoft.NETCore.App 10.0.12 [/usr/share/dotnet/shared/Microsoft.NETCore.App]\n","stderr":"","status":"0"}
+true
+
+9/27/2026, 6:40:11 PM 256 [b2846f1b-e244-40cd-8ff8-efc2c20c528b] DotnetFindPathDidNotMeetCondition
+/usr/share/dotnet/dotnet did NOT satisfy the conditions: hostArch: x64, requiredArch: x64,
+            required version: 10.0.5, required mode: aspnetcore
+
+9/27/2026, 6:40:11 PM 258 [b2846f1b-e244-40cd-8ff8-efc2c20c528b] DotnetFindPathLookupRealPATH
+Looking up .NET on the root.
+
+9/27/2026, 6:40:11 PM 259 GenericDotnetLockEvent
+Action: installedLk-7177d4f7-25f0-4335-85e2-a43ba16434a2 Lock acquired: /run/user/1000/vscd-installedLk.sock
+2026-09-27T11:40:11.259Z
+installedLk
+installedLk
+true
+
+9/27/2026, 6:40:12 PM 144 FoundTrackingVersions
+true
+installed :
+                        {"installId":"10.0.12~x64~aspnetcore","version":"10.0.12","architecture":"x64","isGlobal":false,"installMode":"aspnetcore"} owned by ms-dotnettools.csharp, dotnet-runtime-library, ms-dotnettools.csdevkit
+
+
+9/27/2026, 6:40:12 PM 145 GenericDotnetLockEvent
+Action: installedLk-7177d4f7-25f0-4335-85e2-a43ba16434a2 Lock freed: /run/user/1000/vscd-installedLk.sock
+2026-09-27T11:40:12.145Z
+installedLk
+installedLk
+true
+
+9/27/2026, 6:40:12 PM 146 [b2846f1b-e244-40cd-8ff8-efc2c20c528b] CacheGetEvent
+Checking the cache at 2026-09-27T11:40:12.146Z
+"/home/kiwann/.config/Code/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/10.0.12~x64~aspnetcore/dotnet" --list-runtimes --arch x64{"cwd":"/home/kiwann/.vscode/extensions/ms-dotnettools.vscode-dotnet-runtime-3.2.0/dist","encoding":"utf8","env":"HOME: /home/kiwann\nLANG: en_US.UTF-8\nPATH: /usr/local/bin:/usr/bin:/bin:/usr/local/sbin:/opt/android-sdk/cmdline-tools/latest/bin:/var/lib/flatpak/exports/bin:/usr/lib/jvm/default/bin:/usr/bin/site_perl:/usr/bin/vendor_perl:/usr/bin/core_perl:/usr/lib/rustup/bin\nPWD: /home/kiwann\nSHELL: /usr/bin/bash\nVSCODE_CLI: 1\nVSCODE_CODE_CACHE_PATH: /home/kiwann/.config/Code/CachedData/04c0d99f4fb0d8afe6ce4f0c58e31e183ac3e4b1\nVSCODE_HANDLES_UNCAUGHT_ERRORS: true\nVSCODE_PID: 34608\nXDG_RUNTIME_DIR: /run/user/1000\nELECTRON_RUN_AS_NODE: 1\nDOTNET_CLI_UI_LANGUAGE: en-US\nDOTNET_NOLOGO: true\nDOTNET_MULTILEVEL_LOOKUP: 0\n","shell":true}
+undefined
+true
+
+9/27/2026, 6:40:12 PM 146 [b2846f1b-e244-40cd-8ff8-efc2c20c528b] CommandExecutionEvent
+Executing command "/home/kiwann/.config/Code/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/10.0.12~x64~aspnetcore/dotnet" --list-runtimes --arch x64 with options {"env":"HOME: /home/kiwann\nLANG: en_US.UTF-8\nPATH: /usr/local/bin:/usr/bin:/bin:/usr/local/sbin:/opt/android-sdk/cmdline-tools/latest/bin:/var/lib/flatpak/exports/bin:/usr/lib/jvm/default/bin:/usr/bin/site_perl:/usr/bin/vendor_perl:/usr/bin/core_perl:/usr/lib/rustup/bin\nPWD: /home/kiwann\nSHELL: /usr/bin/bash\nVSCODE_CLI: 1\nVSCODE_CODE_CACHE_PATH: /home/kiwann/.config/Code/CachedData/04c0d99f4fb0d8afe6ce4f0c58e31e183ac3e4b1\nVSCODE_HANDLES_UNCAUGHT_ERRORS: true\nVSCODE_PID: 34608\nXDG_RUNTIME_DIR: /run/user/1000\nELECTRON_RUN_AS_NODE: 1\nDOTNET_CLI_UI_LANGUAGE: en-US\nDOTNET_NOLOGO: true\nDOTNET_MULTILEVEL_LOOKUP: 0\n","dotnetInstallToolCacheTtlMs":9000,"cwd":"/home/kiwann/.vscode/extensions/ms-dotnettools.vscode-dotnet-runtime-3.2.0/dist","shell":true,"encoding":"utf8"}.
+
+9/27/2026, 6:40:12 PM 160 [61e3c1b9-a81c-4988-bdf7-5b1fd3d10876] DotnetFindPathRealPATHFound
+Found.NET on the path: ["/usr/share/dotnet/dotnet"], realpath: /usr/share/dotnet/dotnet
+
+9/27/2026, 6:40:12 PM 161 [61e3c1b9-a81c-4988-bdf7-5b1fd3d10876] CacheGetEvent
+Checking the cache at 2026-09-27T11:40:12.161Z
+"/usr/share/dotnet/dotnet" --list-runtimes --arch x64{"cwd":"/home/kiwann/.vscode/extensions/ms-dotnettools.vscode-dotnet-runtime-3.2.0/dist","encoding":"utf8","env":"HOME: /home/kiwann\nLANG: en_US.UTF-8\nPATH: /usr/local/bin:/usr/bin:/bin:/usr/local/sbin:/opt/android-sdk/cmdline-tools/latest/bin:/var/lib/flatpak/exports/bin:/usr/lib/jvm/default/bin:/usr/bin/site_perl:/usr/bin/vendor_perl:/usr/bin/core_perl:/usr/lib/rustup/bin\nPWD: /home/kiwann\nSHELL: /usr/bin/bash\nVSCODE_CLI: 1\nVSCODE_CODE_CACHE_PATH: /home/kiwann/.config/Code/CachedData/04c0d99f4fb0d8afe6ce4f0c58e31e183ac3e4b1\nVSCODE_HANDLES_UNCAUGHT_ERRORS: true\nVSCODE_PID: 34608\nXDG_RUNTIME_DIR: /run/user/1000\nELECTRON_RUN_AS_NODE: 1\nDOTNET_CLI_UI_LANGUAGE: en-US\nDOTNET_NOLOGO: true\nDOTNET_MULTILEVEL_LOOKUP: 0\n","shell":true}
+{"stdout":"Microsoft.NETCore.App 10.0.12 [/usr/share/dotnet/shared/Microsoft.NETCore.App]\n","stderr":"","status":"0"}
+true
+
+9/27/2026, 6:40:12 PM 162 [61e3c1b9-a81c-4988-bdf7-5b1fd3d10876] CacheGetEvent
+Checking the cache at 2026-09-27T11:40:12.162Z
+"/usr/share/dotnet/dotnet" --list-runtimes --arch x64{"cwd":"/home/kiwann/.vscode/extensions/ms-dotnettools.vscode-dotnet-runtime-3.2.0/dist","encoding":"utf8","env":"HOME: /home/kiwann\nLANG: en_US.UTF-8\nPATH: /usr/local/bin:/usr/bin:/bin:/usr/local/sbin:/opt/android-sdk/cmdline-tools/latest/bin:/var/lib/flatpak/exports/bin:/usr/lib/jvm/default/bin:/usr/bin/site_perl:/usr/bin/vendor_perl:/usr/bin/core_perl:/usr/lib/rustup/bin\nPWD: /home/kiwann\nSHELL: /usr/bin/bash\nVSCODE_CLI: 1\nVSCODE_CODE_CACHE_PATH: /home/kiwann/.config/Code/CachedData/04c0d99f4fb0d8afe6ce4f0c58e31e183ac3e4b1\nVSCODE_HANDLES_UNCAUGHT_ERRORS: true\nVSCODE_PID: 34608\nXDG_RUNTIME_DIR: /run/user/1000\nELECTRON_RUN_AS_NODE: 1\nDOTNET_CLI_UI_LANGUAGE: en-US\nDOTNET_NOLOGO: true\nDOTNET_MULTILEVEL_LOOKUP: 0\n","shell":true}
+{"stdout":"Microsoft.NETCore.App 10.0.12 [/usr/share/dotnet/shared/Microsoft.NETCore.App]\n","stderr":"","status":"0"}
+true
+
+9/27/2026, 6:40:12 PM 162 [61e3c1b9-a81c-4988-bdf7-5b1fd3d10876] CacheGetEvent
+Checking the cache at 2026-09-27T11:40:12.162Z
+"/usr/share/dotnet/dotnet" --list-runtimes --arch x64{"cwd":"/home/kiwann/.vscode/extensions/ms-dotnettools.vscode-dotnet-runtime-3.2.0/dist","encoding":"utf8","env":"HOME: /home/kiwann\nLANG: en_US.UTF-8\nPATH: /usr/local/bin:/usr/bin:/bin:/usr/local/sbin:/opt/android-sdk/cmdline-tools/latest/bin:/var/lib/flatpak/exports/bin:/usr/lib/jvm/default/bin:/usr/bin/site_perl:/usr/bin/vendor_perl:/usr/bin/core_perl:/usr/lib/rustup/bin\nPWD: /home/kiwann\nSHELL: /usr/bin/bash\nVSCODE_CLI: 1\nVSCODE_CODE_CACHE_PATH: /home/kiwann/.config/Code/CachedData/04c0d99f4fb0d8afe6ce4f0c58e31e183ac3e4b1\nVSCODE_HANDLES_UNCAUGHT_ERRORS: true\nVSCODE_PID: 34608\nXDG_RUNTIME_DIR: /run/user/1000\nELECTRON_RUN_AS_NODE: 1\nDOTNET_CLI_UI_LANGUAGE: en-US\nDOTNET_NOLOGO: true\nDOTNET_MULTILEVEL_LOOKUP: 0\n","shell":true}
+{"stdout":"Microsoft.NETCore.App 10.0.12 [/usr/share/dotnet/shared/Microsoft.NETCore.App]\n","stderr":"","status":"0"}
+true
+
+9/27/2026, 6:40:12 PM 162 [61e3c1b9-a81c-4988-bdf7-5b1fd3d10876] DotnetFindPathDidNotMeetCondition
+/usr/share/dotnet/dotnet did NOT satisfy the conditions: hostArch: x64, requiredArch: x64,
+            required version: 10.0.9, required mode: aspnetcore
+
+9/27/2026, 6:40:12 PM 163 [61e3c1b9-a81c-4988-bdf7-5b1fd3d10876] DotnetFindPathLookupRealPATH
+Looking up .NET on the root.
+
+9/27/2026, 6:40:12 PM 163 GenericDotnetLockEvent
+Action: installedLk-3c0c33e4-87df-4eed-8fad-5f3801a99776 Lock acquired: /run/user/1000/vscd-installedLk.sock
+2026-09-27T11:40:12.163Z
+installedLk
+installedLk
+true
+
+9/27/2026, 6:40:12 PM 245 [b2846f1b-e244-40cd-8ff8-efc2c20c528b] CommandExecutionTimer
+The command "/home/kiwann/.config/Code/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/10.0.12~x64~aspnetcore/dotnet" --list-runtimes --arch x64 took 98.19 ms to run.
+98.19
+ "/home/kiwann/.config/Code/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/10.0.12~x64~aspnetcore/dotnet" --list-runtimes --arch x64
+272ee3a351318318b2b3d52d98b4e70d7804cd25ad10a0a9f8ab9ceca8ec71a1
+
+9/27/2026, 6:40:12 PM 245 [b2846f1b-e244-40cd-8ff8-efc2c20c528b] CommandExecutionStatusEvent
+The command "/home/kiwann/.config/Code/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/10.0.12~x64~aspnetcore/dotnet" --list-runtimes --arch x64 exited:
+0.
+
+9/27/2026, 6:40:12 PM 246 [b2846f1b-e244-40cd-8ff8-efc2c20c528b] CommandExecutionStdOut
+The command "/home/kiwann/.config/Code/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/10.0.12~x64~aspnetcore/dotnet" --list-runtimes --arch x64 encountered stdout:
+Microsoft.AspNetCore.App 10.0.12 [/home/kiwann/.config/Code/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/10.0.12~x64~aspnetcore/shared/Microsoft.AspNetCore.App]
+Microsoft.NETCore.App 10.0.12 [/home/kiwann/.config/Code/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/10.0.12~x64~aspnetcore/shared/Microsoft.NETCore.App]
+
+
+9/27/2026, 6:40:12 PM 246 [b2846f1b-e244-40cd-8ff8-efc2c20c528b] CommandExecutionStdError
+The command "/home/kiwann/.config/Code/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/10.0.12~x64~aspnetcore/dotnet" --list-runtimes --arch x64 encountered stderr:
+
+
+9/27/2026, 6:40:12 PM 246 [b2846f1b-e244-40cd-8ff8-efc2c20c528b] CachePutEvent
+Adding to the cache at 2026-09-27T11:40:12.246Z
+"/home/kiwann/.config/Code/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/10.0.12~x64~aspnetcore/dotnet" --list-runtimes --arch x64{"cwd":"/home/kiwann/.vscode/extensions/ms-dotnettools.vscode-dotnet-runtime-3.2.0/dist","encoding":"utf8","env":"HOME: /home/kiwann\nLANG: en_US.UTF-8\nPATH: /usr/local/bin:/usr/bin:/bin:/usr/local/sbin:/opt/android-sdk/cmdline-tools/latest/bin:/var/lib/flatpak/exports/bin:/usr/lib/jvm/default/bin:/usr/bin/site_perl:/usr/bin/vendor_perl:/usr/bin/core_perl:/usr/lib/rustup/bin\nPWD: /home/kiwann\nSHELL: /usr/bin/bash\nVSCODE_CLI: 1\nVSCODE_CODE_CACHE_PATH: /home/kiwann/.config/Code/CachedData/04c0d99f4fb0d8afe6ce4f0c58e31e183ac3e4b1\nVSCODE_HANDLES_UNCAUGHT_ERRORS: true\nVSCODE_PID: 34608\nXDG_RUNTIME_DIR: /run/user/1000\nELECTRON_RUN_AS_NODE: 1\nDOTNET_CLI_UI_LANGUAGE: en-US\nDOTNET_NOLOGO: true\nDOTNET_MULTILEVEL_LOOKUP: 0\n","shell":true}
+{"stdout":"Microsoft.AspNetCore.App 10.0.12 [/home/kiwann/.config/Code/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/10.0.12~x64~aspnetcore/shared/Microsoft.AspNetCore.App]\nMicrosoft.NETCore.App 10.0.12 [/home/kiwann/.config/Code/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/10.0.12~x64~aspnetcore/shared/Microsoft.NETCore.App]\n","stderr":"","status":"0"}
+9000
+true
+
+9/27/2026, 6:40:12 PM 247 [b2846f1b-e244-40cd-8ff8-efc2c20c528b] CacheGetEvent
+Checking the cache at 2026-09-27T11:40:12.247Z
+"/home/kiwann/.config/Code/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/10.0.12~x64~aspnetcore/dotnet" --list-runtimes --arch x64{"cwd":"/home/kiwann/.vscode/extensions/ms-dotnettools.vscode-dotnet-runtime-3.2.0/dist","encoding":"utf8","env":"HOME: /home/kiwann\nLANG: en_US.UTF-8\nPATH: /usr/local/bin:/usr/bin:/bin:/usr/local/sbin:/opt/android-sdk/cmdline-tools/latest/bin:/var/lib/flatpak/exports/bin:/usr/lib/jvm/default/bin:/usr/bin/site_perl:/usr/bin/vendor_perl:/usr/bin/core_perl:/usr/lib/rustup/bin\nPWD: /home/kiwann\nSHELL: /usr/bin/bash\nVSCODE_CLI: 1\nVSCODE_CODE_CACHE_PATH: /home/kiwann/.config/Code/CachedData/04c0d99f4fb0d8afe6ce4f0c58e31e183ac3e4b1\nVSCODE_HANDLES_UNCAUGHT_ERRORS: true\nVSCODE_PID: 34608\nXDG_RUNTIME_DIR: /run/user/1000\nELECTRON_RUN_AS_NODE: 1\nDOTNET_CLI_UI_LANGUAGE: en-US\nDOTNET_NOLOGO: true\nDOTNET_MULTILEVEL_LOOKUP: 0\n","shell":true}
+{"stdout":"Microsoft.AspNetCore.App 10.0.12 [/home/kiwann/.config/Code/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/10.0.12~x64~aspnetcore/shared/Microsoft.AspNetCore.App]\nMicrosoft.NETCore.App 10.0.12 [/home/kiwann/.config/Code/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/10.0.12~x64~aspnetcore/shared/Microsoft.NETCore.App]\n","stderr":"","status":"0"}
+true
+
+9/27/2026, 6:40:12 PM 247 [b2846f1b-e244-40cd-8ff8-efc2c20c528b] DotnetConditionsValidated
+false
+/home/kiwann/.config/Code/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/10.0.12~x64~aspnetcore/dotnet satisfies the conditions.
+
+9/27/2026, 6:40:12 PM 247 DotnetFindPathMetCondition
+/home/kiwann/.config/Code/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/10.0.12~x64~aspnetcore/dotnet met the conditions.
+
+9/27/2026, 6:40:12 PM 248 GenericDotnetLockEvent
+Action: installedLk-760d7c5c-5b73-486c-b7e3-ffae1ebb89fb Lock acquire retryable error: EADDRINUSE (listen EADDRINUSE: address already in use /run/user/1000/vscd-installedLk.sock) retry 1/40001
+2026-09-27T11:40:12.248Z
+installedLk
+installedLk
+true
+
+9/27/2026, 6:40:12 PM 252 GenericDotnetLockEvent
+Action: installedLk-760d7c5c-5b73-486c-b7e3-ffae1ebb89fb Connected to existing lock.
+2026-09-27T11:40:12.251Z
+installedLk
+installedLk
+true
+
+9/27/2026, 6:40:12 PM 260 GenericDotnetLockEvent
+Action: installedLk-760d7c5c-5b73-486c-b7e3-ffae1ebb89fb Lock acquire retryable error: EADDRINUSE (listen EADDRINUSE: address already in use /run/user/1000/vscd-installedLk.sock) retry 2/40001
+2026-09-27T11:40:12.260Z
+installedLk
+installedLk
+true
+
+9/27/2026, 6:40:12 PM 260 FoundTrackingVersions
+true
+installed :
+                        {"installId":"10.0.12~x64~aspnetcore","version":"10.0.12","architecture":"x64","isGlobal":false,"installMode":"aspnetcore"} owned by ms-dotnettools.csharp, dotnet-runtime-library, ms-dotnettools.csdevkit
+
+
+9/27/2026, 6:40:12 PM 261 GenericDotnetLockEvent
+Action: installedLk-3c0c33e4-87df-4eed-8fad-5f3801a99776 Lock freed: /run/user/1000/vscd-installedLk.sock
+2026-09-27T11:40:12.260Z
+installedLk
+installedLk
+true
+
+9/27/2026, 6:40:12 PM 261 [61e3c1b9-a81c-4988-bdf7-5b1fd3d10876] CacheGetEvent
+Checking the cache at 2026-09-27T11:40:12.261Z
+"/home/kiwann/.config/Code/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/10.0.12~x64~aspnetcore/dotnet" --list-runtimes --arch x64{"cwd":"/home/kiwann/.vscode/extensions/ms-dotnettools.vscode-dotnet-runtime-3.2.0/dist","encoding":"utf8","env":"HOME: /home/kiwann\nLANG: en_US.UTF-8\nPATH: /usr/local/bin:/usr/bin:/bin:/usr/local/sbin:/opt/android-sdk/cmdline-tools/latest/bin:/var/lib/flatpak/exports/bin:/usr/lib/jvm/default/bin:/usr/bin/site_perl:/usr/bin/vendor_perl:/usr/bin/core_perl:/usr/lib/rustup/bin\nPWD: /home/kiwann\nSHELL: /usr/bin/bash\nVSCODE_CLI: 1\nVSCODE_CODE_CACHE_PATH: /home/kiwann/.config/Code/CachedData/04c0d99f4fb0d8afe6ce4f0c58e31e183ac3e4b1\nVSCODE_HANDLES_UNCAUGHT_ERRORS: true\nVSCODE_PID: 34608\nXDG_RUNTIME_DIR: /run/user/1000\nELECTRON_RUN_AS_NODE: 1\nDOTNET_CLI_UI_LANGUAGE: en-US\nDOTNET_NOLOGO: true\nDOTNET_MULTILEVEL_LOOKUP: 0\n","shell":true}
+{"stdout":"Microsoft.AspNetCore.App 10.0.12 [/home/kiwann/.config/Code/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/10.0.12~x64~aspnetcore/shared/Microsoft.AspNetCore.App]\nMicrosoft.NETCore.App 10.0.12 [/home/kiwann/.config/Code/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/10.0.12~x64~aspnetcore/shared/Microsoft.NETCore.App]\n","stderr":"","status":"0"}
+true
+
+9/27/2026, 6:40:12 PM 261 [61e3c1b9-a81c-4988-bdf7-5b1fd3d10876] CacheGetEvent
+Checking the cache at 2026-09-27T11:40:12.261Z
+"/home/kiwann/.config/Code/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/10.0.12~x64~aspnetcore/dotnet" --list-runtimes --arch x64{"cwd":"/home/kiwann/.vscode/extensions/ms-dotnettools.vscode-dotnet-runtime-3.2.0/dist","encoding":"utf8","env":"HOME: /home/kiwann\nLANG: en_US.UTF-8\nPATH: /usr/local/bin:/usr/bin:/bin:/usr/local/sbin:/opt/android-sdk/cmdline-tools/latest/bin:/var/lib/flatpak/exports/bin:/usr/lib/jvm/default/bin:/usr/bin/site_perl:/usr/bin/vendor_perl:/usr/bin/core_perl:/usr/lib/rustup/bin\nPWD: /home/kiwann\nSHELL: /usr/bin/bash\nVSCODE_CLI: 1\nVSCODE_CODE_CACHE_PATH: /home/kiwann/.config/Code/CachedData/04c0d99f4fb0d8afe6ce4f0c58e31e183ac3e4b1\nVSCODE_HANDLES_UNCAUGHT_ERRORS: true\nVSCODE_PID: 34608\nXDG_RUNTIME_DIR: /run/user/1000\nELECTRON_RUN_AS_NODE: 1\nDOTNET_CLI_UI_LANGUAGE: en-US\nDOTNET_NOLOGO: true\nDOTNET_MULTILEVEL_LOOKUP: 0\n","shell":true}
+{"stdout":"Microsoft.AspNetCore.App 10.0.12 [/home/kiwann/.config/Code/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/10.0.12~x64~aspnetcore/shared/Microsoft.AspNetCore.App]\nMicrosoft.NETCore.App 10.0.12 [/home/kiwann/.config/Code/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/10.0.12~x64~aspnetcore/shared/Microsoft.NETCore.App]\n","stderr":"","status":"0"}
+true
+
+9/27/2026, 6:40:12 PM 261 [61e3c1b9-a81c-4988-bdf7-5b1fd3d10876] DotnetConditionsValidated
+true
+/home/kiwann/.config/Code/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/10.0.12~x64~aspnetcore/dotnet satisfies the conditions.
+
+9/27/2026, 6:40:12 PM 261 DotnetFindPathMetCondition
+/home/kiwann/.config/Code/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/10.0.12~x64~aspnetcore/dotnet met the conditions.
+
+9/27/2026, 6:40:12 PM 262 GenericDotnetLockEvent
+Action: installedLk-3c0ebc0a-530c-4e38-a239-1170e758d9f6 Lock acquired: /run/user/1000/vscd-installedLk.sock
+2026-09-27T11:40:12.262Z
+installedLk
+installedLk
+true
+
+9/27/2026, 6:40:12 PM 262 MarkedInstallInUse
+Session session-f02033896d marked /home/kiwann/.config/Code/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/10.0.12~x64~aspnetcore/dotnet as in use.
+Sessions: {"session-8fb01ad94f":["/home/kiwann/.config/Code/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/10.0.12~x64~aspnetcore/dotnet"],"session-45a331464e":["/home/kiwann/.config/Code/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/10.0.12~x64~aspnetcore/dotnet"],"session-62760c9f2f":["/home/kiwann/.config/Code/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/10.0.12~x64~aspnetcore/dotnet","/usr/share/dotnet/dotnet"],"session-1dc0332e20":["/home/kiwann/.config/Code/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/10.0.12~x64~aspnetcore/dotnet","/usr/share/dotnet/dotnet"],"session-d157b54e49":["/home/kiwann/.config/Code/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/10.0.12~x64~aspnetcore/dotnet"],"session-38f8e34825":["/home/kiwann/.config/Code/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/10.0.12~x64~aspnetcore/dotnet"],"session-a4fa2885f0":["/home/kiwann/.config/Code/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/10.0.12~x64~aspnetcore/dotnet"],"session-ebebfd7d2f":["/home/kiwann/.config/Code/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/10.0.12~x64~aspnetcore/dotnet"],"session-5aeb6e2d98":["/home/kiwann/.config/Code/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/10.0.12~x64~aspnetcore/dotnet"],"session-3b4dbfe263":["/home/kiwann/.config/Code/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/10.0.12~x64~aspnetcore/dotnet"],"session-1977088e04":["/home/kiwann/.config/Code/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/10.0.12~x64~aspnetcore/dotnet"],"session-4894f2db8c":["/home/kiwann/.config/Code/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/10.0.12~x64~aspnetcore/dotnet"],"session-2f37912c1c":["/home/kiwann/.config/Code/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/10.0.12~x64~aspnetcore/dotnet"],"session-0652cd8127":["/usr/share/dotnet/dotnet","/home/kiwann/.config/Code/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/10.0.12~x64~aspnetcore/dotnet"],"session-98dece620c":["/usr/share/dotnet/dotnet","/home/kiwann/.config/Code/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/10.0.12~x64~aspnetcore/dotnet"],"session-525fef1e73":["/usr/share/dotnet/dotnet","/home/kiwann/.config/Code/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/10.0.12~x64~aspnetcore/dotnet"],"session-5706f0f141":["/usr/share/dotnet/dotnet","/home/kiwann/.config/Code/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/10.0.12~x64~aspnetcore/dotnet"],"session-3456c1dba1":["/usr/share/dotnet/dotnet","/home/kiwann/.config/Code/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/10.0.12~x64~aspnetcore/dotnet"],"session-2908ed4210":["/usr/share/dotnet/dotnet","/home/kiwann/.config/Code/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/10.0.12~x64~aspnetcore/dotnet"],"session-5fc1a4e893":["/usr/share/dotnet/dotnet","/home/kiwann/.config/Code/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/10.0.12~x64~aspnetcore/dotnet"],"session-9d537e7331":["/usr/share/dotnet/dotnet","/home/kiwann/.config/Code/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/10.0.12~x64~aspnetcore/dotnet"],"session-f02033896d":["/usr/share/dotnet/dotnet","/home/kiwann/.config/Code/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/10.0.12~x64~aspnetcore/dotnet"]}
+
+9/27/2026, 6:40:12 PM 266 GenericDotnetLockEvent
+Action: installedLk-760d7c5c-5b73-486c-b7e3-ffae1ebb89fb Unable to connect to existing lock: {"errno":-104,"code":"ECONNRESET","syscall":"connect","address":"/run/user/1000/vscd-installedLk.sock"}.
+2026-09-27T11:40:12.266Z
+installedLk
+installedLk
+true
+
+9/27/2026, 6:40:12 PM 266 GenericDotnetLockEvent
+Action: installedLk-760d7c5c-5b73-486c-b7e3-ffae1ebb89fb found Lock is stale, as ECONNRESET detected.
+2026-09-27T11:40:12.266Z
+installedLk
+installedLk
+true
+
+9/27/2026, 6:40:12 PM 266 GenericDotnetLockEvent
+Action: installedLk-760d7c5c-5b73-486c-b7e3-ffae1ebb89fb - Stale lock detected, cleaning up.
+2026-09-27T11:40:12.266Z
+installedLk
+installedLk
+true
+
+9/27/2026, 6:40:12 PM 266 GenericDotnetLockEvent
+Cleaning up stale lock: /run/user/1000/vscd-installedLk.sock
+2026-09-27T11:40:12.266Z
+installedLk
+installedLk
+true
+
+9/27/2026, 6:40:12 PM 315 GenericDotnetLockEvent
+Action: installedLk-3c0ebc0a-530c-4e38-a239-1170e758d9f6 Lock freed: /run/user/1000/vscd-installedLk.sock
+2026-09-27T11:40:12.315Z
+installedLk
+installedLk
+true
+
+9/27/2026, 6:40:12 PM 315 DotnetCommandSucceeded
+findPath
+
+9/27/2026, 6:40:12 PM 316 DotnetAcquisitionStatusRequested
+10.0
+15eb59019e4eb18477aa8e5406bbf28c22b09cc1ff36d936a31726743566167b
+
+9/27/2026, 6:40:12 PM 318 GenericDotnetLockEvent
+Action: installedLk-f01513b2-9a0a-4fbe-8ffc-a70f7c3ec3e6 Lock acquired: /run/user/1000/vscd-installedLk.sock
+2026-09-27T11:40:12.318Z
+installedLk
+installedLk
+true
+
+9/27/2026, 6:40:12 PM 318 GenericDotnetLockEvent
+Action: installedLk-760d7c5c-5b73-486c-b7e3-ffae1ebb89fb Lock acquire retryable error: EADDRINUSE (listen EADDRINUSE: address already in use /run/user/1000/vscd-installedLk.sock) retry 3/40001
+2026-09-27T11:40:12.318Z
+installedLk
+installedLk
+true
+
+9/27/2026, 6:40:12 PM 320 GenericDotnetLockEvent
+Action: installedLk-760d7c5c-5b73-486c-b7e3-ffae1ebb89fb Connected to existing lock.
+2026-09-27T11:40:12.320Z
+installedLk
+installedLk
+true
+
+9/27/2026, 6:40:12 PM 327 GenericDotnetLockEvent
+Action: installedLk-760d7c5c-5b73-486c-b7e3-ffae1ebb89fb Lock acquire retryable error: EADDRINUSE (listen EADDRINUSE: address already in use /run/user/1000/vscd-installedLk.sock) retry 4/40001
+2026-09-27T11:40:12.327Z
+installedLk
+installedLk
+true
+
+9/27/2026, 6:40:12 PM 391 GenericDotnetLockEvent
+Action: installedLk-760d7c5c-5b73-486c-b7e3-ffae1ebb89fb Connected to existing lock.
+2026-09-27T11:40:12.391Z
+installedLk
+installedLk
+true
+
+9/27/2026, 6:40:12 PM 399 GenericDotnetLockEvent
+Action: installedLk-760d7c5c-5b73-486c-b7e3-ffae1ebb89fb Lock acquire retryable error: EADDRINUSE (listen EADDRINUSE: address already in use /run/user/1000/vscd-installedLk.sock) retry 5/40001
+2026-09-27T11:40:12.399Z
+installedLk
+installedLk
+true
+
+9/27/2026, 6:40:12 PM 399 FoundTrackingVersions
+true
+installed :
+                        {"installId":"10.0.12~x64~aspnetcore","version":"10.0.12","architecture":"x64","isGlobal":false,"installMode":"aspnetcore"} owned by ms-dotnettools.csharp, dotnet-runtime-library, ms-dotnettools.csdevkit
+
+
+9/27/2026, 6:40:12 PM 399 GenericDotnetLockEvent
+Action: installedLk-f01513b2-9a0a-4fbe-8ffc-a70f7c3ec3e6 Lock freed: /run/user/1000/vscd-installedLk.sock
+2026-09-27T11:40:12.399Z
+installedLk
+installedLk
+true
+
+9/27/2026, 6:40:12 PM 401 [fb4f802d-3df5-4801-b319-db416929d807] DotnetAcquisitionStatusResolved
+10.0~x64~aspnetcore
+10.0~x64~aspnetcore
+10.0
+x64
+false
+aspnetcore
+10.0
+
+9/27/2026, 6:40:12 PM 401 GenericDotnetLockEvent
+Action: installedLk-dd7f15a2-c0fe-4da6-8918-582359659bb8 Lock acquired: /run/user/1000/vscd-installedLk.sock
+2026-09-27T11:40:12.401Z
+installedLk
+installedLk
+true
+
+9/27/2026, 6:40:12 PM 401 AddTrackingVersions
+true
+Adding {"installId":"10.0.12~x64~aspnetcore","version":"10.0.12","architecture":"x64","isGlobal":false,"installMode":"aspnetcore"} with id 10.0.12~x64~aspnetcore from the state.
+
+9/27/2026, 6:40:12 PM 402 [fb4f802d-3df5-4801-b319-db416929d807] DotnetInstallationValidated
+10.0.12~x64~aspnetcore
+10.0.12~x64~aspnetcore
+10.0.12
+x64
+false
+aspnetcore
+
+9/27/2026, 6:40:12 PM 402 MarkedInstallInUse
+Session session-f02033896d marked /home/kiwann/.config/Code/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/10.0.12~x64~aspnetcore/dotnet as in use.
+Sessions: {"session-8fb01ad94f":["/home/kiwann/.config/Code/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/10.0.12~x64~aspnetcore/dotnet"],"session-45a331464e":["/home/kiwann/.config/Code/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/10.0.12~x64~aspnetcore/dotnet"],"session-62760c9f2f":["/home/kiwann/.config/Code/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/10.0.12~x64~aspnetcore/dotnet","/usr/share/dotnet/dotnet"],"session-1dc0332e20":["/home/kiwann/.config/Code/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/10.0.12~x64~aspnetcore/dotnet","/usr/share/dotnet/dotnet"],"session-d157b54e49":["/home/kiwann/.config/Code/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/10.0.12~x64~aspnetcore/dotnet"],"session-38f8e34825":["/home/kiwann/.config/Code/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/10.0.12~x64~aspnetcore/dotnet"],"session-a4fa2885f0":["/home/kiwann/.config/Code/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/10.0.12~x64~aspnetcore/dotnet"],"session-ebebfd7d2f":["/home/kiwann/.config/Code/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/10.0.12~x64~aspnetcore/dotnet"],"session-5aeb6e2d98":["/home/kiwann/.config/Code/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/10.0.12~x64~aspnetcore/dotnet"],"session-3b4dbfe263":["/home/kiwann/.config/Code/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/10.0.12~x64~aspnetcore/dotnet"],"session-1977088e04":["/home/kiwann/.config/Code/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/10.0.12~x64~aspnetcore/dotnet"],"session-4894f2db8c":["/home/kiwann/.config/Code/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/10.0.12~x64~aspnetcore/dotnet"],"session-2f37912c1c":["/home/kiwann/.config/Code/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/10.0.12~x64~aspnetcore/dotnet"],"session-0652cd8127":["/usr/share/dotnet/dotnet","/home/kiwann/.config/Code/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/10.0.12~x64~aspnetcore/dotnet"],"session-98dece620c":["/usr/share/dotnet/dotnet","/home/kiwann/.config/Code/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/10.0.12~x64~aspnetcore/dotnet"],"session-525fef1e73":["/usr/share/dotnet/dotnet","/home/kiwann/.config/Code/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/10.0.12~x64~aspnetcore/dotnet"],"session-5706f0f141":["/usr/share/dotnet/dotnet","/home/kiwann/.config/Code/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/10.0.12~x64~aspnetcore/dotnet"],"session-3456c1dba1":["/usr/share/dotnet/dotnet","/home/kiwann/.config/Code/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/10.0.12~x64~aspnetcore/dotnet"],"session-2908ed4210":["/usr/share/dotnet/dotnet","/home/kiwann/.config/Code/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/10.0.12~x64~aspnetcore/dotnet"],"session-5fc1a4e893":["/usr/share/dotnet/dotnet","/home/kiwann/.config/Code/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/10.0.12~x64~aspnetcore/dotnet"],"session-9d537e7331":["/usr/share/dotnet/dotnet","/home/kiwann/.config/Code/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/10.0.12~x64~aspnetcore/dotnet"],"session-f02033896d":["/usr/share/dotnet/dotnet","/home/kiwann/.config/Code/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/10.0.12~x64~aspnetcore/dotnet"]}
+
+9/27/2026, 6:40:12 PM 403 GenericDotnetLockEvent
+Action: installedLk-760d7c5c-5b73-486c-b7e3-ffae1ebb89fb Unable to connect to existing lock: {"errno":-104,"code":"ECONNRESET","syscall":"connect","address":"/run/user/1000/vscd-installedLk.sock"}.
+2026-09-27T11:40:12.403Z
+installedLk
+installedLk
+true
+
+9/27/2026, 6:40:12 PM 403 GenericDotnetLockEvent
+Action: installedLk-760d7c5c-5b73-486c-b7e3-ffae1ebb89fb found Lock is stale, as ECONNRESET detected.
+2026-09-27T11:40:12.403Z
+installedLk
+installedLk
+true
+
+9/27/2026, 6:40:12 PM 403 GenericDotnetLockEvent
+Action: installedLk-760d7c5c-5b73-486c-b7e3-ffae1ebb89fb - Stale lock detected, cleaning up.
+2026-09-27T11:40:12.403Z
+installedLk
+installedLk
+true
+
+9/27/2026, 6:40:12 PM 403 GenericDotnetLockEvent
+Cleaning up stale lock: /run/user/1000/vscd-installedLk.sock
+2026-09-27T11:40:12.403Z
+installedLk
+installedLk
+true
+
+9/27/2026, 6:40:12 PM 404 GenericDotnetLockEvent
+Action: installedLk-760d7c5c-5b73-486c-b7e3-ffae1ebb89fb - Stale lock detected, and we've detected that before. Trying to release the server.
+2026-09-27T11:40:12.404Z
+installedLk
+installedLk
+true
+
+9/27/2026, 6:40:12 PM 404 FoundTrackingVersions
+true
+installed :
+                        {"installId":"10.0.12~x64~aspnetcore","version":"10.0.12","architecture":"x64","isGlobal":false,"installMode":"aspnetcore"} owned by ms-dotnettools.csharp, dotnet-runtime-library, ms-dotnettools.csdevkit
+
+
+9/27/2026, 6:40:12 PM 405 AddTrackingVersions
+true
+Updated installed :
+{"installId":"10.0.12~x64~aspnetcore","version":"10.0.12","architecture":"x64","isGlobal":false,"installMode":"aspnetcore"} owned by ms-dotnettools.csharp, dotnet-runtime-library, ms-dotnettools.csdevkit
+ 
+
+9/27/2026, 6:40:12 PM 406 GenericDotnetLockEvent
+Action: installedLk-dd7f15a2-c0fe-4da6-8918-582359659bb8 Lock freed: /run/user/1000/vscd-installedLk.sock
+2026-09-27T11:40:12.406Z
+installedLk
+installedLk
+true
+
+9/27/2026, 6:40:12 PM 406 DotnetCommandSucceeded
+acquireStatus
+
+9/27/2026, 6:40:12 PM 442 DotnetCommandSucceeded
+ensureDependencies
+
+9/27/2026, 6:40:12 PM 443 DotnetFindPathCommandInvoked
+The find path command was invoked.
+{"acquireContext":{"version":"8.0","requestingExtensionId":"ms-dotnettools.csdevkit","installType":"global","architecture":"x64","mode":"sdk"},"versionSpecRequirement":"greater_than_or_equal"}
+
+9/27/2026, 6:40:12 PM 444 DotnetFindPathLookupSetting
+Looking up vscode setting.
+
+9/27/2026, 6:40:12 PM 445 [80f56216-9cd6-4afe-9e66-f5ac9135848a] CacheGetEvent
+Checking the cache at 2026-09-27T11:40:12.445Z
+"dotnet" --list-runtimes --arch x64{"cwd":"/home/kiwann/.vscode/extensions/ms-dotnettools.vscode-dotnet-runtime-3.2.0/dist","encoding":"utf8","env":"HOME: /home/kiwann\nLANG: en_US.UTF-8\nPATH: /usr/local/bin:/usr/bin:/bin:/usr/local/sbin:/opt/android-sdk/cmdline-tools/latest/bin:/var/lib/flatpak/exports/bin:/usr/lib/jvm/default/bin:/usr/bin/site_perl:/usr/bin/vendor_perl:/usr/bin/core_perl:/usr/lib/rustup/bin\nPWD: /home/kiwann\nSHELL: /usr/bin/bash\nVSCODE_CLI: 1\nVSCODE_CODE_CACHE_PATH: /home/kiwann/.config/Code/CachedData/04c0d99f4fb0d8afe6ce4f0c58e31e183ac3e4b1\nVSCODE_HANDLES_UNCAUGHT_ERRORS: true\nVSCODE_PID: 34608\nXDG_RUNTIME_DIR: /run/user/1000\nELECTRON_RUN_AS_NODE: 1\nDOTNET_CLI_UI_LANGUAGE: en-US\nDOTNET_NOLOGO: true\nDOTNET_MULTILEVEL_LOOKUP: 0\n","shell":true}
+{"stdout":"Microsoft.NETCore.App 10.0.12 [/usr/share/dotnet/shared/Microsoft.NETCore.App]\n","stderr":"","status":"0"}
+true
+
+9/27/2026, 6:40:12 PM 447 [80f56216-9cd6-4afe-9e66-f5ac9135848a] CacheGetEvent
+Checking the cache at 2026-09-27T11:40:12.447Z
+"/usr/share/dotnet/dotnet" --list-sdks --arch x64{"cwd":"/home/kiwann/.vscode/extensions/ms-dotnettools.vscode-dotnet-runtime-3.2.0/dist","encoding":"utf8","env":"HOME: /home/kiwann\nLANG: en_US.UTF-8\nPATH: /usr/local/bin:/usr/bin:/bin:/usr/local/sbin:/opt/android-sdk/cmdline-tools/latest/bin:/var/lib/flatpak/exports/bin:/usr/lib/jvm/default/bin:/usr/bin/site_perl:/usr/bin/vendor_perl:/usr/bin/core_perl:/usr/lib/rustup/bin\nPWD: /home/kiwann\nSHELL: /usr/bin/bash\nVSCODE_CLI: 1\nVSCODE_CODE_CACHE_PATH: /home/kiwann/.config/Code/CachedData/04c0d99f4fb0d8afe6ce4f0c58e31e183ac3e4b1\nVSCODE_HANDLES_UNCAUGHT_ERRORS: true\nVSCODE_PID: 34608\nXDG_RUNTIME_DIR: /run/user/1000\nELECTRON_RUN_AS_NODE: 1\nDOTNET_CLI_UI_LANGUAGE: en-US\nDOTNET_NOLOGO: true\nDOTNET_MULTILEVEL_LOOKUP: 0\n","shell":true}
+undefined
+true
+
+9/27/2026, 6:40:12 PM 447 [80f56216-9cd6-4afe-9e66-f5ac9135848a] CommandExecutionEvent
+Executing command "/usr/share/dotnet/dotnet" --list-sdks --arch x64 with options {"env":"HOME: /home/kiwann\nLANG: en_US.UTF-8\nPATH: /usr/local/bin:/usr/bin:/bin:/usr/local/sbin:/opt/android-sdk/cmdline-tools/latest/bin:/var/lib/flatpak/exports/bin:/usr/lib/jvm/default/bin:/usr/bin/site_perl:/usr/bin/vendor_perl:/usr/bin/core_perl:/usr/lib/rustup/bin\nPWD: /home/kiwann\nSHELL: /usr/bin/bash\nVSCODE_CLI: 1\nVSCODE_CODE_CACHE_PATH: /home/kiwann/.config/Code/CachedData/04c0d99f4fb0d8afe6ce4f0c58e31e183ac3e4b1\nVSCODE_HANDLES_UNCAUGHT_ERRORS: true\nVSCODE_PID: 34608\nXDG_RUNTIME_DIR: /run/user/1000\nELECTRON_RUN_AS_NODE: 1\nDOTNET_CLI_UI_LANGUAGE: en-US\nDOTNET_NOLOGO: true\nDOTNET_MULTILEVEL_LOOKUP: 0\n","dotnetInstallToolCacheTtlMs":9000,"cwd":"/home/kiwann/.vscode/extensions/ms-dotnettools.vscode-dotnet-runtime-3.2.0/dist","shell":true,"encoding":"utf8"}.
+
+9/27/2026, 6:40:12 PM 460 GenericDotnetLockEvent
+Action: installedLk-760d7c5c-5b73-486c-b7e3-ffae1ebb89fb Lock acquired: /run/user/1000/vscd-installedLk.sock
+2026-09-27T11:40:12.459Z
+installedLk
+installedLk
+true
+
+9/27/2026, 6:40:12 PM 460 MarkedInstallInUse
+Session session-f02033896d marked /home/kiwann/.config/Code/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/10.0.12~x64~aspnetcore/dotnet as in use.
+Sessions: {"session-8fb01ad94f":["/home/kiwann/.config/Code/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/10.0.12~x64~aspnetcore/dotnet"],"session-45a331464e":["/home/kiwann/.config/Code/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/10.0.12~x64~aspnetcore/dotnet"],"session-62760c9f2f":["/home/kiwann/.config/Code/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/10.0.12~x64~aspnetcore/dotnet","/usr/share/dotnet/dotnet"],"session-1dc0332e20":["/home/kiwann/.config/Code/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/10.0.12~x64~aspnetcore/dotnet","/usr/share/dotnet/dotnet"],"session-d157b54e49":["/home/kiwann/.config/Code/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/10.0.12~x64~aspnetcore/dotnet"],"session-38f8e34825":["/home/kiwann/.config/Code/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/10.0.12~x64~aspnetcore/dotnet"],"session-a4fa2885f0":["/home/kiwann/.config/Code/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/10.0.12~x64~aspnetcore/dotnet"],"session-ebebfd7d2f":["/home/kiwann/.config/Code/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/10.0.12~x64~aspnetcore/dotnet"],"session-5aeb6e2d98":["/home/kiwann/.config/Code/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/10.0.12~x64~aspnetcore/dotnet"],"session-3b4dbfe263":["/home/kiwann/.config/Code/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/10.0.12~x64~aspnetcore/dotnet"],"session-1977088e04":["/home/kiwann/.config/Code/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/10.0.12~x64~aspnetcore/dotnet"],"session-4894f2db8c":["/home/kiwann/.config/Code/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/10.0.12~x64~aspnetcore/dotnet"],"session-2f37912c1c":["/home/kiwann/.config/Code/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/10.0.12~x64~aspnetcore/dotnet"],"session-0652cd8127":["/usr/share/dotnet/dotnet","/home/kiwann/.config/Code/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/10.0.12~x64~aspnetcore/dotnet"],"session-98dece620c":["/usr/share/dotnet/dotnet","/home/kiwann/.config/Code/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/10.0.12~x64~aspnetcore/dotnet"],"session-525fef1e73":["/usr/share/dotnet/dotnet","/home/kiwann/.config/Code/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/10.0.12~x64~aspnetcore/dotnet"],"session-5706f0f141":["/usr/share/dotnet/dotnet","/home/kiwann/.config/Code/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/10.0.12~x64~aspnetcore/dotnet"],"session-3456c1dba1":["/usr/share/dotnet/dotnet","/home/kiwann/.config/Code/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/10.0.12~x64~aspnetcore/dotnet"],"session-2908ed4210":["/usr/share/dotnet/dotnet","/home/kiwann/.config/Code/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/10.0.12~x64~aspnetcore/dotnet"],"session-5fc1a4e893":["/usr/share/dotnet/dotnet","/home/kiwann/.config/Code/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/10.0.12~x64~aspnetcore/dotnet"],"session-9d537e7331":["/usr/share/dotnet/dotnet","/home/kiwann/.config/Code/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/10.0.12~x64~aspnetcore/dotnet"],"session-f02033896d":["/usr/share/dotnet/dotnet","/home/kiwann/.config/Code/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/10.0.12~x64~aspnetcore/dotnet"]}
+
+9/27/2026, 6:40:12 PM 477 GenericDotnetLockEvent
+Action: installedLk-760d7c5c-5b73-486c-b7e3-ffae1ebb89fb Lock freed: /run/user/1000/vscd-installedLk.sock
+2026-09-27T11:40:12.477Z
+installedLk
+installedLk
+true
+
+9/27/2026, 6:40:12 PM 477 DotnetCommandSucceeded
+findPath
+
+9/27/2026, 6:40:12 PM 488 [80f56216-9cd6-4afe-9e66-f5ac9135848a] CommandExecutionTimer
+The command "/usr/share/dotnet/dotnet" --list-sdks --arch x64 took 39.86 ms to run.
+39.86
+ "/usr/share/dotnet/dotnet" --list-sdks --arch x64
+447e175f64e7f6b5fa8ac62b1fb89862ed5bf9eeb7de7af36a92eda396bf3f95
+
+9/27/2026, 6:40:12 PM 488 [80f56216-9cd6-4afe-9e66-f5ac9135848a] CommandExecutionStatusEvent
+The command "/usr/share/dotnet/dotnet" --list-sdks --arch x64 exited:
+0.
+
+9/27/2026, 6:40:12 PM 488 [80f56216-9cd6-4afe-9e66-f5ac9135848a] CommandExecutionStdOut
+The command "/usr/share/dotnet/dotnet" --list-sdks --arch x64 encountered stdout:
+10.0.112 [/usr/share/dotnet/sdk]
+
+
+9/27/2026, 6:40:12 PM 488 [80f56216-9cd6-4afe-9e66-f5ac9135848a] CommandExecutionStdError
+The command "/usr/share/dotnet/dotnet" --list-sdks --arch x64 encountered stderr:
+
+
+9/27/2026, 6:40:12 PM 489 [80f56216-9cd6-4afe-9e66-f5ac9135848a] CachePutEvent
+Adding to the cache at 2026-09-27T11:40:12.489Z
+"/usr/share/dotnet/dotnet" --list-sdks --arch x64{"cwd":"/home/kiwann/.vscode/extensions/ms-dotnettools.vscode-dotnet-runtime-3.2.0/dist","encoding":"utf8","env":"HOME: /home/kiwann\nLANG: en_US.UTF-8\nPATH: /usr/local/bin:/usr/bin:/bin:/usr/local/sbin:/opt/android-sdk/cmdline-tools/latest/bin:/var/lib/flatpak/exports/bin:/usr/lib/jvm/default/bin:/usr/bin/site_perl:/usr/bin/vendor_perl:/usr/bin/core_perl:/usr/lib/rustup/bin\nPWD: /home/kiwann\nSHELL: /usr/bin/bash\nVSCODE_CLI: 1\nVSCODE_CODE_CACHE_PATH: /home/kiwann/.config/Code/CachedData/04c0d99f4fb0d8afe6ce4f0c58e31e183ac3e4b1\nVSCODE_HANDLES_UNCAUGHT_ERRORS: true\nVSCODE_PID: 34608\nXDG_RUNTIME_DIR: /run/user/1000\nELECTRON_RUN_AS_NODE: 1\nDOTNET_CLI_UI_LANGUAGE: en-US\nDOTNET_NOLOGO: true\nDOTNET_MULTILEVEL_LOOKUP: 0\n","shell":true}
+{"stdout":"10.0.112 [/usr/share/dotnet/sdk]\n","stderr":"","status":"0"}
+9000
+true
+
+9/27/2026, 6:40:12 PM 489 [80f56216-9cd6-4afe-9e66-f5ac9135848a] CacheGetEvent
+Checking the cache at 2026-09-27T11:40:12.489Z
+"/usr/share/dotnet/dotnet" --list-runtimes --arch x64{"cwd":"/home/kiwann/.vscode/extensions/ms-dotnettools.vscode-dotnet-runtime-3.2.0/dist","encoding":"utf8","env":"HOME: /home/kiwann\nLANG: en_US.UTF-8\nPATH: /usr/local/bin:/usr/bin:/bin:/usr/local/sbin:/opt/android-sdk/cmdline-tools/latest/bin:/var/lib/flatpak/exports/bin:/usr/lib/jvm/default/bin:/usr/bin/site_perl:/usr/bin/vendor_perl:/usr/bin/core_perl:/usr/lib/rustup/bin\nPWD: /home/kiwann\nSHELL: /usr/bin/bash\nVSCODE_CLI: 1\nVSCODE_CODE_CACHE_PATH: /home/kiwann/.config/Code/CachedData/04c0d99f4fb0d8afe6ce4f0c58e31e183ac3e4b1\nVSCODE_HANDLES_UNCAUGHT_ERRORS: true\nVSCODE_PID: 34608\nXDG_RUNTIME_DIR: /run/user/1000\nELECTRON_RUN_AS_NODE: 1\nDOTNET_CLI_UI_LANGUAGE: en-US\nDOTNET_NOLOGO: true\nDOTNET_MULTILEVEL_LOOKUP: 0\n","shell":true}
+{"stdout":"Microsoft.NETCore.App 10.0.12 [/usr/share/dotnet/shared/Microsoft.NETCore.App]\n","stderr":"","status":"0"}
+true
+
+9/27/2026, 6:40:12 PM 489 [80f56216-9cd6-4afe-9e66-f5ac9135848a] FeatureBandDoesNotExist
+A feature band couldn't be determined for the requested version: 8.0.
+
+9/27/2026, 6:40:12 PM 490 [80f56216-9cd6-4afe-9e66-f5ac9135848a] FeatureBandDoesNotExist
+A feature band couldn't be determined for the requested version: 8.0.
+
+9/27/2026, 6:40:12 PM 490 [80f56216-9cd6-4afe-9e66-f5ac9135848a] DotnetConditionsValidated
+true
+/usr/share/dotnet/dotnet satisfies the conditions.
+
+9/27/2026, 6:40:12 PM 490 DotnetFindPathMetCondition
+/usr/share/dotnet/dotnet met the conditions.
+
+9/27/2026, 6:40:12 PM 490 GenericDotnetLockEvent
+Action: installedLk-5fd3d3f0-ea54-40d9-8f82-122854ee3220 Lock acquired: /run/user/1000/vscd-installedLk.sock
+2026-09-27T11:40:12.490Z
+installedLk
+installedLk
+true
+
+9/27/2026, 6:40:12 PM 490 MarkedInstallInUse
+Session session-f02033896d marked /usr/share/dotnet/dotnet as in use.
+Sessions: {"session-8fb01ad94f":["/home/kiwann/.config/Code/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/10.0.12~x64~aspnetcore/dotnet"],"session-45a331464e":["/home/kiwann/.config/Code/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/10.0.12~x64~aspnetcore/dotnet"],"session-62760c9f2f":["/home/kiwann/.config/Code/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/10.0.12~x64~aspnetcore/dotnet","/usr/share/dotnet/dotnet"],"session-1dc0332e20":["/home/kiwann/.config/Code/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/10.0.12~x64~aspnetcore/dotnet","/usr/share/dotnet/dotnet"],"session-d157b54e49":["/home/kiwann/.config/Code/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/10.0.12~x64~aspnetcore/dotnet"],"session-38f8e34825":["/home/kiwann/.config/Code/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/10.0.12~x64~aspnetcore/dotnet"],"session-a4fa2885f0":["/home/kiwann/.config/Code/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/10.0.12~x64~aspnetcore/dotnet"],"session-ebebfd7d2f":["/home/kiwann/.config/Code/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/10.0.12~x64~aspnetcore/dotnet"],"session-5aeb6e2d98":["/home/kiwann/.config/Code/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/10.0.12~x64~aspnetcore/dotnet"],"session-3b4dbfe263":["/home/kiwann/.config/Code/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/10.0.12~x64~aspnetcore/dotnet"],"session-1977088e04":["/home/kiwann/.config/Code/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/10.0.12~x64~aspnetcore/dotnet"],"session-4894f2db8c":["/home/kiwann/.config/Code/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/10.0.12~x64~aspnetcore/dotnet"],"session-2f37912c1c":["/home/kiwann/.config/Code/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/10.0.12~x64~aspnetcore/dotnet"],"session-0652cd8127":["/usr/share/dotnet/dotnet","/home/kiwann/.config/Code/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/10.0.12~x64~aspnetcore/dotnet"],"session-98dece620c":["/usr/share/dotnet/dotnet","/home/kiwann/.config/Code/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/10.0.12~x64~aspnetcore/dotnet"],"session-525fef1e73":["/usr/share/dotnet/dotnet","/home/kiwann/.config/Code/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/10.0.12~x64~aspnetcore/dotnet"],"session-5706f0f141":["/usr/share/dotnet/dotnet","/home/kiwann/.config/Code/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/10.0.12~x64~aspnetcore/dotnet"],"session-3456c1dba1":["/usr/share/dotnet/dotnet","/home/kiwann/.config/Code/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/10.0.12~x64~aspnetcore/dotnet"],"session-2908ed4210":["/usr/share/dotnet/dotnet","/home/kiwann/.config/Code/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/10.0.12~x64~aspnetcore/dotnet"],"session-5fc1a4e893":["/usr/share/dotnet/dotnet","/home/kiwann/.config/Code/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/10.0.12~x64~aspnetcore/dotnet"],"session-9d537e7331":["/usr/share/dotnet/dotnet","/home/kiwann/.config/Code/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/10.0.12~x64~aspnetcore/dotnet"],"session-f02033896d":["/usr/share/dotnet/dotnet","/home/kiwann/.config/Code/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/10.0.12~x64~aspnetcore/dotnet"]}
+
+9/27/2026, 6:40:12 PM 573 GenericDotnetLockEvent
+Action: installedLk-5fd3d3f0-ea54-40d9-8f82-122854ee3220 Lock freed: /run/user/1000/vscd-installedLk.sock
+2026-09-27T11:40:12.573Z
+installedLk
+installedLk
+true
+
+9/27/2026, 6:40:12 PM 573 DotnetCommandSucceeded
+findPath
+
+9/27/2026, 6:45:03 PM 150 GenericDotnetLockEvent
+Action: installedLk-a8112559-42dd-49a3-b2de-0a6fc5102a20 Lock acquired: /run/user/1000/vscd-installedLk.sock
+2026-09-27T11:45:03.150Z
+installedLk
+installedLk
+true
+
+9/27/2026, 6:45:03 PM 152 FoundTrackingVersions
+true
+installed :
+                        {"installId":"10.0.12~x64~aspnetcore","version":"10.0.12","architecture":"x64","isGlobal":false,"installMode":"aspnetcore"} owned by ms-dotnettools.csharp, dotnet-runtime-library, ms-dotnettools.csdevkit
+
+
+9/27/2026, 6:45:03 PM 152 GenericDotnetLockEvent
+Action: installedLk-a8112559-42dd-49a3-b2de-0a6fc5102a20 Lock freed: /run/user/1000/vscd-installedLk.sock
+2026-09-27T11:45:03.152Z
+installedLk
+installedLk
+true
+
+9/27/2026, 6:45:03 PM 152 UpdatingInstallGroups
+Automatic update triggered and detected the following install groups: [[{"mode":"aspnetcore","architecture":"x64","majorMinor":"10.0"},[{"dotnetInstall":{"installId":"10.0.12~x64~aspnetcore","version":"10.0.12","architecture":"x64","isGlobal":false,"installMode":"aspnetcore"},"installingExtensions":["ms-dotnettools.csharp","dotnet-runtime-library","ms-dotnettools.csdevkit"]}]]]
+
+9/27/2026, 6:45:03 PM 153 DotnetAcquisitionRequested
+10.0
+fe0bcfb547df7e433612160f21d323162769839b4b2e35033cf1c0724624f408
+
+9/27/2026, 6:45:03 PM 154 DotnetASPNetRuntimeAcquisitionRequested
+10.0
+fe0bcfb547df7e433612160f21d323162769839b4b2e35033cf1c0724624f408
+aspnetcore
+
+9/27/2026, 6:45:03 PM 155 [00b44471-7f0d-4ad4-b069-d6cacb3869ab] WebRequestInitiated
+Making Web Request For https://builds.dotnet.microsoft.com/dotnet/release-metadata/releases-index.json
+
+9/27/2026, 6:45:03 PM 156 [00b44471-7f0d-4ad4-b069-d6cacb3869ab] WebRequestSent
+https://builds.dotnet.microsoft.com/dotnet/release-metadata/releases-index.json
+
+9/27/2026, 6:45:03 PM 507 [00b44471-7f0d-4ad4-b069-d6cacb3869ab] WebRequestTime
+Timer for request:
+348.05
+true
+https:..builds.dotnet.microsoft.com.dotnet.release-metadata.releases-index.json
+200
+
+9/27/2026, 6:45:03 PM 508 [00b44471-7f0d-4ad4-b069-d6cacb3869ab] DotnetVersionResolutionCompleted
+10.0
+10.0.12
+
+9/27/2026, 6:45:03 PM 508 [00b44471-7f0d-4ad4-b069-d6cacb3869ab] DotnetInstallIdCreatedEvent
+true
+The requested version 10.0.12 is now marked under the install: {"installId":"10.0.12~x64~aspnetcore","version":"10.0.12","architecture":"x64","isGlobal":false,"installMode":"aspnetcore"}.
+
+9/27/2026, 6:45:03 PM 508 [00b44471-7f0d-4ad4-b069-d6cacb3869ab] GenericDotnetLockEvent
+Action: 10.0.12~x64~aspnetcore-f78db1ef-071d-46eb-8b7f-d563e654a4c1 Lock acquired: /run/user/1000/vscd-10.0.12~x64~aspnetcore.sock
+2026-09-27T11:45:03.508Z
+10.0.12~x64~aspnetcore
+10.0.12~x64~aspnetcore
+true
+
+9/27/2026, 6:45:03 PM 509 GenericDotnetLockEvent
+Action: installedLk-1a0bc80b-9c03-408f-be2c-e8bde4278762 Lock acquired: /run/user/1000/vscd-installedLk.sock
+2026-09-27T11:45:03.509Z
+installedLk
+installedLk
+true
+
+9/27/2026, 6:45:03 PM 510 FoundTrackingVersions
+true
+installed :
+                        {"installId":"10.0.12~x64~aspnetcore","version":"10.0.12","architecture":"x64","isGlobal":false,"installMode":"aspnetcore"} owned by ms-dotnettools.csharp, dotnet-runtime-library, ms-dotnettools.csdevkit
+
+
+9/27/2026, 6:45:03 PM 511 GenericDotnetLockEvent
+Action: installedLk-1a0bc80b-9c03-408f-be2c-e8bde4278762 Lock freed: /run/user/1000/vscd-installedLk.sock
+2026-09-27T11:45:03.511Z
+installedLk
+installedLk
+false
+
+9/27/2026, 6:45:03 PM 511 [00b44471-7f0d-4ad4-b069-d6cacb3869ab] DotnetInstallationValidated
+10.0.12~x64~aspnetcore
+10.0.12~x64~aspnetcore
+10.0.12
+x64
+false
+aspnetcore
+
+9/27/2026, 6:45:03 PM 512 [00b44471-7f0d-4ad4-b069-d6cacb3869ab] CacheGetEvent
+Checking the cache at 2026-09-27T11:45:03.512Z
+"/home/kiwann/.config/Code/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/10.0.12~x64~aspnetcore/dotnet" --list-runtimes --arch x64{"cwd":"/home/kiwann/.vscode/extensions/ms-dotnettools.vscode-dotnet-runtime-3.2.0/dist","encoding":"utf8","env":"HOME: /home/kiwann\nLANG: en_US.UTF-8\nPATH: /usr/local/bin:/usr/bin:/bin:/usr/local/sbin:/opt/android-sdk/cmdline-tools/latest/bin:/var/lib/flatpak/exports/bin:/usr/lib/jvm/default/bin:/usr/bin/site_perl:/usr/bin/vendor_perl:/usr/bin/core_perl:/usr/lib/rustup/bin\nPWD: /home/kiwann\nSHELL: /usr/bin/bash\nVSCODE_CLI: 1\nVSCODE_CODE_CACHE_PATH: /home/kiwann/.config/Code/CachedData/04c0d99f4fb0d8afe6ce4f0c58e31e183ac3e4b1\nVSCODE_HANDLES_UNCAUGHT_ERRORS: true\nVSCODE_PID: 34608\nXDG_RUNTIME_DIR: /run/user/1000\nELECTRON_RUN_AS_NODE: 1\nDOTNET_CLI_UI_LANGUAGE: en-US\nDOTNET_NOLOGO: true\nDOTNET_MULTILEVEL_LOOKUP: 0\n","shell":true}
+undefined
+true
+
+9/27/2026, 6:45:03 PM 512 [00b44471-7f0d-4ad4-b069-d6cacb3869ab] CommandExecutionEvent
+Executing command "/home/kiwann/.config/Code/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/10.0.12~x64~aspnetcore/dotnet" --list-runtimes --arch x64 with options {"env":"HOME: /home/kiwann\nLANG: en_US.UTF-8\nPATH: /usr/local/bin:/usr/bin:/bin:/usr/local/sbin:/opt/android-sdk/cmdline-tools/latest/bin:/var/lib/flatpak/exports/bin:/usr/lib/jvm/default/bin:/usr/bin/site_perl:/usr/bin/vendor_perl:/usr/bin/core_perl:/usr/lib/rustup/bin\nPWD: /home/kiwann\nSHELL: /usr/bin/bash\nVSCODE_CLI: 1\nVSCODE_CODE_CACHE_PATH: /home/kiwann/.config/Code/CachedData/04c0d99f4fb0d8afe6ce4f0c58e31e183ac3e4b1\nVSCODE_HANDLES_UNCAUGHT_ERRORS: true\nVSCODE_PID: 34608\nXDG_RUNTIME_DIR: /run/user/1000\nELECTRON_RUN_AS_NODE: 1\nDOTNET_CLI_UI_LANGUAGE: en-US\nDOTNET_NOLOGO: true\nDOTNET_MULTILEVEL_LOOKUP: 0\n","dotnetInstallToolCacheTtlMs":9000,"cwd":"/home/kiwann/.vscode/extensions/ms-dotnettools.vscode-dotnet-runtime-3.2.0/dist","shell":true,"encoding":"utf8"}.
+
+9/27/2026, 6:45:03 PM 524 [00b44471-7f0d-4ad4-b069-d6cacb3869ab] CommandExecutionTimer
+The command "/home/kiwann/.config/Code/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/10.0.12~x64~aspnetcore/dotnet" --list-runtimes --arch x64 took 11.91 ms to run.
+11.91
+ "/home/kiwann/.config/Code/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/10.0.12~x64~aspnetcore/dotnet" --list-runtimes --arch x64
+272ee3a351318318b2b3d52d98b4e70d7804cd25ad10a0a9f8ab9ceca8ec71a1
+
+9/27/2026, 6:45:03 PM 524 [00b44471-7f0d-4ad4-b069-d6cacb3869ab] CommandExecutionStatusEvent
+The command "/home/kiwann/.config/Code/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/10.0.12~x64~aspnetcore/dotnet" --list-runtimes --arch x64 exited:
+0.
+
+9/27/2026, 6:45:03 PM 524 [00b44471-7f0d-4ad4-b069-d6cacb3869ab] CommandExecutionStdOut
+The command "/home/kiwann/.config/Code/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/10.0.12~x64~aspnetcore/dotnet" --list-runtimes --arch x64 encountered stdout:
+Microsoft.AspNetCore.App 10.0.12 [/home/kiwann/.config/Code/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/10.0.12~x64~aspnetcore/shared/Microsoft.AspNetCore.App]
+Microsoft.NETCore.App 10.0.12 [/home/kiwann/.config/Code/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/10.0.12~x64~aspnetcore/shared/Microsoft.NETCore.App]
+
+
+9/27/2026, 6:45:03 PM 524 [00b44471-7f0d-4ad4-b069-d6cacb3869ab] CommandExecutionStdError
+The command "/home/kiwann/.config/Code/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/10.0.12~x64~aspnetcore/dotnet" --list-runtimes --arch x64 encountered stderr:
+
+
+9/27/2026, 6:45:03 PM 525 [00b44471-7f0d-4ad4-b069-d6cacb3869ab] CachePutEvent
+Adding to the cache at 2026-09-27T11:45:03.525Z
+"/home/kiwann/.config/Code/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/10.0.12~x64~aspnetcore/dotnet" --list-runtimes --arch x64{"cwd":"/home/kiwann/.vscode/extensions/ms-dotnettools.vscode-dotnet-runtime-3.2.0/dist","encoding":"utf8","env":"HOME: /home/kiwann\nLANG: en_US.UTF-8\nPATH: /usr/local/bin:/usr/bin:/bin:/usr/local/sbin:/opt/android-sdk/cmdline-tools/latest/bin:/var/lib/flatpak/exports/bin:/usr/lib/jvm/default/bin:/usr/bin/site_perl:/usr/bin/vendor_perl:/usr/bin/core_perl:/usr/lib/rustup/bin\nPWD: /home/kiwann\nSHELL: /usr/bin/bash\nVSCODE_CLI: 1\nVSCODE_CODE_CACHE_PATH: /home/kiwann/.config/Code/CachedData/04c0d99f4fb0d8afe6ce4f0c58e31e183ac3e4b1\nVSCODE_HANDLES_UNCAUGHT_ERRORS: true\nVSCODE_PID: 34608\nXDG_RUNTIME_DIR: /run/user/1000\nELECTRON_RUN_AS_NODE: 1\nDOTNET_CLI_UI_LANGUAGE: en-US\nDOTNET_NOLOGO: true\nDOTNET_MULTILEVEL_LOOKUP: 0\n","shell":true}
+{"stdout":"Microsoft.AspNetCore.App 10.0.12 [/home/kiwann/.config/Code/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/10.0.12~x64~aspnetcore/shared/Microsoft.AspNetCore.App]\nMicrosoft.NETCore.App 10.0.12 [/home/kiwann/.config/Code/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/10.0.12~x64~aspnetcore/shared/Microsoft.NETCore.App]\n","stderr":"","status":"0"}
+9000
+true
+
+9/27/2026, 6:45:03 PM 525 [00b44471-7f0d-4ad4-b069-d6cacb3869ab] CacheGetEvent
+Checking the cache at 2026-09-27T11:45:03.525Z
+"/home/kiwann/.config/Code/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/10.0.12~x64~aspnetcore/dotnet" --list-runtimes --arch x64{"cwd":"/home/kiwann/.vscode/extensions/ms-dotnettools.vscode-dotnet-runtime-3.2.0/dist","encoding":"utf8","env":"HOME: /home/kiwann\nLANG: en_US.UTF-8\nPATH: /usr/local/bin:/usr/bin:/bin:/usr/local/sbin:/opt/android-sdk/cmdline-tools/latest/bin:/var/lib/flatpak/exports/bin:/usr/lib/jvm/default/bin:/usr/bin/site_perl:/usr/bin/vendor_perl:/usr/bin/core_perl:/usr/lib/rustup/bin\nPWD: /home/kiwann\nSHELL: /usr/bin/bash\nVSCODE_CLI: 1\nVSCODE_CODE_CACHE_PATH: /home/kiwann/.config/Code/CachedData/04c0d99f4fb0d8afe6ce4f0c58e31e183ac3e4b1\nVSCODE_HANDLES_UNCAUGHT_ERRORS: true\nVSCODE_PID: 34608\nXDG_RUNTIME_DIR: /run/user/1000\nELECTRON_RUN_AS_NODE: 1\nDOTNET_CLI_UI_LANGUAGE: en-US\nDOTNET_NOLOGO: true\nDOTNET_MULTILEVEL_LOOKUP: 0\n","shell":true}
+{"stdout":"Microsoft.AspNetCore.App 10.0.12 [/home/kiwann/.config/Code/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/10.0.12~x64~aspnetcore/shared/Microsoft.AspNetCore.App]\nMicrosoft.NETCore.App 10.0.12 [/home/kiwann/.config/Code/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/10.0.12~x64~aspnetcore/shared/Microsoft.NETCore.App]\n","stderr":"","status":"0"}
+true
+
+9/27/2026, 6:45:03 PM 525 [00b44471-7f0d-4ad4-b069-d6cacb3869ab] DotnetConditionsValidated
+true
+/home/kiwann/.config/Code/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/10.0.12~x64~aspnetcore/dotnet satisfies the conditions.
+
+9/27/2026, 6:45:03 PM 525 [00b44471-7f0d-4ad4-b069-d6cacb3869ab] DotnetAcquisitionAlreadyInstalled
+10.0.12~x64~aspnetcore
+10.0.12
+x64
+false
+aspnetcore
+fe0bcfb547df7e433612160f21d323162769839b4b2e35033cf1c0724624f408
+
+9/27/2026, 6:45:03 PM 526 GenericDotnetLockEvent
+Action: installedLk-cef5568e-fa3b-4aca-81a7-2d8dad43017e Lock acquired: /run/user/1000/vscd-installedLk.sock
+2026-09-27T11:45:03.526Z
+installedLk
+installedLk
+true
+
+9/27/2026, 6:45:03 PM 526 AddTrackingVersions
+true
+Adding {"installId":"10.0.12~x64~aspnetcore","version":"10.0.12","architecture":"x64","isGlobal":false,"installMode":"aspnetcore"} with id 10.0.12~x64~aspnetcore from the state.
+
+9/27/2026, 6:45:03 PM 526 [00b44471-7f0d-4ad4-b069-d6cacb3869ab] DotnetInstallationValidated
+10.0.12~x64~aspnetcore
+10.0.12~x64~aspnetcore
+10.0.12
+x64
+false
+aspnetcore
+
+9/27/2026, 6:45:03 PM 526 MarkedInstallInUse
+Session session-f02033896d marked /home/kiwann/.config/Code/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/10.0.12~x64~aspnetcore/dotnet as in use.
+Sessions: {"session-8fb01ad94f":["/home/kiwann/.config/Code/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/10.0.12~x64~aspnetcore/dotnet"],"session-45a331464e":["/home/kiwann/.config/Code/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/10.0.12~x64~aspnetcore/dotnet"],"session-62760c9f2f":["/home/kiwann/.config/Code/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/10.0.12~x64~aspnetcore/dotnet","/usr/share/dotnet/dotnet"],"session-1dc0332e20":["/home/kiwann/.config/Code/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/10.0.12~x64~aspnetcore/dotnet","/usr/share/dotnet/dotnet"],"session-d157b54e49":["/home/kiwann/.config/Code/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/10.0.12~x64~aspnetcore/dotnet"],"session-38f8e34825":["/home/kiwann/.config/Code/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/10.0.12~x64~aspnetcore/dotnet"],"session-a4fa2885f0":["/home/kiwann/.config/Code/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/10.0.12~x64~aspnetcore/dotnet"],"session-ebebfd7d2f":["/home/kiwann/.config/Code/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/10.0.12~x64~aspnetcore/dotnet"],"session-5aeb6e2d98":["/home/kiwann/.config/Code/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/10.0.12~x64~aspnetcore/dotnet"],"session-3b4dbfe263":["/home/kiwann/.config/Code/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/10.0.12~x64~aspnetcore/dotnet"],"session-1977088e04":["/home/kiwann/.config/Code/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/10.0.12~x64~aspnetcore/dotnet"],"session-4894f2db8c":["/home/kiwann/.config/Code/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/10.0.12~x64~aspnetcore/dotnet"],"session-2f37912c1c":["/home/kiwann/.config/Code/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/10.0.12~x64~aspnetcore/dotnet"],"session-0652cd8127":["/usr/share/dotnet/dotnet","/home/kiwann/.config/Code/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/10.0.12~x64~aspnetcore/dotnet"],"session-98dece620c":["/usr/share/dotnet/dotnet","/home/kiwann/.config/Code/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/10.0.12~x64~aspnetcore/dotnet"],"session-525fef1e73":["/usr/share/dotnet/dotnet","/home/kiwann/.config/Code/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/10.0.12~x64~aspnetcore/dotnet"],"session-5706f0f141":["/usr/share/dotnet/dotnet","/home/kiwann/.config/Code/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/10.0.12~x64~aspnetcore/dotnet"],"session-3456c1dba1":["/usr/share/dotnet/dotnet","/home/kiwann/.config/Code/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/10.0.12~x64~aspnetcore/dotnet"],"session-2908ed4210":["/usr/share/dotnet/dotnet","/home/kiwann/.config/Code/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/10.0.12~x64~aspnetcore/dotnet"],"session-5fc1a4e893":["/usr/share/dotnet/dotnet","/home/kiwann/.config/Code/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/10.0.12~x64~aspnetcore/dotnet"],"session-9d537e7331":["/usr/share/dotnet/dotnet","/home/kiwann/.config/Code/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/10.0.12~x64~aspnetcore/dotnet"],"session-f02033896d":["/usr/share/dotnet/dotnet","/home/kiwann/.config/Code/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/10.0.12~x64~aspnetcore/dotnet"]}
+
+9/27/2026, 6:45:03 PM 530 FoundTrackingVersions
+true
+installed :
+                        {"installId":"10.0.12~x64~aspnetcore","version":"10.0.12","architecture":"x64","isGlobal":false,"installMode":"aspnetcore"} owned by ms-dotnettools.csharp, dotnet-runtime-library, ms-dotnettools.csdevkit
+
+
+9/27/2026, 6:45:03 PM 530 AddTrackingVersions
+true
+Updated installed :
+{"installId":"10.0.12~x64~aspnetcore","version":"10.0.12","architecture":"x64","isGlobal":false,"installMode":"aspnetcore"} owned by ms-dotnettools.csharp, dotnet-runtime-library, ms-dotnettools.csdevkit
+ 
+
+9/27/2026, 6:45:03 PM 532 GenericDotnetLockEvent
+Action: installedLk-cef5568e-fa3b-4aca-81a7-2d8dad43017e Lock freed: /run/user/1000/vscd-installedLk.sock
+2026-09-27T11:45:03.532Z
+installedLk
+installedLk
+true
+
+9/27/2026, 6:45:03 PM 532 [00b44471-7f0d-4ad4-b069-d6cacb3869ab] GenericDotnetLockEvent
+Action: 10.0.12~x64~aspnetcore-f78db1ef-071d-46eb-8b7f-d563e654a4c1 Lock freed: /run/user/1000/vscd-10.0.12~x64~aspnetcore.sock
+2026-09-27T11:45:03.532Z
+10.0.12~x64~aspnetcore
+10.0.12~x64~aspnetcore
+true
+
+9/27/2026, 6:45:03 PM 532 DotnetCommandSucceeded
+acquire
+
+9/27/2026, 6:45:03 PM 533 DotnetAcquisitionTotalSuccessEvent
+10.0.12
+10.0.12~x64~aspnetcore
+10.0.12~x64~aspnetcore
+10.0.12
+x64
+false
+aspnetcore
+fe0bcfb547df7e433612160f21d323162769839b4b2e35033cf1c0724624f408
+/home/kiwann/.config/Code/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/10.0.12~x64~aspnetcore/dotnet
+
+9/27/2026, 6:45:03 PM 533 DotnetASPNetRuntimeAcquisitionTotalSuccessEvent
+10.0.12~x64~aspnetcore
+10.0.12
+x64
+false
+aspnetcore
+
+9/27/2026, 6:45:03 PM 533 GenericDotnetLockEvent
+Action: installedLk-706d8a96-6c44-46c6-ae13-c0c94636229a Lock acquired: /run/user/1000/vscd-installedLk.sock
+2026-09-27T11:45:03.533Z
+installedLk
+installedLk
+false
+
+9/27/2026, 6:45:03 PM 535 FoundTrackingVersions
+true
+installed :
+                        {"installId":"10.0.12~x64~aspnetcore","version":"10.0.12","architecture":"x64","isGlobal":false,"installMode":"aspnetcore"} owned by ms-dotnettools.csharp, dotnet-runtime-library, ms-dotnettools.csdevkit
+
+
+9/27/2026, 6:45:03 PM 535 GenericDotnetLockEvent
+Action: installedLk-706d8a96-6c44-46c6-ae13-c0c94636229a Lock freed: /run/user/1000/vscd-installedLk.sock
+2026-09-27T11:45:03.535Z
+installedLk
+installedLk
+true
+
+9/27/2026, 6:45:03 PM 535 GenericDotnetLockEvent
+Action: installedLk-644c763f-443a-4067-aabf-65c7784ee6b9 Lock acquired: /run/user/1000/vscd-installedLk.sock
+2026-09-27T11:45:03.535Z
+installedLk
+installedLk
+true
+
+9/27/2026, 6:45:03 PM 537 FoundTrackingVersions
+true
+installed :
+                        {"installId":"10.0.12~x64~aspnetcore","version":"10.0.12","architecture":"x64","isGlobal":false,"installMode":"aspnetcore"} owned by ms-dotnettools.csharp, dotnet-runtime-library, ms-dotnettools.csdevkit
+
+
+9/27/2026, 6:45:03 PM 537 AddTrackingVersions
+true
+Adding owners ms-dotnettools.csharp, dotnet-runtime-library, ms-dotnettools.csdevkit to existing install record {"installId":"10.0.12~x64~aspnetcore","version":"10.0.12","architecture":"x64","isGlobal":"false","installMode":"aspnetcore"}
+
+9/27/2026, 6:45:03 PM 539 GenericDotnetLockEvent
+Action: installedLk-644c763f-443a-4067-aabf-65c7784ee6b9 Lock freed: /run/user/1000/vscd-installedLk.sock
+2026-09-27T11:45:03.539Z
+installedLk
+installedLk
+true
+
+9/27/2026, 6:45:03 PM 539 UninstallingOutdatedInstalls
+The installs [] are outdated - attempting to uninstall. The latest install was {"dotnetInstall":{"installId":"10.0.12~x64~aspnetcore","version":"10.0.12","architecture":"x64","isGlobal":false,"installMode":"aspnetcore"},"installingExtensions":["ms-dotnettools.csharp","dotnet-runtime-library","ms-dotnettools.csdevkit"]}
+

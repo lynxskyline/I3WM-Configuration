@@ -1,0 +1,11 @@
+2026-09-27 18:39:57.210 [info] StorageMainService: creating application shared storage
+2026-09-27 18:39:57.478 [info] [shared storage] Creating shared storage database at '/home/kiwann/.vscode-shared/sharedStorage/state.vscdb' (wasCreated: false)
+2026-09-27 18:39:57.479 [info] [shared storage] Initializing fallback application storage (path: /home/kiwann/.config/Code/User/globalStorage/state.vscdb)
+2026-09-27 18:39:57.570 [info] [shared storage] Fallback application storage initialized with 175 items
+2026-09-27 18:39:59.114 [info] update#setState idle
+2026-09-27 18:39:59.169 [info] AgentHostProcessManager: agent host started
+2026-09-27 18:39:59.813 [error] [AgentHost:stderr] (node:34714) [DEP0169] DeprecationWarning: `url.parse()` behavior is not standardized and prone to errors that have security implications. Use the WHATWG URL API instead. CVEs are not issued for `url.parse()` vulnerabilities.
+(Use `exe --trace-deprecation ...` to show where the warning was created)
+
+2026-09-27 18:40:29.116 [info] update#setState checking for updates
+2026-09-27 18:40:29.170 [info] update#setState idle

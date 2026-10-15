@@ -1,0 +1,30 @@
+2026-09-27 18:40:07.061 [info] Locating .NET runtime version 10.0.5
+2026-09-27 18:40:12.487 [info] Dotnet path: /home/kiwann/.config/Code/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/10.0.12~x64~aspnetcore/dotnet
+2026-09-27 18:40:12.487 [info] Activating C# + C# Dev Kit...
+2026-09-27 18:40:13.488 [info] info: Program[0]
+2026-09-27 18:40:13.488 [info]       Server information:
+2026-09-27 18:40:13.489 [info] info: Program[0]
+2026-09-27 18:40:13.489 [info]         Assembly informational version: 5.12.0-1.26452.1+e42c0e42e89e41522593d0816707e71781ecbee2
+2026-09-27 18:40:13.489 [info] info: Program[0]
+2026-09-27 18:40:13.489 [info]         Executable path: /home/kiwann/.vscode/extensions/ms-dotnettools.csharp-2.160.4-linux-x64/.roslyn/Microsoft.CodeAnalysis.LanguageServer
+2026-09-27 18:40:13.489 [info] info: Program[0]
+2026-09-27 18:40:13.489 [info]         Process ID: 35856
+2026-09-27 18:40:16.095 [info] info: Program[0]
+2026-09-27 18:40:16.096 [info]       Monitoring client process 34757 for exit
+2026-09-27 18:40:16.096 [info] info: Program[0]
+2026-09-27 18:40:16.096 [info]       Language server initialized
+2026-09-27 18:40:18.245 [info] [initialized] [Microsoft.CodeAnalysis.LanguageServer.FileBasedPrograms.FileBasedProgramsEntryPointDiscovery] Finished discovery in '/home/kiwann/learning' in 23 milliseconds
+2026-09-27 18:40:18.381 [info] [Razor.LanguageClient.Cohost.RazorCohostDynamicRegistrationService] Requesting 27 Razor cohost registrations.
+2026-09-27 18:40:18.410 [info] [initialized] [Razor]  Razor extension startup finished.
+2026-09-27 18:40:19.752 [info] [textDocument/_vs_getProjectContexts] [Microsoft.CodeAnalysis.MSBuild.BuildHostProcessManager] .NET BuildHost started from /home/kiwann/.vscode/extensions/ms-dotnettools.csharp-2.160.4-linux-x64/.roslyn/Microsoft.CodeAnalysis.LanguageServer reloading to start from /usr/share/dotnet/dotnet to match necessary SDK location.
+2026-09-27 18:40:23.210 [warning] [textDocument/_vs_getProjectContexts] [FileBasedProgramsProjectSystem] Project /tmp/roslyn-canonical-misc/e228126a-a158-4ece-b12d-6e536dc43379/Canonical.csproj has unresolved dependencies
+2026-09-27 18:40:23.562 [info] [textDocument/_vs_getProjectContexts] [FileBasedProgramsProjectSystem] Successfully completed load of /home/kiwann/learning/main.cs
+2026-09-27 18:40:23.564 [info] [textDocument/_vs_getProjectContexts] [FileBasedProgramsProjectSystem] Completed (re)load of 1 project(s) in 00:00:04.4906626
+2026-09-27 18:40:23.581 [info] [WorkspaceProjectFactoryService] Project /home/kiwann/learning/learn-C#/learn-C#.csproj loaded by C# Dev Kit
+2026-09-27 18:40:23.668 [info] [textDocument/_vs_getProjectContexts] [FileBasedProgramsProjectSystem] Restoring Canonical.csproj: Running dotnet restore on /tmp/roslyn-canonical-misc/e228126a-a158-4ece-b12d-6e536dc43379/Canonical.csproj
+2026-09-27 18:40:23.668 [info] [textDocument/_vs_getProjectContexts] [.NET CLI Helper] Using dotnet executable configured on the PATH
+2026-09-27 18:40:25.077 [info] [textDocument/_vs_getProjectContexts] [FileBasedProgramsProjectSystem] Restoring Canonical.csproj:   Determining projects to restore...
+2026-09-27 18:40:29.816 [info] [textDocument/_vs_getProjectContexts] [FileBasedProgramsProjectSystem] Restoring Canonical.csproj:   Restored /tmp/roslyn-canonical-misc/e228126a-a158-4ece-b12d-6e536dc43379/Canonical.csproj (in 3.73 sec).
+2026-09-27 18:40:29.840 [info] [textDocument/_vs_getProjectContexts] [FileBasedProgramsProjectSystem] Restore complete
+2026-09-27 18:40:30.316 [info] [workspace/didChangeWatchedFiles] [FileBasedProgramsProjectSystem] Successfully completed load of /home/kiwann/learning/main.cs
+2026-09-27 18:40:30.317 [info] [workspace/didChangeWatchedFiles] [FileBasedProgramsProjectSystem] Completed (re)load of 1 project(s) in 00:00:00.0042440

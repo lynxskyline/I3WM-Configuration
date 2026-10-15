@@ -1,0 +1,27 @@
+{
+    "redhat.telemetry.enabled": true,
+    "files.autoSave": "afterDelay",
+    "workbench.iconTheme": "material-icon-theme",
+    "workbench.colorTheme": "Catppuccin Mocha",
+    "workbench.startupEditor": "none",
+    "editor.fontSize": 15,
+    "extensions.experimental.affinity": {
+        "asvetliakov.vscode-neovim": 1
+    },
+    "explorer.confirmDelete": false,
+    "github.copilot.nextEditSuggestions.enabled": true,
+    "C_Cpp.intelliSenseEngine": "disabled",
+    "github.copilot.enable": {
+        "*": false,
+        "plaintext": false,
+        "markdown": false,
+        "scminput": false,
+        "c": false
+    },
+    "github.copilot.nextEditSuggestions.eagerness": "low",
+    "editor.autoClosingBrackets": "always",
+    "C_Cpp.autocompleteAddParentheses": true,
+    "editor.autoClosingComments": "always",
+    "editor.autoClosingQuotes": "always",
+    "files.autoGuessEncoding": true
+}

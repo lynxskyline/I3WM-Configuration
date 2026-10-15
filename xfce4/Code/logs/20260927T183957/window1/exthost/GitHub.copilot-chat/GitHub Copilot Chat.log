@@ -1,0 +1,47 @@
+2026-09-27 18:40:10.904 [info] [GitExtensionServiceImpl] Initializing Git extension service.
+2026-09-27 18:40:10.904 [info] FetcherService: Experimentation service not available yet, using default fetcher configuration.
+2026-09-27 18:40:10.904 [info] Using the Electron fetcher.
+2026-09-27 18:40:10.904 [info] [GitExtensionServiceImpl] Successfully activated the vscode.git extension.
+2026-09-27 18:40:10.904 [info] [GitExtensionServiceImpl] Enablement state of the vscode.git extension: true.
+2026-09-27 18:40:10.904 [info] [GitExtensionServiceImpl] Successfully registered Git commit message provider.
+2026-09-27 18:40:11.248 [info] ConversationFeature: Waiting for copilot token or BYOK model to activate conversation feature
+2026-09-27 18:40:12.097 [info] [CopilotCLI] OpenTelemetry enabled: exporter=file, source=github.copilot
+2026-09-27 18:40:12.179 [info] [CopilotCLIChatSessionContentProvider] listSessions took 122.79550899999958ms
+2026-09-27 18:40:12.179 [info] [CopilotCLIChatSessionContentProvider] listSessions took 40.49763399999938ms
+2026-09-27 18:40:12.188 [info] Logged in as lynxskyline
+2026-09-27 18:40:12.265 [info] [CopilotCLI] MCP server started. Lock file: /home/kiwann/.copilot/ide/3c3c9c5d-c6ec-44d7-959c-a086c5abdde4.lock
+2026-09-27 18:40:12.265 [info] [CopilotCLI] Server URI: unix:/tmp/mcp-0tvRYL/mcp.sock#%2Fmcp
+2026-09-27 18:40:13.860 [info] Got Copilot token for lynxskyline
+2026-09-27 18:40:14.198 [info] Copilot Chat: 0.67.0, VS Code: 1.139.1
+2026-09-27 18:40:14.490 [info] copilot token sku: free_limited_copilot
+2026-09-27 18:40:14.490 [info] ConversationFeature: Activating contributions
+2026-09-27 18:40:14.490 [info] GitHub.vscode-pull-request-github extension is not yet activated.
+2026-09-27 18:40:14.496 [info] Registering default platform agent...
+2026-09-27 18:40:14.523 [info] copilot token sku: free_limited_copilot
+2026-09-27 18:40:14.523 [info] [code-referencing] Public code references are enabled.
+2026-09-27 18:40:14.524 [info] copilot token sku: free_limited_copilot
+2026-09-27 18:40:14.524 [info] [code-referencing] Public code references are enabled.
+2026-09-27 18:40:14.525 [info] copilot token sku: free_limited_copilot
+2026-09-27 18:40:14.525 [info] [code-referencing] Public code references are enabled.
+2026-09-27 18:40:14.525 [info] copilot token sku: free_limited_copilot
+2026-09-27 18:40:14.525 [info] [code-referencing] Public code references are enabled.
+2026-09-27 18:40:14.525 [info] copilot token sku: free_limited_copilot
+2026-09-27 18:40:14.525 [info] [code-referencing] Public code references are enabled.
+2026-09-27 18:40:14.525 [info] copilot token sku: free_limited_copilot
+2026-09-27 18:40:14.525 [info] [code-referencing] Public code references are enabled.
+2026-09-27 18:40:14.531 [info] activationBlocker from 'conversationFeature' took for 3368ms
+2026-09-27 18:40:14.532 [info] AuthenticationService: firing onDidAuthenticationChange from handleAuthChangeEvent identity change. Has token: true
+2026-09-27 18:40:14.532 [info] copilot token sku: free_limited_copilot
+2026-09-27 18:40:14.544 [info] BYOK: registered 9 provider(s): ollama, anthropic, gemini, xai, openai, openrouter, azure, customoai, customendpoint
+2026-09-27 18:40:14.544 [info] BYOK: fetching known models list
+2026-09-27 18:40:14.545 [info] [context keys] Setting context key: github.copilot-chat.activated
+2026-09-27 18:40:14.698 [info] GithubAvailableEmbeddingTypesManager: Got embeddings. Primary: metis-1024-I16-Binary. Deprecated: 
+2026-09-27 18:40:14.701 [info] WorkspaceChunkSearchService: using embedding type metis-1024-I16-Binary
+2026-09-27 18:40:14.703 [info] activationBlocker from 'languageModelAccess' took for 3557ms
+2026-09-27 18:40:14.851 [info] BYOK: Copilot Chat known models list fetched successfully.
+2026-09-27 18:40:15.090 [error] Failed to create database. Falling back to in-memory db: Error: unable to open database file
+2026-09-27 18:40:15.661 [info] Fetched model metadata in 4494ms fb9d97c9-7294-4a8e-9fc3-7ab88cf5cfa8
+2026-09-27 18:40:16.226 [info] Latest entry: ccreq:latest.copilotmd
+2026-09-27 18:40:16.227 [info] ccreq:268ae78f.copilotmd | markdown
+2026-09-27 18:40:16.292 [info] ConversationFeature: BYOK models available
+2026-09-27 18:40:16.293 [info] copilot token sku: free_limited_copilot

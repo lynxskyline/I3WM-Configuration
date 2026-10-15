@@ -1,0 +1,28 @@
+2026-09-27 18:40:06.801 [info] The C# extension version 2.160.4 installed at '/home/kiwann/.vscode/extensions/ms-dotnettools.csharp-2.160.4-linux-x64'.
+2026-09-27 18:40:06.988 [info] SDK install view suppressed by user setting
+2026-09-27 18:40:07.005 [info] Default solution: 
+2026-09-27 18:40:10.335 [info] Not in internal population; skipping registration of 'Upgrade Agent extension installation'.
+2026-09-27 18:40:10.850 [info] Starting: Opening a solution
+2026-09-27 18:40:10.850 [info] Starting: collecting .csproj files in the workspace in C# Dev Kit server
+2026-09-27 18:40:10.850 [info] Checking if the opened file is a solution filter: null
+2026-09-27 18:40:10.863 [info] Starting: Spawn .NET server
+2026-09-27 18:40:10.863 [info] Using dotnet resolution provided by ".NET Install Tool"
+2026-09-27 18:40:12.444 [info] Using acquired .NET runtime at "/home/kiwann/.config/Code/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/10.0.12~x64~aspnetcore/dotnet"
+2026-09-27 18:40:12.574 [info] .NET SDK found: "/usr/share/dotnet/dotnet"
+2026-09-27 18:40:14.794 [info] Workspace folder: "/home/kiwann/learning" requires SDK version: 10.0.112
+2026-09-27 18:40:14.796 [info] ASP.NET runtime found, using ASP.NET runtimeconfig for project system host.
+2026-09-27 18:40:17.600 [info] vs-green server PID: 35883
+2026-09-27 18:40:17.600 [info] .NET server started and IPC established in 2803ms
+2026-09-27 18:40:17.608 [info] Completed: Spawn .NET server (6751ms)
+2026-09-27 18:40:17.793 [info] The .NET SDK version does not support 'dotnet tool execute', which is required for the NuGet MCP server.
+2026-09-27 18:40:17.793 [info] Registrar for 'NuGet MCP server' returned no disposable; nothing was tracked.
+2026-09-27 18:40:18.529 [info] Completed: collecting .csproj files in the workspace in C# Dev Kit server (7680ms)
+2026-09-27 18:40:18.556 [info] Starting: Restoring NuGet packages
+2026-09-27 18:40:18.556 [info] Selected configuration: <Default>, active configuration: Debug|Any CPU
+2026-09-27 18:40:18.556 [info] Completed: Opening a solution (7708ms)
+2026-09-27 18:40:18.581 [info] Starting: command: "/usr/share/dotnet/dotnet" restore /home/kiwann/.config/Code/User/workspaceStorage/e83f4bbd421bdf4d30cb137dc0b37e26/ms-dotnettools.csdevkit/learning.sln --interactive --nodereuse:false
+2026-09-27 18:40:20.133 [info] Querying process information for pshost using descriptor: [object Object] and got {"ProcessId":36014,"ProcessPath":"/home/kiwann/.vscode/extensions/ms-dotnettools.csdevkit-3.40.210-linux-x64/components/vs-green-server/platforms/linux-x64/node_modules/@microsoft/visualstudio-code-servicehost.linux-x64/Microsoft.VisualStudio.Code.ServiceHost"}
+2026-09-27 18:40:20.134 [info] Discovered Project System Host (PID 36014) for pshost.
+2026-09-27 18:40:20.134 [info] Project System Host PID: 36014
+2026-09-27 18:40:22.311 [info] Completed: command: "/usr/share/dotnet/dotnet" restore /home/kiwann/.config/Code/User/workspaceStorage/e83f4bbd421bdf4d30cb137dc0b37e26/ms-dotnettools.csdevkit/learning.sln --interactive --nodereuse:false (3750ms)
+2026-09-27 18:40:22.312 [info] Completed: Restoring NuGet packages (3757ms)
