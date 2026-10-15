@@ -1,8 +1,0 @@
-{
-    "redhat.telemetry.enabled": true,
-    "files.autoSave": "afterDelay",
-    "workbench.iconTheme": "material-icon-theme",
-    "workbench.colorTheme": "Catppuccin Mocha",
-    "workbench.startupEditor": "none",
-    "editor.fontSize": 15
-}
