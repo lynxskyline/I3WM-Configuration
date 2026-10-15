@@ -1,7 +1,0 @@
-2026-09-27 18:40:08.171 [info] Getting Manifest... rust-lang.rust-analyzer
-2026-09-27 18:40:08.887 [info] Installing extension: rust-lang.rust-analyzer {"productVersion":{"version":"1.139.1","date":"2026-09-25T03:40:57Z"},"pinned":false,"operation":3,"isApplicationScoped":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/kiwann/.vscode/extensions/extensions.json","path":"/home/kiwann/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isBuiltin":false}
-2026-09-27 18:40:22.384 [info] Extension signature verification result for rust-lang.rust-analyzer: Success. Internal Code: 0. Executed: true. Duration: 2473ms.
-2026-09-27 18:40:23.816 [info] Extracted extension to file:///home/kiwann/.vscode/extensions/rust-lang.rust-analyzer-0.3.3057-linux-x64: rust-lang.rust-analyzer
-2026-09-27 18:40:23.834 [info] Renamed to /home/kiwann/.vscode/extensions/rust-lang.rust-analyzer-0.3.3057-linux-x64
-2026-09-27 18:40:23.949 [info] Marked extension as removed rust-lang.rust-analyzer-0.3.3049-linux-x64
-2026-09-27 18:40:24.011 [info] Extension installed successfully: rust-lang.rust-analyzer vscode-userdata:/home/kiwann/.vscode/extensions/extensions.json

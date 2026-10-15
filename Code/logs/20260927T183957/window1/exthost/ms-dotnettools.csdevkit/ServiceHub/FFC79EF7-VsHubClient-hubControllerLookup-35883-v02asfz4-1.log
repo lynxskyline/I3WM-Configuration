@@ -1,8 +1,0 @@
-﻿09/27/2026 18:40:17 Western Indonesia Time : Information : Local timezone is (UTC+07:00) Western Indonesia Time (Jakarta)
-09/27/2026 18:40:17 Western Indonesia Time : Information : Acquiring semaphore to try to start the Controller.
-09/27/2026 18:40:17 Western Indonesia Time : Information : Beginning to try to start the Controller.
-09/27/2026 18:40:17 Western Indonesia Time : Information : Starting hub controller
-09/27/2026 18:40:17 Western Indonesia Time : Information : Setting environment variable 'ServiceHubCurrentOsLocale' to 'en-US' in the "/home/kiwann/.vscode/extensions/ms-dotnettools.csdevkit-3.40.210-linux-x64/components/vs-green-server/platforms/linux-x64/node_modules/@microsoft/visualstudio-controller.linux-x64/Microsoft.VisualStudio.Code.ServiceController" process.
-09/27/2026 18:40:17 Western Indonesia Time : Information : Setting environment variable 'ServiceHubLocationServicePipeName' to 'b3574825db' in the "/home/kiwann/.vscode/extensions/ms-dotnettools.csdevkit-3.40.210-linux-x64/components/vs-green-server/platforms/linux-x64/node_modules/@microsoft/visualstudio-controller.linux-x64/Microsoft.VisualStudio.Code.ServiceController" process.
-09/27/2026 18:40:17 Western Indonesia Time : Information : Attempting to connect to location service pipe at 'b3574825db'.
-09/27/2026 18:40:17 Western Indonesia Time : Information : Hub controller started. PID 35954
